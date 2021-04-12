@@ -1,8 +1,8 @@
 ,cf_to_public_sector,cf_to_private_sector,cf_health,cf_family,cf_dept_dissatisfaction,cf_job_dissatisfaction,cf_interpersonal_conflict,cf_other,institute_recognition,institute_job_security,dept_workload,dept_work_life_balance,dept_work_environment,gender,age,service_years
 0,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,26–30,1 to 2 Years
-1,False,False,False,False,False,False,False,False,True,True,True,False,True,,,NaN
-2,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
-3,False,False,False,False,False,False,False,False,False,False,True,True,True,,,NaN
+1,False,False,False,False,False,False,False,False,True,True,True,False,True,Female,,NaN
+2,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
+3,False,False,False,False,False,False,False,False,False,False,True,True,True,Female,,NaN
 4,False,True,False,False,False,False,False,False,True,False,True,True,True,Male,41–45,3 to 4 Years
 5,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,7 to 10 Years
 6,False,True,False,True,False,False,False,True,True,True,True,True,True,Male,18-20,3 to 4 Years
@@ -15,30 +15,30 @@
 13,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,31–35,11 to 20 Years
 14,False,True,False,False,True,True,False,False,False,False,False,False,False,Female,31–35,7 to 10 Years
 15,False,False,False,False,False,False,False,True,False,False,True,True,True,Female,46–50,11 to 20 Years
-16,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+16,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
 17,True,False,False,False,False,True,False,False,False,False,False,False,False,Female,31–35,7 to 10 Years
-18,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
-19,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
-20,False,False,False,False,True,True,False,False,False,False,False,False,False,,,NaN
-21,False,True,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+18,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
+19,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
+20,False,False,False,False,True,True,False,False,False,False,False,False,False,Female,,NaN
+21,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
 22,True,False,False,False,False,False,False,True,False,False,False,False,True,Male,26–30,5 to 6 Years
 23,False,False,False,False,False,False,False,False,False,False,False,False,True,Female,26–30,Under 1 Year
 24,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,31–35,7 to 10 Years
 25,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,41–45,Under 1 Year
-26,False,True,False,False,True,True,False,False,False,False,False,False,True,,,NaN
+26,False,True,False,False,True,True,False,False,False,False,False,False,True,Male,,NaN
 27,True,False,False,False,False,False,False,False,False,False,False,False,True,Male,56+,20 Plus Years
-28,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+28,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,,NaN
 29,False,True,False,False,False,False,False,False,True,False,False,False,False,Female,31–35,Under 1 Year
-30,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+30,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,,NaN
 31,False,False,False,False,False,False,False,False,False,False,False,False,True,Female,26–30,Under 1 Year
 32,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,46–50,Under 1 Year
-33,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+33,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,,NaN
 34,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,56+,20 Plus Years
 35,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56+,11 to 20 Years
-36,True,True,False,False,False,False,False,True,False,False,False,False,False,,,NaN
-37,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
-38,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
-39,True,False,False,False,False,False,False,False,True,True,True,True,True,,,NaN
+36,True,True,False,False,False,False,False,True,False,False,False,False,False,Female,,NaN
+37,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,,NaN
+38,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
+39,True,False,False,False,False,False,False,False,True,True,True,True,True,Female,,NaN
 40,False,False,False,False,True,False,False,False,False,False,False,False,False,Female,26–30,Under 1 Year
 41,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,36–40,11 to 20 Years
 42,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,31–35,3 to 4 Years
@@ -49,16 +49,16 @@
 47,False,True,False,False,True,False,False,False,False,False,True,False,False,Male,31–35,Under 1 Year
 48,True,False,False,True,False,True,False,False,False,False,False,True,False,Female,31–35,7 to 10 Years
 49,False,True,False,False,False,False,False,False,False,True,True,False,False,Male,56+,3 to 4 Years
-50,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
-51,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+50,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,,NaN
+51,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,,NaN
 52,False,True,False,False,False,True,False,False,False,False,False,False,True,Female,41–45,3 to 4 Years
-53,True,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
-54,False,False,False,False,True,False,False,True,False,False,False,False,False,,,NaN
+53,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
+54,False,False,False,False,True,False,False,True,False,False,False,False,False,Male,,NaN
 55,False,True,False,False,False,False,False,False,False,False,True,True,True,Female,31–35,Under 1 Year
 56,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,26–30,3 to 4 Years
 57,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,26–30,3 to 4 Years
 58,False,False,False,False,False,True,False,False,False,False,True,False,False,Female,56+,3 to 4 Years
-59,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+59,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,,NaN
 60,False,False,False,False,False,False,False,True,True,True,False,False,False,Female,56+,3 to 4 Years
 61,False,False,False,False,False,False,False,False,True,True,True,True,True,Male,26–30,3 to 4 Years
 62,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,51-55,11 to 20 Years
@@ -67,14 +67,14 @@
 65,False,False,False,False,True,False,False,True,True,True,False,True,True,Female,21–25,Under 1 Year
 66,False,False,False,True,False,False,False,False,True,False,False,True,True,Female,31–35,1 to 2 Years
 67,False,False,False,False,False,False,False,False,True,False,False,True,False,Female,31–35,Under 1 Year
-68,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+68,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,,NaN
 69,False,True,False,False,False,False,False,False,False,False,False,False,True,Male,51-55,3 to 4 Years
 70,False,False,False,False,False,True,False,False,False,False,True,False,False,Female,51-55,3 to 4 Years
 71,True,False,False,False,True,False,False,False,False,False,False,False,False,Female,36–40,7 to 10 Years
 72,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,5 to 6 Years
 73,False,False,False,False,False,False,False,False,True,True,True,True,True,Female,41–45,Under 1 Year
 74,False,False,False,False,False,True,False,False,False,False,False,False,False,Female,18-20,Under 1 Year
-75,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+75,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
 76,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,51-55,3 to 4 Years
 77,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,51-55,1 to 2 Years
 78,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,31–35,1 to 2 Years
@@ -86,22 +86,22 @@
 84,False,False,False,True,False,False,False,False,False,True,False,False,False,Female,56+,3 to 4 Years
 85,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,26–30,7 to 10 Years
 86,False,True,True,False,True,True,True,False,False,False,False,False,True,Female,41–45,3 to 4 Years
-87,True,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+87,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
 88,False,True,False,False,False,False,False,False,True,False,False,False,True,Female,31–35,Under 1 Year
 89,True,False,False,False,False,False,False,False,False,False,False,False,True,Female,41–45,Under 1 Year
-90,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
-91,False,True,True,False,False,False,False,False,False,False,False,False,False,,,NaN
+90,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,,NaN
+91,False,True,True,False,False,False,False,False,False,False,False,False,False,Female,,NaN
 92,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,31–35,11 to 20 Years
 93,False,True,False,False,False,False,False,False,False,False,False,False,False,Male,56+,11 to 20 Years
-94,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+94,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
 95,False,False,False,False,False,False,False,False,False,True,False,False,False,Male,51-55,Under 1 Year
 96,False,True,False,False,False,True,False,True,False,False,False,False,False,Female,31–35,Under 1 Year
-97,True,False,False,False,True,True,True,False,False,False,False,False,False,,,NaN
+97,True,False,False,False,True,True,True,False,False,False,False,False,False,Male,,NaN
 98,False,False,False,False,False,True,False,False,False,False,False,True,True,Male,21–25,1 to 2 Years
 99,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56+,11 to 20 Years
 100,True,False,False,False,True,False,False,False,False,False,False,False,False,Female,46–50,5 to 6 Years
-101,False,False,True,False,True,False,True,False,False,False,False,False,False,,,NaN
-102,False,False,True,False,True,False,True,False,False,False,False,False,False,,,NaN
+101,False,False,True,False,True,False,True,False,False,False,False,False,False,Female,,NaN
+102,False,False,True,False,True,False,True,False,False,False,False,False,False,Female,,NaN
 103,False,False,False,True,True,True,True,False,False,False,False,False,False,Female,36–40,Under 1 Year
 104,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,36–40,11 to 20 Years
 105,False,True,False,False,False,False,False,False,False,False,False,False,False,Male,41–45,3 to 4 Years
@@ -109,10 +109,10 @@
 107,False,True,False,False,False,False,False,False,False,False,False,False,False,Male,36–40,Under 1 Year
 108,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,41–45,1 to 2 Years
 109,True,False,False,False,False,False,False,True,False,False,False,True,True,Female,26–30,Under 1 Year
-110,True,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
-111,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
-112,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
-113,False,False,False,False,True,False,False,False,False,False,False,False,False,,,NaN
+110,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
+111,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
+112,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
+113,False,False,False,False,True,False,False,False,False,False,False,False,False,Female,,NaN
 114,False,True,False,False,False,True,False,False,False,False,False,True,False,Female,26–30,7 to 10 Years
 115,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,21–25,Under 1 Year
 116,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,56+,11 to 20 Years
@@ -129,21 +129,21 @@
 127,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,46–50,7 to 10 Years
 128,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,46–50,3 to 4 Years
 129,False,True,False,False,False,False,False,True,False,False,False,False,False,Female,21–25,1 to 2 Years
-130,False,False,False,True,False,False,False,False,False,False,False,False,False,,,NaN
+130,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,,NaN
 131,False,False,True,False,False,False,False,True,True,True,False,True,True,Female,41–45,1 to 2 Years
 132,False,False,True,False,False,False,False,False,True,True,False,False,True,Female,51-55,Under 1 Year
 133,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,36–40,3 to 4 Years
 134,False,False,False,False,True,True,False,False,False,False,False,False,False,Female,51-55,3 to 4 Years
-135,False,False,False,False,True,False,False,False,False,False,False,False,False,,,NaN
+135,False,False,False,False,True,False,False,False,False,False,False,False,False,Male,,NaN
 136,False,True,False,False,False,False,False,False,True,False,True,True,True,Male,46–50,5 to 6 Years
 137,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,21–25,3 to 4 Years
-138,False,True,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+138,False,True,False,False,False,False,False,False,False,False,False,False,False,Male,,NaN
 139,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,51-55,11 to 20 Years
 140,False,False,False,False,False,False,False,False,False,True,True,False,False,Female,41–45,3 to 4 Years
 141,False,False,True,False,False,False,True,False,False,False,False,False,False,Female,51-55,20 Plus Years
 142,False,False,False,False,False,False,False,False,False,False,True,False,False,Female,31–35,Under 1 Year
 143,False,False,False,False,True,False,False,False,False,False,False,False,False,Male,56+,20 Plus Years
-144,True,False,False,False,True,False,True,False,False,False,False,False,False,,,NaN
+144,True,False,False,False,True,False,True,False,False,False,False,False,False,Male,,NaN
 145,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,31–35,1 to 2 Years
 146,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,31–35,Under 1 Year
 147,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,56+,20 Plus Years
@@ -155,7 +155,7 @@
 153,True,False,False,False,False,False,False,False,True,True,True,False,True,Male,18-20,Under 1 Year
 154,False,False,False,False,False,False,False,False,False,False,True,True,True,Female,51-55,Under 1 Year
 155,False,False,False,False,True,False,False,False,False,False,False,False,False,Male,56+,11 to 20 Years
-156,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+156,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
 157,False,False,False,False,False,True,False,False,False,False,False,False,False,Male,56+,20 Plus Years
 158,False,False,True,True,False,False,False,False,False,False,False,False,True,Female,56+,7 to 10 Years
 159,True,False,False,False,True,False,False,False,False,False,False,False,False,Female,21–25,Under 1 Year
@@ -168,11 +168,11 @@
 166,False,False,False,False,True,True,False,False,False,False,False,False,False,Male,56+,11 to 20 Years
 167,True,False,False,False,False,False,False,False,False,False,False,True,False,Female,41–45,5 to 6 Years
 168,False,False,False,False,False,False,False,True,True,False,False,False,False,Female,51-55,Under 1 Year
-169,False,False,False,False,True,True,False,False,False,False,False,False,False,,,NaN
+169,False,False,False,False,True,True,False,False,False,False,False,False,False,Female,,NaN
 170,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,56+,1 to 2 Years
 171,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,36–40,Under 1 Year
 172,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,46–50,1 to 2 Years
-173,False,False,False,False,False,True,False,False,False,False,False,False,False,,,NaN
+173,False,False,False,False,False,True,False,False,False,False,False,False,False,Male,,NaN
 174,False,False,False,False,False,False,False,False,False,False,False,False,True,Female,21–25,3 to 4 Years
 175,True,False,False,False,False,False,False,False,True,True,True,True,False,Male,21–25,1 to 2 Years
 176,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56+,11 to 20 Years
@@ -197,14 +197,14 @@
 195,False,False,False,True,False,True,False,False,False,False,False,False,False,Female,51-55,20 Plus Years
 196,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,41–45,1 to 2 Years
 197,True,False,False,False,False,False,False,True,False,False,False,False,False,Female,41–45,3 to 4 Years
-198,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+198,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
 199,False,False,False,False,False,False,False,False,False,False,True,False,True,Female,26–30,1 to 2 Years
 200,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,21–25,Under 1 Year
 201,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,26–30,3 to 4 Years
 202,False,False,True,False,False,False,False,True,False,False,False,False,False,Female,56+,7 to 10 Years
 203,False,False,False,False,False,True,False,False,False,False,False,False,False,Female,41–45,Under 1 Year
-204,False,False,False,False,True,False,True,False,False,False,False,False,False,,,NaN
-205,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+204,False,False,False,False,True,False,True,False,False,False,False,False,False,Female,,NaN
+205,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
 206,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56+,11 to 20 Years
 207,True,False,False,False,False,False,False,True,True,False,True,True,False,Female,31–35,1 to 2 Years
 208,False,True,False,False,False,True,False,False,False,False,False,False,False,Female,21–25,1 to 2 Years
@@ -215,7 +215,7 @@
 213,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,18-20,Under 1 Year
 214,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,51-55,Under 1 Year
 215,False,True,False,False,False,False,False,False,False,False,False,False,False,Male,36–40,Under 1 Year
-216,False,False,False,False,False,False,False,True,False,False,False,False,False,,,NaN
+216,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,,NaN
 217,False,False,False,False,False,False,False,True,False,False,True,False,True,Female,21–25,1 to 2 Years
 218,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,51-55,1 to 2 Years
 219,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56+,7 to 10 Years
@@ -229,11 +229,11 @@
 227,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,36–40,3 to 4 Years
 228,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,26–30,3 to 4 Years
 229,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,51-55,1 to 2 Years
-230,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+230,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
 231,False,False,False,False,False,False,False,False,False,False,True,False,False,Male,31–35,1 to 2 Years
 232,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,51-55,Under 1 Year
 233,False,False,False,False,False,False,False,False,False,True,False,True,True,Female,18-20,Under 1 Year
-234,False,False,False,False,False,True,False,False,False,False,False,False,False,,,NaN
+234,False,False,False,False,False,True,False,False,False,False,False,False,False,Female,,NaN
 235,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,21–25,3 to 4 Years
 236,False,False,False,False,False,False,False,False,True,True,True,False,True,Female,51-55,Under 1 Year
 237,False,False,False,False,True,True,True,False,False,False,False,False,False,Female,36–40,1 to 2 Years
@@ -242,7 +242,7 @@
 240,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,51-55,Under 1 Year
 241,False,True,False,False,False,True,False,False,False,False,False,False,False,Female,21–25,3 to 4 Years
 242,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,36–40,Under 1 Year
-243,False,False,False,False,False,False,False,True,False,False,False,False,False,,,NaN
+243,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,,NaN
 244,False,False,False,False,False,False,False,False,False,False,True,False,False,Female,18-20,Under 1 Year
 245,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,41–45,Under 1 Year
 246,False,False,False,False,False,False,True,False,False,False,False,False,False,Female,18-20,1 to 2 Years
@@ -250,14 +250,14 @@
 248,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,56+,3 to 4 Years
 249,False,False,False,False,False,False,False,False,True,True,True,True,True,Female,56+,1 to 2 Years
 250,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,41–45,7 to 10 Years
-251,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+251,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,,NaN
 252,False,False,False,False,False,False,False,False,True,True,True,True,True,Female,41–45,Under 1 Year
 253,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,41–45,Under 1 Year
 254,True,False,False,False,False,False,False,False,False,False,False,False,True,Female,21–25,3 to 4 Years
 255,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,36–40,1 to 2 Years
 256,True,False,False,False,False,False,False,False,False,False,True,True,True,Female,51-55,1 to 2 Years
-257,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
-258,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+257,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
+258,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
 259,False,False,False,False,False,False,True,False,False,False,False,False,False,Female,36–40,5 to 6 Years
 260,False,False,False,False,True,False,False,False,False,False,False,False,False,Female,46–50,3 to 4 Years
 261,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,46–50,Under 1 Year
@@ -275,10 +275,10 @@
 273,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,56+,5 to 6 Years
 274,False,True,False,False,False,False,False,False,False,False,False,False,False,Male,46–50,11 to 20 Years
 275,False,True,False,False,False,False,False,False,False,False,False,False,False,Male,26–30,1 to 2 Years
-276,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+276,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
 277,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,56+,20 Plus Years
 278,False,False,False,False,False,False,False,False,True,True,True,True,True,Female,51-55,11 to 20 Years
-279,False,False,True,False,False,False,False,False,False,False,False,False,False,,,NaN
+279,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,,NaN
 280,False,False,False,True,False,False,False,True,False,False,False,False,False,Female,56+,5 to 6 Years
 281,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,11 to 20 Years
 282,False,False,False,False,True,True,True,False,False,False,False,False,False,Female,56+,7 to 10 Years
@@ -286,10 +286,10 @@
 284,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,56+,20 Plus Years
 285,False,False,False,False,False,False,False,False,False,False,False,False,True,Male,56+,20 Plus Years
 286,False,False,False,False,False,False,False,False,False,False,True,False,False,Female,51-55,11 to 20 Years
-287,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+287,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
 288,False,False,False,False,False,True,False,False,False,False,False,True,True,Male,46–50,Under 1 Year
 289,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,41–45,3 to 4 Years
-290,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+290,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
 291,False,False,False,False,False,False,False,False,False,False,True,False,False,Male,56+,20 Plus Years
 292,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,56+,20 Plus Years
 293,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,46–50,Under 1 Year
@@ -304,10 +304,10 @@
 302,False,False,False,False,False,False,False,True,False,False,False,False,True,Male,56+,20 Plus Years
 303,False,False,False,False,True,True,False,False,False,False,False,False,False,Male,51-55,20 Plus Years
 304,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,56+,20 Plus Years
-305,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+305,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
 306,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,56+,11 to 20 Years
 307,False,False,False,True,False,False,False,False,False,False,False,False,False,Male,51-55,11 to 20 Years
-308,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+308,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,,NaN
 309,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,56+,11 to 20 Years
 310,False,False,False,False,True,False,False,False,False,False,False,False,False,Female,56+,20 Plus Years
 311,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,56+,20 Plus Years
@@ -323,12 +323,12 @@
 321,False,False,False,False,False,False,False,True,False,True,True,True,True,Female,31–35,3 to 4 Years
 322,False,False,False,False,False,False,False,False,False,False,False,True,True,Male,41–45,7 to 10 Years
 323,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,56+,11 to 20 Years
-324,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+324,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,,NaN
 325,False,False,False,False,False,False,False,True,False,True,False,True,False,Female,56+,20 Plus Years
 326,False,False,False,False,True,True,True,False,False,False,False,False,True,Male,51-55,20 Plus Years
 327,False,True,False,False,False,True,False,False,False,False,False,False,False,Male,46–50,11 to 20 Years
 328,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,56+,20 Plus Years
-329,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+329,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
 330,False,False,False,False,False,False,False,False,False,False,True,False,False,Male,56+,11 to 20 Years
 331,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56+,7 to 10 Years
 332,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,51-55,20 Plus Years
@@ -341,7 +341,7 @@
 339,False,False,False,False,True,False,False,False,False,False,False,False,False,Male,56+,20 Plus Years
 340,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56+,11 to 20 Years
 341,False,False,False,False,False,False,False,False,False,False,False,False,True,Female,46–50,1 to 2 Years
-342,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+342,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,,NaN
 343,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,51-55,20 Plus Years
 344,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56+,11 to 20 Years
 345,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,41–45,11 to 20 Years
@@ -352,7 +352,7 @@
 350,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,56+,7 to 10 Years
 351,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,11 to 20 Years
 352,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,36–40,Under 1 Year
-353,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+353,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
 354,False,False,False,False,True,False,False,False,False,False,True,True,False,Female,56+,20 Plus Years
 355,False,False,False,False,False,False,False,False,False,False,True,False,False,Female,31–35,5 to 6 Years
 356,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,56+,3 to 4 Years
@@ -365,20 +365,20 @@
 363,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,46–50,11 to 20 Years
 364,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56+,11 to 20 Years
 365,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,41–45,11 to 20 Years
-366,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
-367,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+366,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
+367,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,,NaN
 368,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,51-55,11 to 20 Years
 369,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,51-55,20 Plus Years
 370,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,56+,5 to 6 Years
 371,False,False,False,False,False,False,False,True,True,True,False,False,True,Female,51-55,Under 1 Year
 372,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,56+,20 Plus Years
-373,False,False,False,False,True,True,True,False,False,False,False,False,False,,,NaN
+373,False,False,False,False,True,True,True,False,False,False,False,False,False,Female,,NaN
 374,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,46–50,3 to 4 Years
 375,False,False,False,False,False,False,False,True,True,True,False,False,True,Female,41–45,1 to 2 Years
 376,False,False,True,False,False,False,False,False,False,False,True,True,True,Female,56+,7 to 10 Years
 377,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,41–45,3 to 4 Years
 378,False,False,False,False,False,False,False,False,True,False,False,False,False,Female,26–30,Under 1 Year
-379,False,False,False,False,False,False,False,False,True,True,False,False,True,,,NaN
+379,False,False,False,False,False,False,False,False,True,True,False,False,True,Female,,NaN
 380,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,46–50,Under 1 Year
 381,False,False,False,False,False,False,False,False,False,False,True,True,True,Female,51-55,3 to 4 Years
 382,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,41–45,3 to 4 Years
@@ -391,7 +391,7 @@
 389,True,False,False,True,False,False,False,False,False,False,False,False,False,Female,36–40,5 to 6 Years
 390,False,False,False,False,False,False,False,False,True,True,True,True,True,Female,18-20,Under 1 Year
 391,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56+,11 to 20 Years
-392,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+392,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
 393,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,56+,11 to 20 Years
 394,False,False,False,False,False,False,False,False,False,False,True,True,True,Male,41–45,1 to 2 Years
 395,False,False,False,False,True,False,False,False,False,False,False,False,False,Female,31–35,1 to 2 Years
@@ -411,10 +411,10 @@
 409,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,31–35,Under 1 Year
 410,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,51-55,7 to 10 Years
 411,False,False,False,False,True,False,False,False,False,False,False,False,False,Male,56+,5 to 6 Years
-412,False,False,False,False,False,True,False,False,False,False,False,False,False,,,NaN
+412,False,False,False,False,False,True,False,False,False,False,False,False,False,Male,,NaN
 413,True,False,False,False,False,False,False,False,False,False,True,False,True,Female,41–45,11 to 20 Years
 414,False,False,False,False,False,False,False,True,False,False,False,True,True,Female,56+,11 to 20 Years
-415,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+415,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
 416,False,False,False,False,False,False,False,True,False,False,True,True,True,Female,31–35,3 to 4 Years
 417,False,False,False,False,False,False,False,False,False,False,True,False,True,Female,26–30,Under 1 Year
 418,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,31–35,Under 1 Year
@@ -422,9 +422,9 @@
 420,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,1 to 2 Years
 421,False,True,False,False,False,True,False,False,False,False,False,False,False,Male,36–40,11 to 20 Years
 422,False,False,False,False,False,False,False,False,False,False,True,False,False,Female,56+,11 to 20 Years
-423,False,False,False,False,False,False,False,True,False,False,False,False,False,,,NaN
+423,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,,NaN
 424,False,False,False,False,False,False,False,True,False,False,False,False,True,Female,18-20,3 to 4 Years
-425,False,False,False,False,False,False,False,True,False,False,False,False,False,,,NaN
+425,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,,NaN
 426,False,False,False,False,False,False,False,False,False,False,True,True,True,Male,56+,Under 1 Year
 427,False,False,False,False,False,False,False,False,False,False,True,True,True,Female,51-55,3 to 4 Years
 428,False,False,False,False,False,False,False,False,True,False,True,True,True,Female,41–45,Under 1 Year
@@ -436,7 +436,7 @@
 434,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,21–25,1 to 2 Years
 435,False,False,False,False,False,False,False,False,False,False,True,True,True,Male,18-20,1 to 2 Years
 436,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,26–30,7 to 10 Years
-437,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+437,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,,NaN
 438,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,26–30,3 to 4 Years
 439,False,True,False,False,False,False,False,False,False,True,False,False,False,Female,26–30,Under 1 Year
 440,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,21–25,3 to 4 Years
@@ -445,7 +445,7 @@
 443,False,False,True,False,False,True,False,False,False,False,False,False,False,Male,56+,20 Plus Years
 444,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,31–35,Under 1 Year
 445,False,False,False,False,False,False,False,False,True,False,True,True,True,Female,56+,11 to 20 Years
-446,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+446,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
 447,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,46–50,Under 1 Year
 448,False,False,False,False,False,False,False,True,False,True,False,True,True,Female,56+,1 to 2 Years
 449,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,31–35,Under 1 Year
@@ -471,21 +471,21 @@
 469,True,False,False,False,False,False,False,False,False,False,True,False,False,Female,46–50,Under 1 Year
 470,False,False,False,False,False,True,False,False,False,False,False,False,False,Male,56+,20 Plus Years
 471,True,False,False,False,False,False,False,False,True,True,True,True,False,Female,51-55,Under 1 Year
-472,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+472,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,,NaN
 473,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,46–50,1 to 2 Years
 474,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,36–40,Under 1 Year
 475,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,31–35,Under 1 Year
-476,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+476,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,,NaN
 477,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,41–45,1 to 2 Years
 478,False,False,False,False,False,True,False,True,False,False,False,False,False,Female,36–40,5 to 6 Years
-479,False,False,False,False,False,False,False,False,False,False,True,True,False,,,NaN
+479,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,,NaN
 480,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,26–30,Under 1 Year
 481,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,56+,11 to 20 Years
 482,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,41–45,1 to 2 Years
 483,False,False,False,False,False,False,False,False,True,False,False,False,False,Male,41–45,1 to 2 Years
 484,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,41–45,Under 1 Year
 485,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,46–50,Under 1 Year
-486,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+486,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,,NaN
 487,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,56+,1 to 2 Years
 488,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,41–45,5 to 6 Years
 489,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,56+,Under 1 Year
@@ -512,8 +512,8 @@
 510,False,False,False,False,False,False,False,False,False,False,False,True,True,Female,31–35,Under 1 Year
 511,False,False,False,False,False,False,False,False,False,True,True,True,False,Male,56+,20 Plus Years
 512,False,False,True,False,True,False,False,False,False,False,False,False,False,Female,51-55,5 to 6 Years
-513,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
-514,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+513,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
+514,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,,NaN
 515,False,False,False,False,False,False,False,False,True,True,True,True,True,Female,51-55,1 to 2 Years
 516,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,21–25,1 to 2 Years
 517,False,False,False,False,False,False,False,True,True,False,True,True,True,Female,41–45,11 to 20 Years
@@ -529,16 +529,16 @@
 527,False,False,False,False,False,True,False,False,False,False,False,False,False,Male,56+,20 Plus Years
 528,False,False,False,False,False,True,True,False,False,False,False,False,False,Female,46–50,7 to 10 Years
 529,False,False,True,False,False,False,False,False,False,True,False,False,False,Female,56+,11 to 20 Years
-530,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+530,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,,NaN
 531,False,True,False,False,False,False,False,False,False,False,False,False,False,Male,41–45,Under 1 Year
 532,False,False,False,False,False,False,False,True,True,False,True,True,True,Male,26–30,3 to 4 Years
-533,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+533,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
 534,False,False,False,False,False,True,False,False,False,False,False,False,False,Female,21–25,1 to 2 Years
-535,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+535,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
 536,False,True,False,False,False,False,False,False,False,False,True,True,True,Female,26–30,1 to 2 Years
 537,False,True,False,False,False,False,False,False,False,False,False,True,True,Male,36–40,1 to 2 Years
 538,False,True,False,False,False,True,False,True,False,False,False,False,True,Female,21–25,1 to 2 Years
-539,False,False,True,False,False,False,False,False,False,False,False,False,False,,,NaN
+539,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,,NaN
 540,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56+,20 Plus Years
 541,False,False,False,False,False,False,False,False,False,False,True,True,True,Female,26–30,Under 1 Year
 542,False,True,False,False,False,False,False,False,True,True,True,True,True,Male,21–25,1 to 2 Years
@@ -547,12 +547,12 @@
 545,False,True,False,False,False,False,False,True,False,True,False,False,True,Male,51-55,1 to 2 Years
 546,False,True,False,False,False,False,False,False,False,False,False,False,False,Male,56+,3 to 4 Years
 547,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,36–40,Under 1 Year
-548,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+548,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,,NaN
 549,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,56+,11 to 20 Years
 550,False,True,False,False,False,True,False,True,False,False,False,False,False,Female,26–30,3 to 4 Years
 551,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,3 to 4 Years
 552,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,31–35,11 to 20 Years
-553,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+553,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,,NaN
 554,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,21–25,1 to 2 Years
 555,False,False,False,False,False,False,False,True,True,False,True,True,True,Female,36–40,11 to 20 Years
 556,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56+,Under 1 Year
@@ -564,13 +564,13 @@
 562,False,False,False,False,False,False,False,False,False,False,False,False,True,Male,56+,20 Plus Years
 563,False,True,False,False,False,False,False,True,True,False,True,True,True,Male,46–50,Under 1 Year
 564,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,5 to 6 Years
-565,True,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+565,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
 566,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56+,20 Plus Years
 567,False,False,False,True,False,False,False,False,False,False,False,False,False,Male,51-55,7 to 10 Years
 568,False,False,False,False,False,False,False,False,True,True,True,True,True,Female,56+,11 to 20 Years
 569,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,41–45,5 to 6 Years
 570,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56+,20 Plus Years
-571,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+571,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
 572,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,56+,20 Plus Years
 573,False,False,True,False,False,False,False,False,True,False,False,False,False,Male,36–40,7 to 10 Years
 574,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,31–35,Under 1 Year
@@ -578,9 +578,9 @@
 576,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,36–40,7 to 10 Years
 577,False,False,False,False,False,False,True,True,False,True,False,False,False,Female,36–40,Under 1 Year
 578,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,26–30,1 to 2 Years
-579,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+579,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,,NaN
 580,False,False,False,False,False,False,False,True,False,True,True,True,True,Female,31–35,Under 1 Year
-581,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+581,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
 582,False,False,False,False,False,False,False,False,True,False,True,False,False,Female,18-20,7 to 10 Years
 583,False,False,False,False,False,False,False,False,False,False,True,False,False,Male,51-55,7 to 10 Years
 584,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,18-20,11 to 20 Years
@@ -603,7 +603,7 @@
 601,False,False,False,False,False,False,False,False,False,False,False,False,True,Male,56+,1 to 2 Years
 602,False,True,False,False,False,False,False,False,False,False,False,False,False,Male,41–45,1 to 2 Years
 603,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,51-55,3 to 4 Years
-604,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+604,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
 605,False,False,False,False,False,False,False,False,False,False,True,True,True,Female,36–40,Under 1 Year
 606,False,True,False,False,False,True,False,False,False,False,False,False,False,Female,51-55,7 to 10 Years
 607,False,False,False,False,False,False,False,False,False,False,False,False,True,Male,56+,11 to 20 Years
@@ -615,29 +615,29 @@
 613,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,56+,11 to 20 Years
 614,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,46–50,1 to 2 Years
 615,False,False,False,False,False,False,False,False,False,False,False,False,True,Female,56+,11 to 20 Years
-616,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+616,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
 617,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56+,11 to 20 Years
 618,False,False,False,False,False,False,False,False,False,False,True,False,False,Male,31–35,3 to 4 Years
-619,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+619,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
 620,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56+,11 to 20 Years
-621,True,False,False,False,False,False,False,False,False,True,True,True,False,,,NaN
+621,True,False,False,False,False,False,False,False,False,True,True,True,False,Male,,NaN
 622,False,True,False,False,False,False,False,False,False,False,True,True,True,Male,36–40,5 to 6 Years
 623,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,46–50,7 to 10 Years
 624,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,51-55,Under 1 Year
-625,True,False,False,False,True,False,False,False,False,False,False,False,False,,,NaN
+625,True,False,False,False,True,False,False,False,False,False,False,False,False,Male,,NaN
 626,False,False,True,False,False,False,False,True,False,False,False,False,False,Female,41–45,3 to 4 Years
 627,False,False,False,False,True,False,False,False,False,False,False,False,False,Male,41–45,5 to 6 Years
-628,False,True,False,False,False,False,False,True,False,False,False,False,False,,,NaN
-629,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+628,False,True,False,False,False,False,False,True,False,False,False,False,False,Female,,NaN
+629,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,,NaN
 630,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,56+,5 to 6 Years
-631,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+631,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,,NaN
 632,False,False,False,False,False,False,False,False,True,True,True,True,True,Female,56+,11 to 20 Years
 633,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,56+,7 to 10 Years
 634,False,False,False,True,False,False,False,True,False,False,False,False,False,Female,41–45,3 to 4 Years
 635,True,False,False,False,False,False,False,True,False,False,False,False,False,Female,36–40,5 to 6 Years
 636,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,31–35,3 to 4 Years
 637,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,46–50,5 to 6 Years
-638,True,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+638,True,False,False,False,False,False,False,False,False,False,False,False,False,Male,,NaN
 639,False,True,False,False,False,False,False,False,False,False,True,False,True,Male,46–50,3 to 4 Years
 640,False,True,False,False,False,False,False,False,True,True,True,True,True,Female,21–25,3 to 4 Years
 641,False,False,True,False,True,False,False,True,False,False,False,False,False,Female,56+,11 to 20 Years
@@ -656,7 +656,7 @@
 654,False,True,False,False,False,True,True,False,False,False,False,False,False,Male,36–40,1 to 2 Years
 655,False,True,False,False,False,False,False,False,True,True,True,True,True,Female,26–30,Under 1 Year
 656,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56+,5 to 6 Years
-657,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+657,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
 658,False,False,False,False,False,False,True,False,False,False,False,False,False,Female,51-55,Under 1 Year
 659,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,46–50,1 to 2 Years
 660,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,41–45,3 to 4 Years
@@ -664,14 +664,14 @@
 662,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,56+,20 Plus Years
 663,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,21–25,1 to 2 Years
 664,False,False,False,False,False,False,False,False,False,False,True,True,True,Female,56+,20 Plus Years
-665,False,False,True,False,False,False,False,False,False,False,False,False,False,,,NaN
-666,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+665,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,,NaN
+666,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,,NaN
 667,False,False,False,False,False,False,False,False,False,False,False,False,True,Female,56+,20 Plus Years
 668,False,False,True,False,False,False,False,False,False,True,False,False,True,Male,56+,20 Plus Years
 669,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,26–30,3 to 4 Years
-670,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+670,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
 671,False,False,False,False,False,True,False,False,False,False,False,False,False,Female,46–50,Under 1 Year
-672,False,False,True,False,False,False,False,False,False,False,False,False,False,,,NaN
+672,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,,NaN
 673,False,False,False,False,False,False,False,False,False,False,True,False,True,Male,41–45,1 to 2 Years
 674,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,51-55,Under 1 Year
 675,False,False,False,False,True,True,True,True,False,False,False,False,False,Male,51-55,Under 1 Year
@@ -689,15 +689,15 @@
 687,False,False,False,False,False,False,False,False,False,False,True,False,False,Female,36–40,3 to 4 Years
 688,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,46–50,5 to 6 Years
 689,False,False,True,False,False,True,False,False,False,False,False,False,False,Male,41–45,Under 1 Year
-690,False,False,True,False,False,False,False,False,False,False,False,False,False,,,NaN
+690,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,,NaN
 691,False,False,True,False,False,False,False,False,True,True,False,True,False,Female,56+,3 to 4 Years
-692,False,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+692,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,,NaN
 693,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,26–30,1 to 2 Years
-694,False,True,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+694,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
 695,False,False,False,False,False,False,False,False,False,True,True,True,True,Female,56+,Under 1 Year
 696,False,True,False,False,False,False,False,False,False,False,False,False,False,Male,21–25,5 to 6 Years
 697,True,False,False,False,False,False,False,False,False,False,False,False,False,Male,51-55,1 to 2 Years
-698,True,False,False,False,False,False,False,False,False,False,False,False,False,,,NaN
+698,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,,NaN
 699,False,False,False,False,False,False,False,True,False,False,False,True,True,Female,51-55,5 to 6 Years
 700,False,False,False,False,False,False,False,False,False,True,False,False,False,Female,41–45,1 to 2 Years
 701,False,False,False,False,False,False,False,False,True,True,True,True,True,Female,26–30,3 to 4 Years
