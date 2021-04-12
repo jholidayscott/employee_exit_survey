@@ -1,0 +1,823 @@
+,record_id,job_position,leave_reason,cf_to_public_sector,cf_to_private_sector,cf_health,cf_family,cf_dept_dissatisfaction,cf_job_dissatisfaction,cf_interpersonal_conflict,cf_other,institute_recognition,institute_job_security,dept_workload,dept_work_life_balance,dept_work_environment,gender,age,job_status,service_years,service_years_x
+0,1,non_teaching_role,Ill Health Retirement,True,False,False,False,False,True,False,True,True,False,False,False,False,Male,56-60,A01-A04,7 to 10 Years,7 to 10 Years
+1,2,non_teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,False,False,False,False,Male,56-60,AO5-AO7,NaN,NaN
+2,3,non_teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,,1 to 2 Years,1 to 2 Years
+3,4,teaching_role,Resignation-Other reasons,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,Primary,5 to 6 Years,5 to 6 Years
+4,5,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,,20 Plus Years,20 Plus Years
+5,6,teaching_role,Resignation-Other reasons,False,True,False,True,False,False,False,False,False,False,False,False,False,Female,41-45,,11 to 20 Years,11 to 20 Years
+6,7,teaching_role,Age Retirement,False,False,False,False,True,True,False,False,False,False,False,False,False,Female,56-60,Secondary,5 to 6 Years,5 to 6 Years
+7,8,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,61 or older,,20 Plus Years,20 Plus Years
+8,9,teaching_role,Resignation-Other reasons,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,31-35,Secondary,3 to 4 Years,3 to 4 Years
+9,10,teaching_role,Resignation-Other employer,False,False,False,False,True,True,True,False,False,False,False,False,False,Female,46-50,,3 to 4 Years,3 to 4 Years
+10,11,teaching_role,Age Retirement,False,False,False,False,False,True,False,False,False,False,False,False,False,Male,61 or older,Primary,11 to 20 Years,11 to 20 Years
+11,12,teaching_role,Resignation-Move overseas/interstate,False,False,False,True,False,False,False,False,False,False,False,False,False,Male,31-35,Secondary,3 to 4 Years,3 to 4 Years
+12,13,teaching_role,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,36-40,Primary,11 to 20 Years,11 to 20 Years
+13,14,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,Primary,11 to 20 Years,11 to 20 Years
+14,15,teaching_role,Resignation-Other employer,False,False,False,False,True,True,False,False,False,False,False,False,False,Male,31-35,Secondary,1 to 2 Years,1 to 2 Years
+15,16,teaching_role,Voluntary Early Retirement (VER),False,False,True,False,False,False,False,False,False,False,False,False,False,Male,61 or older,Secondary,7 to 10 Years,7 to 10 Years
+16,17,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,True,False,False,False,False,Male,61 or older,,NaN,NaN
+17,18,teaching_role,Age Retirement,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,56-60,Primary,11 to 20 Years,11 to 20 Years
+18,19,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,5 to 6 Years,5 to 6 Years
+19,20,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,,20 Plus Years,20 Plus Years
+20,21,teaching_role,Resignation-Other employer,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56-60,Secondary,20 Plus Years,20 Plus Years
+21,22,non_teaching_role,Resignation-Other reasons,False,False,False,False,False,False,True,False,False,False,False,False,False,Female,51-55,,3 to 4 Years,3 to 4 Years
+22,23,non_teaching_role,Resignation-Other reasons,False,False,False,False,True,False,False,False,True,False,False,True,False,Female,46-50,,11 to 20 Years,11 to 20 Years
+23,24,teaching_role,Resignation-Other reasons,False,False,False,True,False,True,False,False,False,False,False,True,False,Female,61 or older,Primary,Under 1 Year,Under 1 Year
+24,25,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,20 Plus Years,20 Plus Years
+25,26,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,41-45,Primary,7 to 10 Years,7 to 10 Years
+26,27,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,True,False,Male,56-60,Primary,20 Plus Years,20 Plus Years
+27,28,non_teaching_role,Resignation-Other employer,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,21-25,AO5-AO7,1 to 2 Years,1 to 2 Years
+28,29,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56-60,,20 Plus Years,20 Plus Years
+29,30,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,Special Education,7 to 10 Years,7 to 10 Years
+30,31,teaching_role,Age Retirement,False,False,True,False,True,True,False,False,False,False,False,False,False,Female,56-60,Primary,20 Plus Years,20 Plus Years
+31,32,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,Secondary,20 Plus Years,20 Plus Years
+32,33,teaching_role,Age Retirement,False,False,True,False,False,False,True,False,False,False,False,True,False,Male,56-60,,11 to 20 Years,11 to 20 Years
+33,34,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,True,False,True,False,False,False,False,Male,36-40,Secondary,7 to 10 Years,7 to 10 Years
+34,35,non_teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,61 or older,,3 to 4 Years,3 to 4 Years
+35,36,teaching_role,Ill Health Retirement,False,False,True,False,True,False,False,False,False,False,False,False,False,Female,51-55,Special Education,11 to 20 Years,11 to 20 Years
+36,37,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,,11 to 20 Years,11 to 20 Years
+37,38,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,21-25,,1 to 2 Years,1 to 2 Years
+38,39,teaching_role,Other,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,,11 to 20 Years,11 to 20 Years
+39,40,teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,True,False,False,True,False,False,True,False,Female,21-25,,NaN,NaN
+40,41,teaching_role,Resignation-Other employer,True,False,False,False,False,False,False,False,False,False,False,False,False,Male,56-60,Primary,20 Plus Years,20 Plus Years
+41,42,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,True,False,False,False,False,True,False,Female,51-55,,11 to 20 Years,11 to 20 Years
+42,43,non_teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,41-45,,1 to 2 Years,1 to 2 Years
+43,44,teaching_role,Resignation-Other reasons,False,False,False,False,False,True,False,False,False,False,True,True,False,Male,51-55,Primary,20 Plus Years,20 Plus Years
+44,45,teaching_role,Age Retirement,False,True,False,False,True,False,False,False,False,False,True,False,False,Female,51-55,Primary,20 Plus Years,20 Plus Years
+45,46,teaching_role,Voluntary Early Retirement (VER),False,False,True,False,False,False,False,False,False,False,True,True,False,Female,46-50,Primary,11 to 20 Years,11 to 20 Years
+46,47,non_teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56-60,,3 to 4 Years,3 to 4 Years
+47,48,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,Secondary,11 to 20 Years,11 to 20 Years
+48,49,non_teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,21-25,,1 to 2 Years,1 to 2 Years
+49,50,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,Primary,5 to 6 Years,5 to 6 Years
+50,51,non_teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,21-25,,1 to 2 Years,1 to 2 Years
+51,52,non_teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,11 to 20 Years,11 to 20 Years
+52,53,teaching_role,Other,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,Secondary,20 Plus Years,20 Plus Years
+53,54,teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56-60,,NaN,NaN
+54,55,teaching_role,Age Retirement,False,False,True,False,False,True,False,False,True,False,False,False,False,Female,56-60,Special Education,3 to 4 Years,3 to 4 Years
+55,56,teaching_role,Resignation-Other employer,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,26-30,,3 to 4 Years,3 to 4 Years
+56,57,teaching_role,Age Retirement,False,False,False,False,False,True,False,False,False,False,False,True,False,Female,61 or older,,20 Plus Years,20 Plus Years
+57,58,teaching_role,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Male,46-50,Secondary,Under 1 Year,Under 1 Year
+58,59,teaching_role,Ill Health Retirement,False,False,True,False,False,True,False,False,False,False,True,False,False,Female,51-55,Primary,Under 1 Year,Under 1 Year
+59,60,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,,61 or older,Primary,NaN,NaN
+60,61,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,46-50,Primary,20 Plus Years,20 Plus Years
+61,62,non_teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,31-35,,1 to 2 Years,1 to 2 Years
+62,63,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,20 Plus Years,20 Plus Years
+63,64,non_teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,True,False,True,Male,56-60,,20 Plus Years,20 Plus Years
+64,65,teaching_role,Age Retirement,False,False,False,False,False,True,False,False,False,False,True,False,False,Male,61 or older,Primary,20 Plus Years,20 Plus Years
+65,66,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,61 or older,,20 Plus Years,20 Plus Years
+66,67,teaching_role,Other,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,61 or older,Secondary,5 to 6 Years,5 to 6 Years
+67,68,teaching_role,Other,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,26-30,,NaN,NaN
+68,69,teaching_role,Age Retirement,False,False,False,False,False,True,False,False,True,False,False,False,False,,61 or older,Primary,5 to 6 Years,5 to 6 Years
+69,70,non_teaching_role,Resignation-Other reasons,False,False,False,False,False,True,False,False,False,False,False,False,False,Female,36-40,AO5-AO7,NaN,NaN
+70,71,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,False,True,Female,56-60,Secondary,20 Plus Years,20 Plus Years
+71,72,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,,1 to 2 Years,1 to 2 Years
+72,73,teaching_role,Age Retirement,False,False,False,True,False,False,False,False,False,False,False,True,False,Female,56-60,,NaN,NaN
+73,74,non_teaching_role,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,26-30,AO5-AO7,1 to 2 Years,1 to 2 Years
+74,75,teaching_role,Age Retirement,False,False,False,False,True,False,False,False,False,False,False,True,False,Female,56-60,Primary,20 Plus Years,20 Plus Years
+75,76,non_teaching_role,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,26-30,A01-A04,Under 1 Year,Under 1 Year
+76,77,teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56-60,Primary,1 to 2 Years,1 to 2 Years
+77,78,non_teaching_role,Termination,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,51-55,AO5-AO7,5 to 6 Years,5 to 6 Years
+78,79,non_teaching_role,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,21-25,AO5-AO7,Under 1 Year,Under 1 Year
+79,80,non_teaching_role,Termination,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,26-30,AO5-AO7,1 to 2 Years,1 to 2 Years
+80,81,non_teaching_role,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,AO5-AO7,7 to 10 Years,7 to 10 Years
+81,82,non_teaching_role,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,21-25,,1 to 2 Years,1 to 2 Years
+82,83,teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,True,True,False,True,False,False,False,False,Female,51-55,,1 to 2 Years,1 to 2 Years
+83,84,non_teaching_role,Contract Expired,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,A01-A04,Under 1 Year,Under 1 Year
+84,85,non_teaching_role,Termination,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,AO5-AO7,1 to 2 Years,1 to 2 Years
+85,86,teaching_role,Age Retirement,False,False,False,False,True,False,False,False,True,False,True,False,False,Male,56-60,,20 Plus Years,20 Plus Years
+86,87,non_teaching_role,Termination,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56-60,A01-A04,1 to 2 Years,1 to 2 Years
+87,88,teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,26-30,Secondary,5 to 6 Years,5 to 6 Years
+88,89,non_teaching_role,Termination,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,46-50,AO5-AO7,1 to 2 Years,1 to 2 Years
+89,90,teaching_role,Age Retirement,False,False,True,False,False,False,False,False,False,False,False,True,False,Female,56-60,Primary,20 Plus Years,20 Plus Years
+90,91,teaching_role,Resignation-Other employer,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,,20 Plus Years,20 Plus Years
+91,92,teaching_role,Age Retirement,False,False,True,False,False,False,False,False,False,False,False,True,False,Male,56-60,Primary,20 Plus Years,20 Plus Years
+92,93,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,,3 to 4 Years,3 to 4 Years
+93,94,teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,True,False,False,True,False,False,True,False,Female,41-45,Secondary,7 to 10 Years,7 to 10 Years
+94,95,teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,False,True,True,False,Female,51-55,Primary,20 Plus Years,20 Plus Years
+95,96,teaching_role,Age Retirement,False,False,False,False,True,True,False,False,False,False,False,False,False,Male,51-55,Primary,3 to 4 Years,3 to 4 Years
+96,97,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,56-60,Primary,3 to 4 Years,3 to 4 Years
+97,98,NaN,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56-60,,11 to 20 Years,11 to 20 Years
+98,99,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,False,False,Male,61 or older,,7 to 10 Years,7 to 10 Years
+99,100,teaching_role,Resignation-Move overseas/interstate,False,False,False,True,False,False,False,False,False,False,False,True,False,Male,31-35,Secondary,1 to 2 Years,1 to 2 Years
+100,101,teaching_role,Resignation-Other reasons,False,False,False,False,True,True,False,False,False,False,False,True,False,Female,36-40,,3 to 4 Years,3 to 4 Years
+101,102,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,Primary,11 to 20 Years,11 to 20 Years
+102,103,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,Primary,5 to 6 Years,5 to 6 Years
+103,104,NaN,Resignation-Other reasons,False,False,False,False,True,True,False,False,True,False,False,False,False,Female,51-55,,3 to 4 Years,3 to 4 Years
+104,105,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,20 Plus Years,20 Plus Years
+105,106,teaching_role,Age Retirement,False,False,False,False,False,True,False,False,False,False,False,True,False,Female,56-60,,11 to 20 Years,11 to 20 Years
+106,107,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,True,False,True,False,Female,46-50,,NaN,NaN
+107,108,teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,True,False,Female,56-60,Special Education,7 to 10 Years,7 to 10 Years
+108,109,non_teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,31-35,,3 to 4 Years,3 to 4 Years
+109,110,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,A01-A04,NaN,NaN
+110,111,teaching_role,Ill Health Retirement,False,False,True,False,False,True,False,False,False,False,False,True,False,Female,61 or older,Primary,11 to 20 Years,11 to 20 Years
+111,112,teaching_role,Resignation-Other reasons,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,26-30,Special Education,7 to 10 Years,7 to 10 Years
+112,113,non_teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,False,True,Female,56-60,,5 to 6 Years,5 to 6 Years
+113,114,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56-60,,3 to 4 Years,3 to 4 Years
+114,115,teaching_role,Resignation-Move overseas/interstate,False,False,False,False,True,False,False,False,False,False,False,False,False,Female,41-45,,7 to 10 Years,7 to 10 Years
+115,116,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,Secondary,NaN,NaN
+116,117,NaN,Resignation-Other reasons,False,False,False,False,True,False,True,False,True,False,False,False,False,Male,56-60,,20 Plus Years,20 Plus Years
+117,118,teaching_role,Ill Health Retirement,False,False,False,False,False,True,False,False,False,False,False,False,False,Female,56-60,,20 Plus Years,20 Plus Years
+118,119,teaching_role,Resignation-Other employer,True,False,False,False,False,False,False,False,False,False,True,True,False,Female,46-50,Secondary,1 to 2 Years,1 to 2 Years
+119,120,non_teaching_role,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,31-35,AO5-AO7,1 to 2 Years,1 to 2 Years
+120,121,non_teaching_role,Termination,False,False,False,False,False,True,False,False,True,False,False,False,False,Female,26-30,AO5-AO7,3 to 4 Years,3 to 4 Years
+121,122,non_teaching_role,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,31-35,A01-A04,NaN,NaN
+122,123,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,Secondary,20 Plus Years,20 Plus Years
+123,124,non_teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,,,,NaN,NaN
+124,125,non_teaching_role,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,True,Female,36-40,A01-A04,Under 1 Year,Under 1 Year
+125,126,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,,20 Plus Years,20 Plus Years
+126,127,teaching_role,Resignation-Other reasons,False,False,False,False,True,True,False,False,False,False,False,False,False,Male,51-55,Secondary,20 Plus Years,20 Plus Years
+127,128,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,51-55,Primary,20 Plus Years,20 Plus Years
+128,129,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56-60,,11 to 20 Years,11 to 20 Years
+129,130,teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,,11 to 20 Years,11 to 20 Years
+130,131,non_teaching_role,Resignation-Other employer,True,False,False,False,False,True,False,False,False,True,False,False,False,Male,51-55,AO5-AO7,Under 1 Year,Under 1 Year
+131,132,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,11 to 20 Years,11 to 20 Years
+132,133,non_teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,41-45,,1 to 2 Years,1 to 2 Years
+133,134,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,NaN,NaN
+134,135,non_teaching_role,Voluntary Early Retirement (VER),False,True,False,False,False,False,False,False,False,False,True,True,False,Male,46-50,,20 Plus Years,20 Plus Years
+135,136,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,,11 to 20 Years,11 to 20 Years
+136,137,teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56-60,,NaN,NaN
+137,138,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,,11 to 20 Years,11 to 20 Years
+138,139,teaching_role,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,,7 to 10 Years,7 to 10 Years
+139,140,teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,56-60,Secondary,11 to 20 Years,11 to 20 Years
+140,141,teaching_role,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,51-55,,NaN,NaN
+141,142,teaching_role,Age Retirement,False,False,True,False,False,False,False,False,False,False,True,True,False,Male,56-60,Primary,NaN,NaN
+142,143,teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,61 or older,,3 to 4 Years,3 to 4 Years
+143,144,teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,61 or older,,NaN,NaN
+144,145,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,False,False,Female,56-60,Primary,20 Plus Years,20 Plus Years
+145,146,non_teaching_role,Resignation-Other reasons,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,61 or older,,5 to 6 Years,5 to 6 Years
+146,147,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,Primary,NaN,NaN
+147,148,non_teaching_role,Resignation-Other employer,False,True,False,False,False,False,False,False,False,True,False,False,False,Male,26-30,A01-A04,7 to 10 Years,7 to 10 Years
+148,149,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,11 to 20 Years,11 to 20 Years
+149,150,non_teaching_role,Other,False,True,False,False,True,True,False,False,False,False,False,False,False,Female,26-30,A01-A04,3 to 4 Years,3 to 4 Years
+150,151,non_teaching_role,Termination,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,A01-A04,3 to 4 Years,3 to 4 Years
+151,152,teaching_role,Age Retirement,False,False,False,False,False,True,False,False,False,False,False,False,False,Male,61 or older,,NaN,NaN
+152,153,non_teaching_role,Other,False,False,False,False,False,True,False,False,False,True,False,False,False,Female,36-40,AO5-AO7,Under 1 Year,Under 1 Year
+153,154,non_teaching_role,Termination,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,36-40,AO5-AO7,3 to 4 Years,3 to 4 Years
+154,155,non_teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,True,False,False,False,Male,61 or older,AO5-AO7,7 to 10 Years,7 to 10 Years
+155,156,non_teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,True,False,False,False,True,False,False,False,Female,21-25,A01-A04,1 to 2 Years,1 to 2 Years
+156,157,non_teaching_role,Other,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,26-30,,1 to 2 Years,1 to 2 Years
+157,158,non_teaching_role,Other,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,21-25,AO5-AO7,1 to 2 Years,1 to 2 Years
+158,159,non_teaching_role,Resignation-Other employer,True,False,False,False,False,False,False,False,False,False,False,False,False,Male,21-25,A01-A04,1 to 2 Years,1 to 2 Years
+159,160,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,Primary,20 Plus Years,20 Plus Years
+160,161,non_teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,True,False,False,False,False,Female,41-45,,7 to 10 Years,7 to 10 Years
+161,162,non_teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,AO5-AO7,7 to 10 Years,7 to 10 Years
+162,163,non_teaching_role,Other,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,36-40,A01-A04,3 to 4 Years,3 to 4 Years
+163,164,non_teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,PO1-PO4,7 to 10 Years,7 to 10 Years
+164,165,teaching_role,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,True,False,Female,41-45,,3 to 4 Years,3 to 4 Years
+165,166,non_teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,True,False,False,False,Male,26-30,AO5-AO7,3 to 4 Years,3 to 4 Years
+166,167,non_teaching_role,Other,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,46-50,AO5-AO7,7 to 10 Years,7 to 10 Years
+167,168,non_teaching_role,Other,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,36-40,AO5-AO7,1 to 2 Years,1 to 2 Years
+168,169,non_teaching_role,Other,False,False,False,False,True,False,False,False,False,False,False,False,False,Female,61 or older,AO5-AO7,3 to 4 Years,3 to 4 Years
+169,170,teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,56-60,Secondary,NaN,NaN
+170,171,non_teaching_role,Other,False,False,False,False,False,True,True,False,False,False,True,True,False,Female,46-50,AO8 and Above,3 to 4 Years,3 to 4 Years
+171,172,non_teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,True,False,False,True,False,False,False,False,Male,46-50,PO1-PO4,11 to 20 Years,11 to 20 Years
+172,173,non_teaching_role,Other,False,False,False,False,False,False,False,False,True,False,False,False,False,Female,,A01-A04,3 to 4 Years,3 to 4 Years
+173,174,non_teaching_role,Other,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56-60,AO8 and Above,5 to 6 Years,5 to 6 Years
+174,175,non_teaching_role,Voluntary Early Retirement (VER),False,True,False,False,False,False,False,False,False,False,False,False,False,Female,31-35,A01-A04,5 to 6 Years,5 to 6 Years
+175,176,non_teaching_role,Voluntary Early Retirement (VER),False,False,False,True,False,False,False,False,False,True,False,False,False,Female,26-30,A01-A04,5 to 6 Years,5 to 6 Years
+176,177,non_teaching_role,Voluntary Early Retirement (VER),False,True,False,False,False,False,False,False,False,False,False,False,False,,26-30,A01-A04,3 to 4 Years,3 to 4 Years
+177,178,non_teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,True,False,False,False,False,False,False,False,Female,26-30,AO5-AO7,Under 1 Year,Under 1 Year
+178,179,non_teaching_role,Voluntary Early Retirement (VER),False,False,False,False,True,False,False,False,False,True,False,False,False,Male,41-45,A01-A04,1 to 2 Years,1 to 2 Years
+179,180,non_teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,36-40,,Under 1 Year,Under 1 Year
+180,181,non_teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,True,False,False,False,False,False,False,False,Female,26-30,AO5-AO7,Under 1 Year,Under 1 Year
+181,182,non_teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,False,False,False,False,Female,31-35,A01-A04,1 to 2 Years,1 to 2 Years
+182,183,non_teaching_role,Other,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,PO1-PO4,1 to 2 Years,1 to 2 Years
+183,184,non_teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,,11 to 20 Years,11 to 20 Years
+184,185,non_teaching_role,Other,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,41-45,A01-A04,5 to 6 Years,5 to 6 Years
+185,186,non_teaching_role,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,False,True,False,Female,31-35,,7 to 10 Years,7 to 10 Years
+186,187,non_teaching_role,Other,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,AO5-AO7,5 to 6 Years,5 to 6 Years
+187,188,non_teaching_role,Voluntary Early Retirement (VER),False,True,False,False,False,False,False,False,False,False,False,False,False,Female,26-30,AO5-AO7,3 to 4 Years,3 to 4 Years
+188,189,non_teaching_role,Other,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,26-30,AO5-AO7,3 to 4 Years,3 to 4 Years
+189,190,non_teaching_role,Resignation-Other employer,False,False,False,False,False,False,False,False,False,True,False,True,False,Female,41-45,AO8 and Above,5 to 6 Years,5 to 6 Years
+190,191,non_teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,True,False,False,True,False,False,False,False,Female,56-60,AO5-AO7,7 to 10 Years,7 to 10 Years
+191,192,non_teaching_role,Other,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,A01-A04,3 to 4 Years,3 to 4 Years
+192,193,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,True,False,False,False,False,False,False,Female,46-50,,11 to 20 Years,11 to 20 Years
+193,194,non_teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Male,31-35,AO8 and Above,Under 1 Year,Under 1 Year
+194,195,teaching_role,Age Retirement,False,False,False,True,False,False,False,False,False,False,True,True,False,Female,61 or older,Primary,20 Plus Years,20 Plus Years
+195,196,non_teaching_role,Resignation-Other employer,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,46-50,,1 to 2 Years,1 to 2 Years
+196,197,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,46-50,,NaN,NaN
+197,198,non_teaching_role,Resignation-Other employer,False,False,False,False,False,True,False,False,True,False,False,False,False,Female,31-35,A01-A04,7 to 10 Years,7 to 10 Years
+198,199,teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,46-50,Primary,11 to 20 Years,11 to 20 Years
+199,200,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,5 to 6 Years,5 to 6 Years
+200,201,non_teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,AO8 and Above,1 to 2 Years,1 to 2 Years
+201,202,teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,,NaN,NaN
+202,203,teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,True,Female,46-50,,7 to 10 Years,7 to 10 Years
+203,204,non_teaching_role,Other,False,False,False,False,False,False,False,False,False,False,False,False,True,Female,61 or older,,11 to 20 Years,11 to 20 Years
+204,205,non_teaching_role,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,21-25,A01-A04,1 to 2 Years,1 to 2 Years
+205,206,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,36-40,,5 to 6 Years,5 to 6 Years
+206,207,non_teaching_role,Termination,False,False,False,False,False,True,False,False,True,True,False,False,False,Male,51-55,AO5-AO7,7 to 10 Years,7 to 10 Years
+207,208,teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56-60,Special Education,NaN,NaN
+208,209,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,11 to 20 Years,11 to 20 Years
+209,210,teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,True,Female,46-50,Primary,7 to 10 Years,7 to 10 Years
+210,211,non_teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,51-55,PO1-PO4,5 to 6 Years,5 to 6 Years
+211,212,teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,,20 Plus Years,20 Plus Years
+212,213,teaching_role,Resignation-Other reasons,False,False,False,False,False,True,False,False,False,False,True,False,False,Male,61 or older,Secondary,11 to 20 Years,11 to 20 Years
+213,214,non_teaching_role,Other,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,,NaN,NaN
+214,215,non_teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,,1 to 2 Years,1 to 2 Years
+215,216,non_teaching_role,Termination,False,False,False,False,False,False,False,False,False,True,False,False,False,Male,51-55,AO8 and Above,1 to 2 Years,1 to 2 Years
+216,217,teaching_role,Age Retirement,False,False,False,False,False,True,False,False,False,False,True,True,False,Female,51-55,Primary,20 Plus Years,20 Plus Years
+217,218,teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56-60,Secondary,11 to 20 Years,11 to 20 Years
+218,219,teaching_role,Age Retirement,False,False,True,False,False,False,False,False,False,False,False,False,True,Female,51-55,Special Education,11 to 20 Years,11 to 20 Years
+219,220,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,True,False,False,True,False,Female,61 or older,Primary,11 to 20 Years,11 to 20 Years
+220,221,non_teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56-60,,1 to 2 Years,1 to 2 Years
+221,222,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,Primary,20 Plus Years,20 Plus Years
+222,223,non_teaching_role,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,36-40,AO5-AO7,1 to 2 Years,1 to 2 Years
+223,224,teaching_role,Resignation-Other reasons,False,False,False,False,True,False,True,False,False,True,False,False,False,,51-55,Primary,5 to 6 Years,5 to 6 Years
+224,225,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,36-40,Secondary,3 to 4 Years,3 to 4 Years
+225,226,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,,11 to 20 Years,11 to 20 Years
+226,227,non_teaching_role,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,26-30,A01-A04,1 to 2 Years,1 to 2 Years
+227,228,non_teaching_role,Voluntary Early Retirement (VER),False,False,False,False,True,False,False,False,False,False,False,True,False,Male,46-50,AO8 and Above,3 to 4 Years,3 to 4 Years
+228,229,non_teaching_role,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,False,True,False,Male,56-60,Primary,Under 1 Year,Under 1 Year
+229,230,teaching_role,Age Retirement,False,False,False,True,False,False,False,False,False,False,False,True,False,Female,56-60,Secondary,Under 1 Year,Under 1 Year
+230,231,non_teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,AO5-AO7,Under 1 Year,Under 1 Year
+231,232,non_teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,False,False,True,False,Male,56-60,AO5-AO7,7 to 10 Years,7 to 10 Years
+232,233,non_teaching_role,Other,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,36-40,A01-A04,7 to 10 Years,7 to 10 Years
+233,234,non_teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,False,False,True,False,Female,46-50,A01-A04,11 to 20 Years,11 to 20 Years
+234,235,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,11 to 20 Years,11 to 20 Years
+235,236,non_teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,21-25,,3 to 4 Years,3 to 4 Years
+236,237,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,51-55,Secondary,20 Plus Years,20 Plus Years
+237,238,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,,11 to 20 Years,11 to 20 Years
+238,239,non_teaching_role,Voluntary Early Retirement (VER),False,True,False,False,False,False,False,False,False,False,False,True,False,Male,51-55,AO5-AO7,7 to 10 Years,7 to 10 Years
+239,240,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,Primary,11 to 20 Years,11 to 20 Years
+240,241,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,11 to 20 Years,11 to 20 Years
+241,242,non_teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,56-60,,11 to 20 Years,11 to 20 Years
+242,243,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,51-55,A01-A04,11 to 20 Years,11 to 20 Years
+243,244,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,20 Plus Years,20 Plus Years
+244,245,non_teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,AO5-AO7,NaN,NaN
+245,246,non_teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,A01-A04,11 to 20 Years,11 to 20 Years
+246,247,non_teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,False,False,True,False,Female,51-55,A01-A04,20 Plus Years,20 Plus Years
+247,248,non_teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,26-30,PO1-PO4,5 to 6 Years,5 to 6 Years
+248,249,teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,31-35,Primary,1 to 2 Years,1 to 2 Years
+249,250,teaching_role,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,46-50,,Under 1 Year,Under 1 Year
+250,251,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,26-30,Primary,7 to 10 Years,7 to 10 Years
+251,252,teaching_role,Age Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,61 or older,Primary,3 to 4 Years,3 to 4 Years
+252,253,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,False,False,Male,61 or older,Secondary,1 to 2 Years,1 to 2 Years
+253,254,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,False,True,Female,51-55,,11 to 20 Years,11 to 20 Years
+254,255,teaching_role,Resignation-Other reasons,False,True,False,True,False,False,False,False,False,False,False,True,False,Female,31-35,Secondary,Under 1 Year,Under 1 Year
+255,256,non_teaching_role,Resignation-Other employer,False,True,False,False,False,False,False,False,False,True,False,False,False,Female,46-50,,Under 1 Year,Under 1 Year
+256,257,teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,46-50,,7 to 10 Years,7 to 10 Years
+257,258,non_teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,21-25,A01-A04,Under 1 Year,Under 1 Year
+258,259,teaching_role,Resignation-Other employer,False,True,False,False,False,False,False,False,True,False,False,False,False,Female,26-30,Secondary,5 to 6 Years,5 to 6 Years
+259,260,non_teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,True,False,False,True,False,False,False,False,Male,41-45,,3 to 4 Years,3 to 4 Years
+260,261,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,11 to 20 Years,11 to 20 Years
+261,262,non_teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,56-60,,1 to 2 Years,1 to 2 Years
+262,263,teaching_role,Resignation-Move overseas/interstate,False,True,False,False,False,False,False,False,False,False,False,True,False,Male,36-40,Secondary,1 to 2 Years,1 to 2 Years
+263,264,teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,21-25,Special Education,1 to 2 Years,1 to 2 Years
+264,265,non_teaching_role,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,20 or younger,,1 to 2 Years,1 to 2 Years
+265,266,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,,5 to 6 Years,5 to 6 Years
+266,267,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,,20 Plus Years,20 Plus Years
+267,268,non_teaching_role,Resignation-Other employer,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,36-40,,1 to 2 Years,1 to 2 Years
+268,269,teaching_role,Resignation-Move overseas/interstate,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,31-35,Secondary,Under 1 Year,Under 1 Year
+269,270,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,26-30,Secondary,1 to 2 Years,1 to 2 Years
+270,271,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,20 Plus Years,20 Plus Years
+271,272,non_teaching_role,Termination,False,False,False,False,False,True,False,False,True,False,False,False,False,Male,61 or older,AO8 and Above,7 to 10 Years,7 to 10 Years
+272,273,teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,True,False,False,Male,61 or older,,20 Plus Years,20 Plus Years
+273,274,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,Primary,5 to 6 Years,5 to 6 Years
+274,275,non_teaching_role,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,A01-A04,1 to 2 Years,1 to 2 Years
+275,276,non_teaching_role,Other,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,AO5-AO7,7 to 10 Years,7 to 10 Years
+276,277,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,,20 Plus Years,20 Plus Years
+277,278,non_teaching_role,Voluntary Early Retirement (VER),False,False,False,False,True,True,False,False,False,False,False,False,False,Female,56-60,,11 to 20 Years,11 to 20 Years
+278,279,non_teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Female,31-35,A01-A04,1 to 2 Years,1 to 2 Years
+279,280,non_teaching_role,Resignation-Other reasons,False,False,True,False,True,False,True,False,False,False,False,False,False,Female,61 or older,,11 to 20 Years,11 to 20 Years
+280,281,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,51-55,,11 to 20 Years,11 to 20 Years
+281,282,teaching_role,Age Retirement,False,False,False,False,True,True,True,False,False,False,False,False,False,Female,51-55,Primary,20 Plus Years,20 Plus Years
+282,283,non_teaching_role,Voluntary Early Retirement (VER),False,True,False,False,False,False,False,False,False,True,False,False,False,Female,26-30,AO5-AO7,Under 1 Year,Under 1 Year
+283,284,teaching_role,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,26-30,Secondary,5 to 6 Years,5 to 6 Years
+284,285,teaching_role,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,31-35,Secondary,3 to 4 Years,3 to 4 Years
+285,286,non_teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,,Under 1 Year,Under 1 Year
+286,287,teaching_role,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,,Under 1 Year,Under 1 Year
+287,288,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,,7 to 10 Years,7 to 10 Years
+288,289,non_teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,True,False,False,True,False,True,False,False,Female,26-30,AO5-AO7,NaN,NaN
+289,290,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,61 or older,Primary,20 Plus Years,20 Plus Years
+290,291,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,61 or older,,11 to 20 Years,11 to 20 Years
+291,292,teaching_role,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,56-60,,NaN,NaN
+292,293,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,,56-60,Primary,20 Plus Years,20 Plus Years
+293,294,non_teaching_role,Resignation-Move overseas/interstate,False,False,False,True,False,False,False,False,False,False,False,False,False,,61 or older,,NaN,NaN
+294,295,non_teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56-60,PO1-PO4,20 Plus Years,20 Plus Years
+295,296,teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,51-55,Special Education,7 to 10 Years,7 to 10 Years
+296,297,non_teaching_role,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Male,41-45,,3 to 4 Years,3 to 4 Years
+297,298,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,61 or older,,11 to 20 Years,11 to 20 Years
+298,299,teaching_role,Other,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,21-25,Primary,1 to 2 Years,1 to 2 Years
+299,300,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,A01-A04,11 to 20 Years,11 to 20 Years
+300,301,teaching_role,Resignation-Move overseas/interstate,False,True,False,False,False,False,False,False,False,False,False,True,False,Female,51-55,Primary,11 to 20 Years,11 to 20 Years
+301,302,non_teaching_role,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,46-50,,NaN,NaN
+302,303,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,,20 Plus Years,20 Plus Years
+303,304,non_teaching_role,Resignation-Other reasons,False,False,False,False,False,True,False,False,True,False,False,False,False,Male,51-55,,1 to 2 Years,1 to 2 Years
+304,305,teaching_role,Resignation-Other employer,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,46-50,Secondary,3 to 4 Years,3 to 4 Years
+305,306,non_teaching_role,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,41-45,AO5-AO7,1 to 2 Years,1 to 2 Years
+306,307,non_teaching_role,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,21-25,A01-A04,1 to 2 Years,1 to 2 Years
+307,308,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,5 to 6 Years,5 to 6 Years
+308,309,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,True,True,True,False,False,Male,51-55,Secondary,20 Plus Years,20 Plus Years
+309,310,teaching_role,Age Retirement,False,False,False,False,False,False,True,False,False,False,True,True,False,Female,51-55,Special Education,3 to 4 Years,3 to 4 Years
+310,311,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,,20 Plus Years,20 Plus Years
+311,312,teaching_role,Resignation-Other employer,False,False,False,False,True,True,False,False,False,False,False,False,False,Male,36-40,Secondary,5 to 6 Years,5 to 6 Years
+312,313,teaching_role,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,True,False,True,Female,36-40,Primary,1 to 2 Years,1 to 2 Years
+313,314,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,11 to 20 Years,11 to 20 Years
+314,315,teaching_role,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,Primary,7 to 10 Years,7 to 10 Years
+315,316,non_teaching_role,Other,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,61 or older,,NaN,NaN
+316,317,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,NaN,NaN
+317,318,teaching_role,Resignation-Other employer,False,True,False,False,False,False,True,False,False,False,False,False,False,Male,41-45,,20 Plus Years,20 Plus Years
+318,319,non_teaching_role,Resignation-Other reasons,False,False,False,False,False,True,False,False,False,False,True,True,False,Female,46-50,,Under 1 Year,Under 1 Year
+319,320,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,61 or older,Secondary,20 Plus Years,20 Plus Years
+320,321,non_teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,26-30,,1 to 2 Years,1 to 2 Years
+321,322,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,Primary,20 Plus Years,20 Plus Years
+322,323,teaching_role,Resignation-Other employer,False,True,False,False,True,False,False,False,False,False,False,False,False,Male,26-30,Middle,5 to 6 Years,5 to 6 Years
+323,324,non_teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,,11 to 20 Years,11 to 20 Years
+324,325,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,21-25,,1 to 2 Years,1 to 2 Years
+325,326,teaching_role,Resignation-Other employer,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,46-50,,7 to 10 Years,7 to 10 Years
+326,327,non_teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,36-40,,3 to 4 Years,3 to 4 Years
+327,328,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,20 Plus Years,20 Plus Years
+328,329,teaching_role,Age Retirement,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,56-60,Special Education,3 to 4 Years,3 to 4 Years
+329,330,teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,,,Secondary,NaN,NaN
+330,331,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,Secondary,20 Plus Years,20 Plus Years
+331,332,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,61 or older,,11 to 20 Years,11 to 20 Years
+332,333,non_teaching_role,Resignation-Other reasons,False,False,False,False,False,False,True,False,False,False,False,True,False,Female,21-25,,1 to 2 Years,1 to 2 Years
+333,334,non_teaching_role,Resignation-Other employer,False,False,False,False,False,False,False,False,False,True,False,False,False,Female,51-55,,Under 1 Year,Under 1 Year
+334,335,teaching_role,Age Retirement,False,False,False,False,False,True,False,False,False,False,False,True,False,Male,51-55,Secondary,NaN,NaN
+335,336,teaching_role,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,21-25,Primary,Under 1 Year,Under 1 Year
+336,337,non_teaching_role,Other,False,False,False,False,False,False,False,False,False,False,False,True,False,,,,NaN,NaN
+337,338,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,51-55,Secondary,11 to 20 Years,11 to 20 Years
+338,339,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,20 Plus Years,20 Plus Years
+339,340,teaching_role,Age Retirement,False,False,False,True,False,False,False,False,False,False,True,True,False,Male,56-60,,NaN,NaN
+340,341,teaching_role,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,False,True,False,Male,26-30,Primary,1 to 2 Years,1 to 2 Years
+341,342,teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,Primary,11 to 20 Years,11 to 20 Years
+342,343,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,,Under 1 Year,Under 1 Year
+343,344,non_teaching_role,Resignation-Other employer,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,41-45,,NaN,NaN
+344,345,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,11 to 20 Years,11 to 20 Years
+345,346,teaching_role,Resignation-Other employer,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,41-45,Primary,20 Plus Years,20 Plus Years
+346,347,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,Primary,NaN,NaN
+347,348,teaching_role,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,,3 to 4 Years,3 to 4 Years
+348,349,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,True,True,False,Male,56-60,Secondary,11 to 20 Years,11 to 20 Years
+349,350,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,51-55,Primary,NaN,NaN
+350,351,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,56-60,Primary,20 Plus Years,20 Plus Years
+351,352,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,20 Plus Years,20 Plus Years
+352,353,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,Primary,NaN,NaN
+353,354,teaching_role,Other,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,,1 to 2 Years,1 to 2 Years
+354,355,teaching_role,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,True,False,False,Male,26-30,Secondary,5 to 6 Years,5 to 6 Years
+355,356,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,,20 Plus Years,20 Plus Years
+356,357,teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,31-35,Secondary,1 to 2 Years,1 to 2 Years
+357,358,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56-60,,7 to 10 Years,7 to 10 Years
+358,359,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,Secondary,20 Plus Years,20 Plus Years
+359,360,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,A01-A04,20 Plus Years,20 Plus Years
+360,361,teaching_role,Contract Expired,False,False,False,False,False,False,False,False,False,True,False,False,False,Female,46-50,,Under 1 Year,Under 1 Year
+361,362,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,Secondary,20 Plus Years,20 Plus Years
+362,363,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,56-60,Primary,11 to 20 Years,11 to 20 Years
+363,364,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,AO8 and Above,7 to 10 Years,7 to 10 Years
+364,365,teaching_role,Other,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,46-50,Primary,NaN,NaN
+365,366,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,26-30,Secondary,NaN,NaN
+366,367,teaching_role,Resignation-Move overseas/interstate,False,True,False,False,False,False,False,False,True,False,False,False,False,Male,21-25,Secondary,3 to 4 Years,3 to 4 Years
+367,368,teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,21-25,Secondary,1 to 2 Years,1 to 2 Years
+368,369,teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,,11 to 20 Years,11 to 20 Years
+369,370,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56-60,Secondary,20 Plus Years,20 Plus Years
+370,371,teaching_role,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,26-30,Secondary,Under 1 Year,Under 1 Year
+371,372,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,,Under 1 Year,Under 1 Year
+372,373,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,Primary,NaN,NaN
+373,374,teaching_role,Age Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,61 or older,Special Education,Under 1 Year,Under 1 Year
+374,375,teaching_role,Resignation-Other employer,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,41-45,Secondary,11 to 20 Years,11 to 20 Years
+375,376,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,True,False,False,False,Female,46-50,,11 to 20 Years,11 to 20 Years
+376,377,teaching_role,Resignation-Move overseas/interstate,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,46-50,,5 to 6 Years,5 to 6 Years
+377,378,teaching_role,Resignation-Other employer,False,False,False,False,False,True,False,False,True,True,False,False,False,Female,46-50,,NaN,NaN
+378,379,teaching_role,Age Retirement,False,False,False,False,False,True,False,False,False,False,False,True,False,Male,51-55,,20 Plus Years,20 Plus Years
+379,380,teaching_role,Resignation-Move overseas/interstate,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,26-30,Primary,NaN,NaN
+380,381,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,Primary,7 to 10 Years,7 to 10 Years
+381,382,teaching_role,Resignation-Other employer,False,True,False,False,False,False,False,False,True,False,False,False,True,Female,26-30,Secondary,5 to 6 Years,5 to 6 Years
+382,383,non_teaching_role,Voluntary Early Retirement (VER),False,False,True,False,False,False,False,False,False,False,False,True,False,Male,56-60,AO8 and Above,3 to 4 Years,3 to 4 Years
+383,384,teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56-60,Special Education,11 to 20 Years,11 to 20 Years
+384,385,non_teaching_role,Contract Expired,False,False,False,False,False,True,False,False,False,False,True,False,False,Male,36-40,AO5-AO7,1 to 2 Years,1 to 2 Years
+385,386,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,Special Education,11 to 20 Years,11 to 20 Years
+386,387,teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,51-55,,20 Plus Years,20 Plus Years
+387,388,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,51-55,Primary,20 Plus Years,20 Plus Years
+388,389,teaching_role,Resignation-Move overseas/interstate,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,46-50,Secondary,5 to 6 Years,5 to 6 Years
+389,390,teaching_role,Resignation-Other employer,True,False,False,False,False,False,False,False,False,False,False,True,False,Female,46-50,Secondary,11 to 20 Years,11 to 20 Years
+390,391,teaching_role,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,46-50,Secondary,20 Plus Years,20 Plus Years
+391,392,teaching_role,Resignation-Other employer,False,True,False,False,False,True,True,False,False,False,False,False,False,Female,31-35,Secondary,5 to 6 Years,5 to 6 Years
+392,393,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,56-60,Primary,20 Plus Years,20 Plus Years
+393,394,teaching_role,Other,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,46-50,Secondary,3 to 4 Years,3 to 4 Years
+394,395,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56-60,Primary,20 Plus Years,20 Plus Years
+395,396,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56-60,Secondary,20 Plus Years,20 Plus Years
+396,397,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,51-55,Secondary,20 Plus Years,20 Plus Years
+397,398,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,11 to 20 Years,11 to 20 Years
+398,399,teaching_role,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,41-45,,1 to 2 Years,1 to 2 Years
+399,400,non_teaching_role,Resignation-Other employer,False,False,False,False,False,True,False,False,False,False,False,False,False,Male,56-60,,NaN,NaN
+400,401,teaching_role,Age Retirement,False,False,False,False,True,False,False,False,False,False,False,True,False,Female,56-60,Primary,20 Plus Years,20 Plus Years
+401,402,teaching_role,Age Retirement,False,False,False,False,False,True,False,False,False,False,False,True,False,Female,56-60,Primary,1 to 2 Years,1 to 2 Years
+402,403,teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,Primary,20 Plus Years,20 Plus Years
+403,404,non_teaching_role,Termination,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,46-50,,5 to 6 Years,5 to 6 Years
+404,405,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,51-55,Primary,11 to 20 Years,11 to 20 Years
+405,406,teaching_role,Resignation-Other reasons,False,False,False,True,False,False,True,False,False,False,False,False,False,,,Primary,NaN,NaN
+406,407,teaching_role,Resignation-Other reasons,False,False,True,False,False,False,False,False,True,False,False,False,False,Female,56-60,,20 Plus Years,20 Plus Years
+407,408,non_teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,61 or older,,1 to 2 Years,1 to 2 Years
+408,409,teaching_role,Resignation-Other reasons,False,True,False,True,True,True,True,False,True,False,False,True,True,Female,26-30,Primary,5 to 6 Years,5 to 6 Years
+409,410,teaching_role,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,36-40,,NaN,NaN
+410,411,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,26-30,Primary,5 to 6 Years,5 to 6 Years
+411,412,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,61 or older,Primary,NaN,NaN
+412,413,non_teaching_role,Resignation-Other reasons,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,41-45,,3 to 4 Years,3 to 4 Years
+413,414,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,Primary,20 Plus Years,20 Plus Years
+414,415,teaching_role,Resignation-Other employer,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,Primary,3 to 4 Years,3 to 4 Years
+415,416,teaching_role,Resignation-Move overseas/interstate,True,False,False,False,False,False,True,False,False,False,False,False,False,Male,26-30,Primary,Under 1 Year,Under 1 Year
+416,417,teaching_role,Resignation-Other reasons,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,61 or older,Special Education,20 Plus Years,20 Plus Years
+417,418,teaching_role,Resignation-Other reasons,False,True,False,False,False,False,False,False,False,False,True,True,False,Female,41-45,Primary,1 to 2 Years,1 to 2 Years
+418,419,teaching_role,Age Retirement,False,False,False,True,False,False,False,False,False,False,True,True,False,Male,56-60,,NaN,NaN
+419,420,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,,1 to 2 Years,1 to 2 Years
+420,421,teaching_role,Age Retirement,False,False,False,True,False,False,False,False,False,False,False,True,False,Female,61 or older,Primary,20 Plus Years,20 Plus Years
+421,422,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,Secondary,20 Plus Years,20 Plus Years
+422,423,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,,7 to 10 Years,7 to 10 Years
+423,424,teaching_role,Resignation-Other employer,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,31-35,,1 to 2 Years,1 to 2 Years
+424,425,teaching_role,Other,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,,7 to 10 Years,7 to 10 Years
+425,426,teaching_role,Other,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,26-30,,3 to 4 Years,3 to 4 Years
+426,427,teaching_role,Other,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,46-50,,1 to 2 Years,1 to 2 Years
+427,428,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,7 to 10 Years,7 to 10 Years
+428,429,non_teaching_role,Ill Health Retirement,False,False,False,False,False,False,False,False,False,False,True,False,False,Female,61 or older,,20 Plus Years,20 Plus Years
+429,430,teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,61 or older,,20 Plus Years,20 Plus Years
+430,431,teaching_role,Other,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,,7 to 10 Years,7 to 10 Years
+431,432,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,,11 to 20 Years,11 to 20 Years
+432,433,non_teaching_role,Resignation-Move overseas/interstate,False,False,False,False,True,True,False,False,True,True,True,False,False,Female,26-30,,3 to 4 Years,3 to 4 Years
+433,434,teaching_role,Resignation-Other reasons,False,False,False,False,True,False,False,False,False,False,True,False,False,Female,46-50,Primary,11 to 20 Years,11 to 20 Years
+434,435,teaching_role,Resignation-Other reasons,False,True,False,False,False,False,False,False,False,False,True,False,False,Female,26-30,,3 to 4 Years,3 to 4 Years
+435,436,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,,7 to 10 Years,7 to 10 Years
+436,437,teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,46-50,Secondary,11 to 20 Years,11 to 20 Years
+437,438,teaching_role,Resignation-Other reasons,False,False,True,False,False,True,False,False,False,False,False,False,False,Female,31-35,Special Education,11 to 20 Years,11 to 20 Years
+438,439,teaching_role,Resignation-Other employer,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,21-25,Secondary,NaN,NaN
+439,440,teaching_role,Resignation-Other reasons,False,False,False,False,True,False,False,False,True,False,False,False,False,Female,56-60,,3 to 4 Years,3 to 4 Years
+440,441,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,,11 to 20 Years,11 to 20 Years
+441,442,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,31-35,,3 to 4 Years,3 to 4 Years
+442,443,non_teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,56-60,,NaN,NaN
+443,444,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,,11 to 20 Years,11 to 20 Years
+444,445,teaching_role,Age Retirement,False,False,False,False,False,True,False,False,False,False,False,False,False,Female,61 or older,Secondary,7 to 10 Years,7 to 10 Years
+445,446,teaching_role,Ill Health Retirement,False,False,False,False,True,False,True,False,True,False,False,True,False,Male,61 or older,,3 to 4 Years,3 to 4 Years
+446,447,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,Primary,11 to 20 Years,11 to 20 Years
+447,448,non_teaching_role,Termination,False,True,False,False,True,False,False,False,False,False,False,False,False,Male,31-35,AO8 and Above,1 to 2 Years,1 to 2 Years
+448,449,non_teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,61 or older,,7 to 10 Years,7 to 10 Years
+449,450,teaching_role,Resignation-Other employer,False,False,False,False,True,False,False,False,False,False,False,False,False,Male,36-40,Primary,NaN,NaN
+450,451,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,61 or older,Primary,20 Plus Years,20 Plus Years
+451,452,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,21-25,,1 to 2 Years,1 to 2 Years
+452,453,teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,41-45,,5 to 6 Years,5 to 6 Years
+453,454,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,,NaN,NaN
+454,455,non_teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,A01-A04,Under 1 Year,Under 1 Year
+455,456,teaching_role,Other,False,False,True,False,False,True,False,False,False,False,True,True,False,Female,26-30,Secondary,3 to 4 Years,3 to 4 Years
+456,457,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,21-25,Primary,Under 1 Year,Under 1 Year
+457,458,teaching_role,Voluntary Early Retirement (VER),False,False,True,False,False,True,False,False,False,False,True,False,False,Female,56-60,Primary,20 Plus Years,20 Plus Years
+458,459,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,56-60,A01-A04,20 Plus Years,20 Plus Years
+459,460,non_teaching_role,Resignation-Move overseas/interstate,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,AO5-AO7,Under 1 Year,Under 1 Year
+460,461,non_teaching_role,Termination,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,,3 to 4 Years,3 to 4 Years
+461,462,teaching_role,Resignation-Other reasons,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,51-55,,3 to 4 Years,3 to 4 Years
+462,463,teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,Primary,20 Plus Years,20 Plus Years
+463,464,teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,True,True,False,Female,41-45,Primary,NaN,NaN
+464,465,teaching_role,Resignation-Other employer,False,False,False,False,False,False,False,False,False,True,False,False,False,Female,36-40,Primary,11 to 20 Years,11 to 20 Years
+465,466,teaching_role,Age Retirement,False,False,True,False,False,False,False,False,False,False,False,True,False,Female,56-60,Special Education,5 to 6 Years,5 to 6 Years
+466,467,teaching_role,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,False,True,False,Female,41-45,Secondary,Under 1 Year,Under 1 Year
+467,468,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,NaN,NaN
+468,469,non_teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,61 or older,,11 to 20 Years,11 to 20 Years
+469,470,teaching_role,Other,False,True,False,False,False,False,False,False,False,False,False,True,False,Female,21-25,Primary,Under 1 Year,Under 1 Year
+470,471,teaching_role,Resignation-Other reasons,False,False,True,False,False,False,False,False,False,False,False,True,False,Female,46-50,Primary,Under 1 Year,Under 1 Year
+471,472,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,True,False,False,False,True,False,False,Female,56-60,Secondary,NaN,NaN
+472,473,teaching_role,Age Retirement,False,False,False,False,False,True,False,False,False,False,True,True,False,Female,61 or older,,11 to 20 Years,11 to 20 Years
+473,474,teaching_role,Resignation-Other reasons,False,False,False,False,True,True,False,False,True,False,False,True,False,Female,51-55,Primary,11 to 20 Years,11 to 20 Years
+474,475,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,False,False,,61 or older,,3 to 4 Years,3 to 4 Years
+475,476,non_teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,61 or older,,7 to 10 Years,7 to 10 Years
+476,477,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,51-55,Secondary,1 to 2 Years,1 to 2 Years
+477,478,non_teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,46-50,,7 to 10 Years,7 to 10 Years
+478,479,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,Primary,NaN,NaN
+479,480,teaching_role,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,False,True,False,Female,26-30,Primary,Under 1 Year,Under 1 Year
+480,481,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,61 or older,,20 Plus Years,20 Plus Years
+481,482,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,41-45,,20 Plus Years,20 Plus Years
+482,483,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,,5 to 6 Years,5 to 6 Years
+483,484,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,True,False,False,Female,61 or older,,3 to 4 Years,3 to 4 Years
+484,485,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,,20 Plus Years,20 Plus Years
+485,486,teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,46-50,,1 to 2 Years,1 to 2 Years
+486,487,teaching_role,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,41-45,Primary,11 to 20 Years,11 to 20 Years
+487,488,teaching_role,Ill Health Retirement,False,False,True,False,False,False,True,False,False,False,False,False,False,Female,61 or older,,1 to 2 Years,1 to 2 Years
+488,489,teaching_role,Age Retirement,False,False,True,False,False,False,False,False,False,False,False,True,False,Female,61 or older,,20 Plus Years,20 Plus Years
+489,490,non_teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,46-50,,NaN,NaN
+490,491,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,61 or older,,1 to 2 Years,1 to 2 Years
+491,492,non_teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,True,False,Female,61 or older,PO1-PO4,7 to 10 Years,7 to 10 Years
+492,493,teaching_role,Resignation-Other reasons,False,False,False,False,False,True,False,False,False,False,False,False,False,,61 or older,Special Education,5 to 6 Years,5 to 6 Years
+493,494,teaching_role,Other,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,,11 to 20 Years,11 to 20 Years
+494,495,non_teaching_role,Resignation-Other employer,False,True,False,False,False,True,False,False,False,False,True,False,False,Female,56-60,,20 Plus Years,20 Plus Years
+495,496,non_teaching_role,Resignation-Other reasons,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,46-50,,1 to 2 Years,1 to 2 Years
+496,497,teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,True,True,False,Male,51-55,Secondary,1 to 2 Years,1 to 2 Years
+497,498,teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,36-40,Primary,3 to 4 Years,3 to 4 Years
+498,499,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,51-55,A01-A04,3 to 4 Years,3 to 4 Years
+499,500,non_teaching_role,Resignation-Move overseas/interstate,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,26-30,A01-A04,Under 1 Year,Under 1 Year
+500,501,teaching_role,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,31-35,Primary,11 to 20 Years,11 to 20 Years
+501,502,teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,True,False,False,,61 or older,Secondary,20 Plus Years,20 Plus Years
+502,503,teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56-60,,20 Plus Years,20 Plus Years
+503,504,teaching_role,Resignation-Other reasons,False,False,False,False,False,True,False,False,False,False,True,False,False,Male,61 or older,Secondary,Under 1 Year,Under 1 Year
+504,505,teaching_role,Resignation-Move overseas/interstate,False,True,False,False,False,False,False,False,False,False,False,False,False,Male,36-40,Secondary,1 to 2 Years,1 to 2 Years
+505,506,teaching_role,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,False,True,False,Female,46-50,Special Education,NaN,NaN
+506,507,non_teaching_role,Resignation-Other reasons,True,False,True,False,True,False,False,False,False,False,False,False,False,Female,21-25,A01-A04,3 to 4 Years,3 to 4 Years
+507,508,non_teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,46-50,A01-A04,11 to 20 Years,11 to 20 Years
+508,509,teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56-60,Primary,NaN,NaN
+509,510,teaching_role,Age Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,51-55,Primary,11 to 20 Years,11 to 20 Years
+510,511,non_teaching_role,Other,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,36-40,,Under 1 Year,Under 1 Year
+511,512,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,Secondary,20 Plus Years,20 Plus Years
+512,513,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,56-60,Secondary,20 Plus Years,20 Plus Years
+513,514,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,Secondary,20 Plus Years,20 Plus Years
+514,515,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,,7 to 10 Years,7 to 10 Years
+515,516,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,,11 to 20 Years,11 to 20 Years
+516,517,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,Primary,20 Plus Years,20 Plus Years
+517,518,teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,,31-35,,3 to 4 Years,3 to 4 Years
+518,519,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,True,False,Male,56-60,Primary,20 Plus Years,20 Plus Years
+519,520,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,,56-60,Primary,20 Plus Years,20 Plus Years
+520,521,teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,51-55,,11 to 20 Years,11 to 20 Years
+521,522,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56-60,,20 Plus Years,20 Plus Years
+522,523,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,61 or older,,11 to 20 Years,11 to 20 Years
+523,524,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56-60,Primary,11 to 20 Years,11 to 20 Years
+524,525,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,True,False,True,True,False,Female,61 or older,Secondary,3 to 4 Years,3 to 4 Years
+525,526,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,,11 to 20 Years,11 to 20 Years
+526,527,NaN,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,,1 to 2 Years,1 to 2 Years
+527,528,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,,20 Plus Years,20 Plus Years
+528,529,teaching_role,Ill Health Retirement,False,False,True,False,True,True,False,False,False,False,False,False,False,Male,61 or older,Primary,20 Plus Years,20 Plus Years
+529,530,non_teaching_role,Age Retirement,False,False,False,False,False,True,False,False,False,False,False,False,False,Male,61 or older,,NaN,NaN
+530,531,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,,61 or older,Primary,20 Plus Years,20 Plus Years
+531,532,non_teaching_role,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,False,True,False,Female,56-60,,NaN,NaN
+532,533,teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,False,True,True,False,Female,56-60,Secondary,11 to 20 Years,11 to 20 Years
+533,534,non_teaching_role,Resignation-Move overseas/interstate,False,True,False,False,False,False,False,False,False,False,False,False,False,Male,36-40,AO8 and Above,1 to 2 Years,1 to 2 Years
+534,535,non_teaching_role,Resignation-Other reasons,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56-60,,3 to 4 Years,3 to 4 Years
+535,536,teaching_role,Age Retirement,False,False,False,True,True,False,False,False,False,False,False,False,False,Female,56-60,Primary,11 to 20 Years,11 to 20 Years
+536,537,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,True,False,False,False,False,Female,46-50,,1 to 2 Years,1 to 2 Years
+537,538,teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,,11 to 20 Years,11 to 20 Years
+538,539,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,26-30,Primary,NaN,NaN
+539,540,non_teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,51-55,A01-A04,3 to 4 Years,3 to 4 Years
+540,541,teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,46-50,,7 to 10 Years,7 to 10 Years
+541,542,non_teaching_role,Resignation-Other reasons,False,False,False,False,False,True,False,False,True,False,False,False,False,Female,41-45,A01-A04,1 to 2 Years,1 to 2 Years
+542,543,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,5 to 6 Years,5 to 6 Years
+543,544,non_teaching_role,Resignation-Other employer,True,False,False,True,False,False,False,False,False,False,False,False,False,Female,21-25,PO1-PO4,1 to 2 Years,1 to 2 Years
+544,545,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,,3 to 4 Years,3 to 4 Years
+545,546,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,False,False,Male,56-60,Primary,11 to 20 Years,11 to 20 Years
+546,547,non_teaching_role,Other,False,False,True,True,False,False,False,False,False,False,False,False,False,Male,61 or older,,3 to 4 Years,3 to 4 Years
+547,548,teaching_role,Resignation-Other employer,True,False,False,False,True,True,False,False,False,False,False,False,False,Female,41-45,,1 to 2 Years,1 to 2 Years
+548,549,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,Secondary,20 Plus Years,20 Plus Years
+549,550,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,51-55,Secondary,20 Plus Years,20 Plus Years
+550,551,teaching_role,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,False,False,False,Male,36-40,Primary,7 to 10 Years,7 to 10 Years
+551,552,non_teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,41-45,,1 to 2 Years,1 to 2 Years
+552,553,teaching_role,Resignation-Other reasons,False,False,False,False,True,False,False,False,False,False,True,True,False,Female,56-60,Special Education,Under 1 Year,Under 1 Year
+553,554,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,Special Education,11 to 20 Years,11 to 20 Years
+554,555,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,Secondary,NaN,NaN
+555,556,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,Primary,20 Plus Years,20 Plus Years
+556,557,teaching_role,Age Retirement,False,False,True,False,False,False,False,False,False,False,False,True,False,Female,56-60,,3 to 4 Years,3 to 4 Years
+557,558,teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,True,False,True,True,False,Female,21-25,Middle,1 to 2 Years,1 to 2 Years
+558,559,teaching_role,Age Retirement,False,False,False,False,True,False,False,False,False,True,False,False,False,Male,61 or older,Primary,7 to 10 Years,7 to 10 Years
+559,560,teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,True,False,False,False,False,False,False,Female,61 or older,,11 to 20 Years,11 to 20 Years
+560,561,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,AO5-AO7,1 to 2 Years,1 to 2 Years
+561,562,teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,True,False,True,False,True,True,False,Male,56-60,,11 to 20 Years,11 to 20 Years
+562,563,non_teaching_role,Resignation-Move overseas/interstate,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,,1 to 2 Years,1 to 2 Years
+563,564,teaching_role,Resignation-Other reasons,False,False,False,False,True,False,False,False,True,False,True,True,False,Female,41-45,Secondary,1 to 2 Years,1 to 2 Years
+564,565,teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,False,False,True,False,Female,51-55,Secondary,11 to 20 Years,11 to 20 Years
+565,566,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,51-55,Secondary,11 to 20 Years,11 to 20 Years
+566,567,teaching_role,Age Retirement,False,False,False,False,False,True,False,False,False,False,False,True,False,Male,56-60,,20 Plus Years,20 Plus Years
+567,568,teaching_role,Age Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,61 or older,Primary,1 to 2 Years,1 to 2 Years
+568,569,teaching_role,Resignation-Other reasons,False,True,False,True,False,False,False,False,False,False,False,True,False,Female,46-50,,NaN,NaN
+569,570,non_teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,31-35,,3 to 4 Years,3 to 4 Years
+570,571,teaching_role,Other,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,41-45,,7 to 10 Years,7 to 10 Years
+571,572,non_teaching_role,Resignation-Other reasons,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,,5 to 6 Years,5 to 6 Years
+572,573,non_teaching_role,Termination,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56-60,,NaN,NaN
+573,574,non_teaching_role,Ill Health Retirement,False,False,True,False,True,False,False,False,False,False,False,False,True,Female,41-45,,1 to 2 Years,1 to 2 Years
+574,575,non_teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,AO5-AO7,5 to 6 Years,5 to 6 Years
+575,576,non_teaching_role,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,False,True,False,Female,31-35,AO5-AO7,7 to 10 Years,7 to 10 Years
+576,577,teaching_role,Resignation-Other reasons,False,True,False,True,False,False,False,False,False,False,False,False,False,Female,26-30,,NaN,NaN
+577,578,teaching_role,Resignation-Other employer,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,36-40,Primary,11 to 20 Years,11 to 20 Years
+578,579,teaching_role,Age Retirement,False,False,False,False,True,False,False,False,True,False,False,False,False,Male,61 or older,Secondary,7 to 10 Years,7 to 10 Years
+579,580,non_teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,56-60,,7 to 10 Years,7 to 10 Years
+580,581,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,,20 Plus Years,20 Plus Years
+581,582,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,11 to 20 Years,11 to 20 Years
+582,583,teaching_role,Age Retirement,False,False,True,False,False,False,False,False,False,False,False,True,False,Female,56-60,Secondary,11 to 20 Years,11 to 20 Years
+583,584,non_teaching_role,Age Retirement,False,False,False,False,False,True,True,False,False,False,False,False,False,Female,61 or older,,20 Plus Years,20 Plus Years
+584,585,non_teaching_role,Resignation-Other employer,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,51-55,,5 to 6 Years,5 to 6 Years
+585,586,teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,21-25,,Under 1 Year,Under 1 Year
+586,587,teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,51-55,Special Education,7 to 10 Years,7 to 10 Years
+587,588,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,Secondary,11 to 20 Years,11 to 20 Years
+588,589,non_teaching_role,Resignation-Other employer,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,31-35,,1 to 2 Years,1 to 2 Years
+589,590,non_teaching_role,Resignation-Other reasons,False,False,False,False,False,False,True,False,False,False,True,False,False,Male,61 or older,,20 Plus Years,20 Plus Years
+590,591,non_teaching_role,Resignation-Other employer,False,False,False,False,True,False,False,False,True,False,True,False,False,Female,31-35,,1 to 2 Years,1 to 2 Years
+591,592,non_teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,True,False,False,Female,51-55,,11 to 20 Years,11 to 20 Years
+592,593,non_teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,,3 to 4 Years,3 to 4 Years
+593,594,teaching_role,Resignation-Other reasons,False,False,True,True,False,True,False,False,False,False,True,True,False,Female,36-40,Secondary,3 to 4 Years,3 to 4 Years
+594,595,non_teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56-60,,NaN,NaN
+595,596,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,,7 to 10 Years,7 to 10 Years
+596,597,non_teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,11 to 20 Years,11 to 20 Years
+597,598,teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,False,True,False,False,Male,56-60,,20 Plus Years,20 Plus Years
+598,599,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,Primary,20 Plus Years,20 Plus Years
+599,600,teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,Secondary,11 to 20 Years,11 to 20 Years
+600,601,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,NaN,NaN
+601,602,non_teaching_role,Resignation-Other employer,False,False,False,False,False,True,True,False,False,False,False,False,False,Female,26-30,AO5-AO7,3 to 4 Years,3 to 4 Years
+602,603,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,5 to 6 Years,5 to 6 Years
+603,604,non_teaching_role,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,36-40,A01-A04,Under 1 Year,Under 1 Year
+604,605,non_teaching_role,Resignation-Other reasons,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,61 or older,,11 to 20 Years,11 to 20 Years
+605,606,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,3 to 4 Years,3 to 4 Years
+606,607,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,Secondary,11 to 20 Years,11 to 20 Years
+607,608,teaching_role,Resignation-Other reasons,False,False,False,False,True,True,False,False,False,False,False,False,False,Female,31-35,Primary,1 to 2 Years,1 to 2 Years
+608,609,teaching_role,Resignation-Other reasons,False,False,False,False,True,False,False,False,False,False,False,True,False,Female,31-35,Secondary,1 to 2 Years,1 to 2 Years
+609,610,teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,61 or older,Secondary,Under 1 Year,Under 1 Year
+610,611,teaching_role,Resignation-Other reasons,False,False,False,False,False,True,False,False,False,False,False,False,False,Female,61 or older,,20 Plus Years,20 Plus Years
+611,612,teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,61 or older,Secondary,20 Plus Years,20 Plus Years
+612,613,teaching_role,Resignation-Other reasons,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,51-55,Primary,11 to 20 Years,11 to 20 Years
+613,614,teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,26-30,,3 to 4 Years,3 to 4 Years
+614,615,teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,,11 to 20 Years,11 to 20 Years
+615,616,teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,51-55,Secondary,11 to 20 Years,11 to 20 Years
+616,617,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,True,Female,56-60,Secondary,20 Plus Years,20 Plus Years
+617,618,teaching_role,Resignation-Other reasons,False,False,False,False,False,True,False,False,True,False,True,False,False,Female,51-55,Secondary,5 to 6 Years,5 to 6 Years
+618,619,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,Secondary,11 to 20 Years,11 to 20 Years
+619,620,teaching_role,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,Special Education,7 to 10 Years,7 to 10 Years
+620,621,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,A01-A04,11 to 20 Years,11 to 20 Years
+621,622,teaching_role,Resignation-Other reasons,False,False,False,True,True,False,False,False,False,False,False,False,False,Female,51-55,Primary,1 to 2 Years,1 to 2 Years
+622,623,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,,5 to 6 Years,5 to 6 Years
+623,624,teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,Special Education,5 to 6 Years,5 to 6 Years
+624,625,teaching_role,Age Retirement,False,False,False,False,True,False,False,False,False,False,False,False,False,Female,56-60,,7 to 10 Years,7 to 10 Years
+625,626,non_teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,41-45,,1 to 2 Years,1 to 2 Years
+626,627,non_teaching_role,Resignation-Other reasons,False,True,False,False,False,True,False,False,False,False,False,False,False,Female,26-30,A01-A04,3 to 4 Years,3 to 4 Years
+627,628,teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,61 or older,,11 to 20 Years,11 to 20 Years
+628,629,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,Primary,7 to 10 Years,7 to 10 Years
+629,630,teaching_role,Age Retirement,False,False,False,False,True,False,True,False,True,False,False,False,False,Female,56-60,,20 Plus Years,20 Plus Years
+630,631,non_teaching_role,Age Retirement,False,False,True,False,False,False,False,False,False,False,False,True,False,Female,61 or older,,5 to 6 Years,5 to 6 Years
+631,632,teaching_role,Resignation-Other reasons,False,False,True,False,False,False,False,False,False,False,False,False,True,Male,41-45,,5 to 6 Years,5 to 6 Years
+632,633,teaching_role,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,Under 1 Year,Under 1 Year
+633,634,non_teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56-60,,20 Plus Years,20 Plus Years
+634,635,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,20 Plus Years,20 Plus Years
+635,636,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,51-55,Primary,20 Plus Years,20 Plus Years
+636,637,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,,11 to 20 Years,11 to 20 Years
+637,638,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,,Under 1 Year,Under 1 Year
+638,639,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,61 or older,Secondary,20 Plus Years,20 Plus Years
+639,640,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,,7 to 10 Years,7 to 10 Years
+640,641,teaching_role,Other,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,41-45,,5 to 6 Years,5 to 6 Years
+641,642,non_teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,,3 to 4 Years,3 to 4 Years
+642,643,teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,31-35,,3 to 4 Years,3 to 4 Years
+643,644,teaching_role,Voluntary Early Retirement (VER),False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56-60,Secondary,3 to 4 Years,3 to 4 Years
+644,645,teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,Special Education,5 to 6 Years,5 to 6 Years
+645,646,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,11 to 20 Years,11 to 20 Years
+646,647,non_teaching_role,Age Retirement,False,False,False,False,True,True,False,False,True,False,False,False,False,Male,51-55,AO5-AO7,11 to 20 Years,11 to 20 Years
+647,648,non_teaching_role,Resignation-Other reasons,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,51-55,,11 to 20 Years,11 to 20 Years
+648,649,non_teaching_role,Other,False,True,False,False,True,True,False,True,False,False,False,False,False,Female,51-55,,3 to 4 Years,3 to 4 Years
+649,650,teaching_role,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,51-55,,5 to 6 Years,5 to 6 Years
+650,651,teaching_role,Resignation-Other employer,False,True,False,False,False,False,True,False,False,False,False,False,False,Female,61 or older,,7 to 10 Years,7 to 10 Years
+651,652,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,51-55,Primary,1 to 2 Years,1 to 2 Years
+652,653,teaching_role,Resignation-Move overseas/interstate,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,61 or older,,11 to 20 Years,11 to 20 Years
+653,654,teaching_role,Age Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56-60,,Under 1 Year,Under 1 Year
+654,655,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,Special Education,11 to 20 Years,11 to 20 Years
+655,656,teaching_role,Age Retirement,False,False,True,False,False,False,False,False,False,False,False,True,False,Male,56-60,,11 to 20 Years,11 to 20 Years
+656,657,teaching_role,Other,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,26-30,,1 to 2 Years,1 to 2 Years
+657,658,teaching_role,Age Retirement,False,False,True,True,False,False,False,False,False,False,False,True,False,Female,51-55,Primary,20 Plus Years,20 Plus Years
+658,659,teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,,61 or older,Secondary,11 to 20 Years,11 to 20 Years
+659,660,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,Primary,NaN,NaN
+660,661,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,,NaN,NaN
+661,662,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,Secondary,3 to 4 Years,3 to 4 Years
+662,663,teaching_role,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,46-50,Primary,NaN,NaN
+663,665,non_teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,A01-A04,NaN,NaN
+664,666,teaching_role,Resignation-Other employer,True,False,False,False,False,False,False,False,False,False,False,True,False,Male,46-50,,1 to 2 Years,1 to 2 Years
+665,667,teaching_role,Age Retirement,False,False,False,False,True,True,False,False,True,False,False,True,False,Female,,Special Education,11 to 20 Years,11 to 20 Years
+666,668,non_teaching_role,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Male,21-25,A01-A04,1 to 2 Years,1 to 2 Years
+667,669,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,,1 to 2 Years,1 to 2 Years
+668,670,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,,61 or older,,11 to 20 Years,11 to 20 Years
+669,671,non_teaching_role,Resignation-Move overseas/interstate,False,True,False,False,False,True,False,False,False,False,False,False,False,Female,26-30,,Under 1 Year,Under 1 Year
+670,672,non_teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,21-25,,Under 1 Year,Under 1 Year
+671,673,teaching_role,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,Primary,3 to 4 Years,3 to 4 Years
+672,674,teaching_role,Age Retirement,False,False,False,False,True,False,False,False,False,False,True,True,False,Female,61 or older,Primary,11 to 20 Years,11 to 20 Years
+673,675,non_teaching_role,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,,Under 1 Year,Under 1 Year
+674,676,non_teaching_role,Age Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,51-55,,11 to 20 Years,11 to 20 Years
+675,677,non_teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,AO8 and Above,20 Plus Years,20 Plus Years
+676,678,teaching_role,Resignation-Other employer,False,True,False,False,False,False,False,False,True,False,False,False,False,Female,26-30,Secondary,3 to 4 Years,3 to 4 Years
+677,679,teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56-60,Secondary,20 Plus Years,20 Plus Years
+678,680,NaN,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,,1 to 2 Years,1 to 2 Years
+679,681,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,61 or older,,11 to 20 Years,11 to 20 Years
+680,682,non_teaching_role,Contract Expired,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,21-25,A01-A04,Under 1 Year,Under 1 Year
+681,683,teaching_role,Age Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,51-55,,11 to 20 Years,11 to 20 Years
+682,684,teaching_role,Resignation-Other employer,False,False,False,False,False,False,False,False,False,False,False,False,False,,46-50,Secondary,20 Plus Years,20 Plus Years
+683,685,teaching_role,Resignation-Other employer,False,True,False,False,False,False,False,False,True,False,False,False,False,Male,21-25,Primary,NaN,NaN
+684,686,non_teaching_role,Resignation-Other employer,False,False,False,False,False,False,True,False,False,False,False,False,False,Female,46-50,,7 to 10 Years,7 to 10 Years
+685,687,non_teaching_role,Resignation-Other employer,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,56-60,AO8 and Above,3 to 4 Years,3 to 4 Years
+686,688,teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56-60,Primary,NaN,NaN
+687,689,teaching_role,Resignation-Other reasons,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,46-50,,Under 1 Year,Under 1 Year
+688,690,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,,11 to 20 Years,11 to 20 Years
+689,691,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,Secondary,NaN,NaN
+690,692,teaching_role,Resignation-Move overseas/interstate,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,31-35,Secondary,7 to 10 Years,7 to 10 Years
+691,693,teaching_role,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,,1 to 2 Years,1 to 2 Years
+692,694,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,21-25,Secondary,1 to 2 Years,1 to 2 Years
+693,695,teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,41-45,Secondary,3 to 4 Years,3 to 4 Years
+694,696,teaching_role,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,46-50,,NaN,NaN
+695,697,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,61 or older,Primary,1 to 2 Years,1 to 2 Years
+696,698,teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,26-30,,5 to 6 Years,5 to 6 Years
+697,699,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,False,True,False,True,True,False,Female,51-55,,20 Plus Years,20 Plus Years
+698,700,non_teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,41-45,,3 to 4 Years,3 to 4 Years
+699,701,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,61 or older,,NaN,NaN
+700,702,non_teaching_role,Resignation-Other employer,True,False,False,False,False,False,False,False,False,False,False,False,False,Male,21-25,,Under 1 Year,Under 1 Year
+701,703,teaching_role,Resignation-Other reasons,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,46-50,Primary,20 Plus Years,20 Plus Years
+702,704,non_teaching_role,Other,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56-60,,7 to 10 Years,7 to 10 Years
+703,705,non_teaching_role,Resignation-Move overseas/interstate,False,False,False,False,True,False,True,False,False,False,False,False,False,Female,51-55,A01-A04,Under 1 Year,Under 1 Year
+704,706,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,,NaN,NaN
+705,707,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,61 or older,,NaN,NaN
+706,708,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,61 or older,,20 Plus Years,20 Plus Years
+707,709,non_teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,41-45,,5 to 6 Years,5 to 6 Years
+708,710,non_teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,,,NaN,NaN
+709,711,teaching_role,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,True,True,False,Female,51-55,Primary,NaN,NaN
+710,712,teaching_role,Other,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,56-60,,20 Plus Years,20 Plus Years
+711,713,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,61 or older,,20 Plus Years,20 Plus Years
+712,714,teaching_role,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,61 or older,,NaN,NaN
+713,715,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56-60,Special Education,11 to 20 Years,11 to 20 Years
+714,716,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,56-60,Primary,20 Plus Years,20 Plus Years
+715,717,teaching_role,Contract Expired,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,,Under 1 Year,Under 1 Year
+716,718,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,51-55,,11 to 20 Years,11 to 20 Years
+717,719,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,A01-A04,7 to 10 Years,7 to 10 Years
+718,720,non_teaching_role,Contract Expired,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,41-45,,NaN,NaN
+719,721,non_teaching_role,Contract Expired,False,False,False,False,False,False,True,False,True,True,False,False,False,Male,26-30,A01-A04,Under 1 Year,Under 1 Year
+720,722,non_teaching_role,Contract Expired,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,31-35,A01-A04,Under 1 Year,Under 1 Year
+721,723,non_teaching_role,Contract Expired,False,True,False,False,False,False,False,False,False,True,False,False,False,Male,21-25,A01-A04,Under 1 Year,Under 1 Year
+722,724,non_teaching_role,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,51-55,A01-A04,Under 1 Year,Under 1 Year
+723,725,non_teaching_role,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,31-35,A01-A04,Under 1 Year,Under 1 Year
+724,726,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,46-50,Primary,NaN,NaN
+725,727,non_teaching_role,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,26-30,A01-A04,NaN,NaN
+726,728,teaching_role,Resignation-Other employer,False,False,False,False,False,False,False,False,False,True,False,True,False,Male,56-60,,20 Plus Years,20 Plus Years
+727,729,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,51-55,Secondary,11 to 20 Years,11 to 20 Years
+728,730,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,56-60,Primary,1 to 2 Years,1 to 2 Years
+729,731,teaching_role,Age Retirement,False,False,False,False,True,False,True,False,False,False,False,True,False,Male,56-60,,NaN,NaN
+730,732,teaching_role,Resignation-Other employer,False,False,False,False,False,False,False,False,False,True,False,False,False,Female,46-50,,11 to 20 Years,11 to 20 Years
+731,733,non_teaching_role,Resignation-Other reasons,False,False,False,False,True,False,False,False,True,False,True,False,False,Male,56-60,,11 to 20 Years,11 to 20 Years
+732,734,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,61 or older,,20 Plus Years,20 Plus Years
+733,735,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,NaN,NaN
+734,736,teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,20 Plus Years,20 Plus Years
+735,737,non_teaching_role,Resignation-Move overseas/interstate,False,False,True,True,False,False,False,False,False,False,False,False,False,Female,61 or older,,NaN,NaN
+736,738,teaching_role,Age Retirement,False,False,True,False,False,False,False,False,False,False,False,True,False,Female,56-60,,11 to 20 Years,11 to 20 Years
+737,739,teaching_role,Resignation-Other reasons,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,56-60,Special Education,7 to 10 Years,7 to 10 Years
+738,740,teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,61 or older,,11 to 20 Years,11 to 20 Years
+739,741,teaching_role,Age Retirement,False,False,False,True,False,False,False,False,False,False,False,True,False,Female,56-60,Secondary,NaN,NaN
+740,742,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,,61 or older,Primary,NaN,NaN
+741,743,teaching_role,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,Primary,11 to 20 Years,11 to 20 Years
+742,744,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,51-55,Primary,11 to 20 Years,11 to 20 Years
+743,745,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,Primary,1 to 2 Years,1 to 2 Years
+744,746,non_teaching_role,Resignation-Other employer,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,A01-A04,7 to 10 Years,7 to 10 Years
+745,747,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56-60,,NaN,NaN
+746,748,teaching_role,Age Retirement,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,56-60,Middle,11 to 20 Years,11 to 20 Years
+747,749,teaching_role,Resignation-Move overseas/interstate,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,41-45,Primary,5 to 6 Years,5 to 6 Years
+748,750,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,Special Education,11 to 20 Years,11 to 20 Years
+749,751,teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,False,False,False,False,Female,51-55,Primary,NaN,NaN
+750,752,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,Primary,20 Plus Years,20 Plus Years
+751,753,non_teaching_role,Resignation-Other reasons,False,False,False,False,False,True,False,False,False,False,False,False,False,Male,61 or older,,7 to 10 Years,7 to 10 Years
+752,754,teaching_role,Resignation-Other reasons,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,46-50,,NaN,NaN
+753,755,teaching_role,Resignation-Other employer,False,False,True,False,False,True,False,False,False,False,False,True,False,Female,31-35,Primary,1 to 2 Years,1 to 2 Years
+754,756,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,,61 or older,A01-A04,NaN,NaN
+755,757,teaching_role,Resignation-Other employer,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,41-45,Primary,Under 1 Year,Under 1 Year
+756,758,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,A01-A04,11 to 20 Years,11 to 20 Years
+757,759,teaching_role,Age Retirement,False,False,False,False,True,True,False,False,False,False,False,True,False,Male,56-60,,20 Plus Years,20 Plus Years
+758,760,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,56-60,,11 to 20 Years,11 to 20 Years
+759,761,teaching_role,Voluntary Early Retirement (VER),False,False,False,False,True,True,False,False,False,False,False,False,False,Female,51-55,Secondary,11 to 20 Years,11 to 20 Years
+760,762,teaching_role,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,Special Education,NaN,NaN
+761,763,teaching_role,Other,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,51-55,Secondary,NaN,NaN
+762,764,teaching_role,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,Primary,Under 1 Year,Under 1 Year
+763,765,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,,7 to 10 Years,7 to 10 Years
+764,766,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,51-55,Primary,NaN,NaN
+765,767,teaching_role,Age Retirement,False,False,False,False,False,True,False,False,True,False,False,True,False,Male,51-55,Secondary,20 Plus Years,20 Plus Years
+766,768,teaching_role,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Male,26-30,Primary,7 to 10 Years,7 to 10 Years
+767,769,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,61 or older,Primary,20 Plus Years,20 Plus Years
+768,770,teaching_role,Ill Health Retirement,False,False,True,False,True,True,False,False,False,False,True,True,True,Male,56-60,,20 Plus Years,20 Plus Years
+769,771,teaching_role,Resignation-Other reasons,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,46-50,,NaN,NaN
+770,772,non_teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,NaN,NaN
+771,773,teaching_role,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Male,36-40,,7 to 10 Years,7 to 10 Years
+772,774,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,61 or older,,7 to 10 Years,7 to 10 Years
+773,775,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,A01-A04,NaN,NaN
+774,776,teaching_role,Resignation-Other employer,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,41-45,,NaN,NaN
+775,777,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,NaN,NaN
+776,778,non_teaching_role,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,31-35,A01-A04,NaN,NaN
+777,779,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,,56-60,,NaN,NaN
+778,780,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,20 Plus Years,20 Plus Years
+779,781,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,,20 Plus Years,20 Plus Years
+780,782,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,,NaN,NaN
+781,783,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,61 or older,,NaN,NaN
+782,784,teaching_role,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,Special Education,5 to 6 Years,5 to 6 Years
+783,785,teaching_role,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,NaN,NaN
+784,786,teaching_role,Resignation-Other reasons,False,True,False,False,False,True,False,False,True,False,False,True,False,Female,21-25,Secondary,Under 1 Year,Under 1 Year
+785,787,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,NaN,NaN
+786,788,teaching_role,Resignation-Other employer,False,True,False,False,False,True,False,False,False,True,False,False,False,Female,41-45,Secondary,5 to 6 Years,5 to 6 Years
+787,789,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,Secondary,NaN,NaN
+788,790,teaching_role,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,Secondary,NaN,NaN
+789,791,non_teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,,11 to 20 Years,11 to 20 Years
+790,792,teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,True,False,True,False,False,Male,36-40,Secondary,5 to 6 Years,5 to 6 Years
+791,793,non_teaching_role,Resignation-Other reasons,False,False,False,False,False,False,False,False,True,False,False,False,False,Female,46-50,A01-A04,NaN,NaN
+792,794,teaching_role,Other,False,False,True,False,True,False,False,False,True,False,False,False,False,Female,61 or older,,NaN,NaN
+793,795,teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,61 or older,Primary,7 to 10 Years,7 to 10 Years
+794,796,non_teaching_role,Resignation-Move overseas/interstate,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,,NaN,NaN
+795,797,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,56-60,Primary,NaN,NaN
+796,798,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,56-60,Secondary,NaN,NaN
+797,799,non_teaching_role,Resignation-Move overseas/interstate,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,36-40,A01-A04,NaN,NaN
+798,800,teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,,NaN,NaN
+799,801,teaching_role,Other,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,51-55,Special Education,NaN,NaN
+800,802,teaching_role,Other,False,False,True,False,False,False,False,False,False,False,False,True,False,Female,21-25,Primary,3 to 4 Years,3 to 4 Years
+801,803,teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,56-60,Primary,20 Plus Years,20 Plus Years
+802,804,teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,,,,NaN,NaN
+803,805,teaching_role,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,46-50,Primary,7 to 10 Years,7 to 10 Years
+804,806,teaching_role,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,26-30,Primary,1 to 2 Years,1 to 2 Years
+805,807,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,,NaN,NaN
+806,808,non_teaching_role,Resignation-Other employer,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,,7 to 10 Years,7 to 10 Years
+807,809,teaching_role,Resignation-Other reasons,False,False,False,False,True,False,False,False,False,False,False,True,False,Female,36-40,Primary,7 to 10 Years,7 to 10 Years
+808,810,teaching_role,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,26-30,,3 to 4 Years,3 to 4 Years
+809,811,teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,51-55,Primary,7 to 10 Years,7 to 10 Years
+810,812,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,Primary,NaN,NaN
+811,813,non_teaching_role,Contract Expired,False,False,False,False,False,False,True,False,False,False,True,True,False,Female,41-45,A01-A04,3 to 4 Years,3 to 4 Years
+812,814,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,Secondary,7 to 10 Years,7 to 10 Years
+813,815,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,56-60,AO5-AO7,5 to 6 Years,5 to 6 Years
+814,816,non_teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,NaN,NaN
+815,817,teaching_role,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Male,21-25,Primary,1 to 2 Years,1 to 2 Years
+816,818,teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,21-25,Secondary,1 to 2 Years,1 to 2 Years
+817,819,teaching_role,Age Retirement,False,False,True,True,False,False,False,False,False,False,True,False,False,Female,56-60,Primary,11 to 20 Years,11 to 20 Years
+818,820,teaching_role,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,51-55,Secondary,20 Plus Years,20 Plus Years
+819,821,non_teaching_role,Resignation-Move overseas/interstate,False,False,False,True,False,False,False,False,False,False,False,True,False,Female,31-35,A01-A04,5 to 6 Years,5 to 6 Years
+820,822,teaching_role,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,41-45,Secondary,3 to 4 Years,3 to 4 Years
+821,823,teaching_role,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,,,,NaN,NaN
