@@ -1,0 +1,823 @@
+,record_id,job_position,leave_year,leave_reason,cf_to_public_sector,cf_to_private_sector,cf_health,cf_family,cf_dept_dissatisfaction,cf_job_dissatisfaction,cf_interpersonal_conflict,cf_other,institute_recognition,institute_job_security,dept_workload,dept_work_life_balance,dept_work_environment,gender,age,job_status,service_years
+0,1,Public Servant,08/2012,Ill Health Retirement,True,False,False,False,False,True,False,True,True,False,False,False,False,Male,56-60,A01-A04,8.0
+1,2,Public Servant,08/2012,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,False,False,False,False,Male,56-60,AO5-AO7,
+2,3,Schools Officer,05/2012,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,,1.0
+3,4,Teacher,05/2012,Resignation-Other reasons,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,Primary,6.0
+4,5,Head of Curriculum/Head of Special Education,05/2012,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,,23.0
+5,6,Guidance Officer,05/2012,Resignation-Other reasons,False,True,False,True,False,False,False,False,False,False,False,False,False,Female,41-45,,15.0
+6,7,Teacher,05/2012,Age Retirement,False,False,False,False,True,True,False,False,False,False,False,False,False,Female,56-60,Secondary,5.0
+7,8,Teacher Aide,05/2012,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,61 or older,,22.0
+8,9,Teacher,07/2012,Resignation-Other reasons,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,31-35,Secondary,3.0
+9,10,Teacher Aide,2012,Resignation-Other employer,False,False,False,False,True,True,True,False,False,False,False,False,False,Female,46-50,,4.0
+10,11,Teacher,2012,Age Retirement,False,False,False,False,False,True,False,False,False,False,False,False,False,Male,61 or older,Primary,13.0
+11,12,Teacher,2012,Resignation-Move overseas/interstate,False,False,False,True,False,False,False,False,False,False,False,False,False,Male,31-35,Secondary,3.0
+12,13,Teacher,2012,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,36-40,Primary,14.0
+13,14,Teacher,2012,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,Primary,12.0
+14,15,Teacher,2012,Resignation-Other employer,False,False,False,False,True,True,False,False,False,False,False,False,False,Male,31-35,Secondary,2.0
+15,16,Teacher,2012,Voluntary Early Retirement (VER),False,False,True,False,False,False,False,False,False,False,False,False,False,Male,61 or older,Secondary,8.0
+16,17,Teacher Aide,2012,Resignation-Other reasons,False,False,False,False,False,False,False,False,True,False,False,False,False,Male,61 or older,,
+17,18,Teacher,2012,Age Retirement,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,56-60,Primary,16.0
+18,19,Cleaner,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,6.0
+19,20,Cleaner,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,,23.0
+20,21,Teacher,2012,Resignation-Other employer,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56-60,Secondary,30.0
+21,22,Cleaner,2012,Resignation-Other reasons,False,False,False,False,False,False,True,False,False,False,False,False,False,Female,51-55,,3.0
+22,23,School Administrative Staff,2012,Resignation-Other reasons,False,False,False,False,True,False,False,False,True,False,False,True,False,Female,46-50,,14.0
+23,24,Teacher,2012,Resignation-Other reasons,False,False,False,True,False,True,False,False,False,False,False,True,False,Female,61 or older,Primary,0.0
+24,25,Teacher Aide,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,31.0
+25,26,Teacher,2012,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,41-45,Primary,10.0
+26,27,Teacher,2012,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,True,False,Male,56-60,Primary,35.0
+27,28,Public Servant,2012,Resignation-Other employer,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,21-25,AO5-AO7,1.0
+28,29,Teacher Aide,2012,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56-60,,23.0
+29,30,Teacher,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,Special Education,9.0
+30,31,Teacher,2012,Age Retirement,False,False,True,False,True,True,False,False,False,False,False,False,False,Female,56-60,Primary,23.0
+31,32,Teacher,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,Secondary,34.0
+32,33,Head of Curriculum/Head of Special Education,2012,Age Retirement,False,False,True,False,False,False,True,False,False,False,False,True,False,Male,56-60,,20.0
+33,34,Teacher,2012,Resignation-Other reasons,False,False,False,False,False,False,True,False,True,False,False,False,False,Male,36-40,Secondary,9.0
+34,35,Cleaner,2012,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,61 or older,,3.0
+35,36,Teacher,2012,Ill Health Retirement,False,False,True,False,True,False,False,False,False,False,False,False,False,Female,51-55,Special Education,12.0
+36,37,Schools Officer,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,,15.0
+37,38,Teacher Aide,2012,Resignation-Other reasons,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,21-25,,1.0
+38,39,Teacher Aide,2012,Other,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,,14.0
+39,40,Teacher,2012,Resignation-Move overseas/interstate,False,False,False,False,False,True,False,False,True,False,False,True,False,Female,21-25,,
+40,41,Teacher,2012,Resignation-Other employer,True,False,False,False,False,False,False,False,False,False,False,False,False,Male,56-60,Primary,32.0
+41,42,Head of Curriculum/Head of Special Education,2012,Resignation-Other reasons,False,False,False,False,False,False,True,False,False,False,False,True,False,Female,51-55,,18.0
+42,43,Cleaner,2012,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,41-45,,1.0
+43,44,Teacher,2012,Resignation-Other reasons,False,False,False,False,False,True,False,False,False,False,True,True,False,Male,51-55,Primary,36.0
+44,45,Teacher,2012,Age Retirement,False,True,False,False,True,False,False,False,False,False,True,False,False,Female,51-55,Primary,21.0
+45,46,Teacher,2012,Voluntary Early Retirement (VER),False,False,True,False,False,False,False,False,False,False,True,True,False,Female,46-50,Primary,11.0
+46,47,Cleaner,2012,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56-60,,4.0
+47,48,Teacher,2012,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,Secondary,19.0
+48,49,Cleaner,2012,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,21-25,,2.0
+49,50,Teacher,2012,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,Primary,5.0
+50,51,Cleaner,2012,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,21-25,,2.0
+51,52,Cleaner,2012,Resignation-Other reasons,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,19.0
+52,53,Teacher,2012,Other,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,Secondary,29.0
+53,54,Teacher Aide,2012,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56-60,,
+54,55,Teacher,2012,Age Retirement,False,False,True,False,False,True,False,False,True,False,False,False,False,Female,56-60,Special Education,4.0
+55,56,Teacher Aide,2012,Resignation-Other employer,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,26-30,,4.0
+56,57,Teacher Aide,2012,Age Retirement,False,False,False,False,False,True,False,False,False,False,False,True,False,Female,61 or older,,22.0
+57,58,Teacher,2012,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Male,46-50,Secondary,0.0
+58,59,Teacher,2012,Ill Health Retirement,False,False,True,False,False,True,False,False,False,False,True,False,False,Female,51-55,Primary,0.0
+59,60,Teacher,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,,61 or older,Primary,
+60,61,Teacher,2012,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,46-50,Primary,25.0
+61,62,Schools Officer,2012,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,31-35,,1.0
+62,63,Teacher Aide,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,22.0
+63,64,Schools Officer,2012,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,True,False,True,Male,56-60,,23.0
+64,65,Teacher,2012,Age Retirement,False,False,False,False,False,True,False,False,False,False,True,False,False,Male,61 or older,Primary,27.0
+65,66,Head of Curriculum/Head of Special Education,2012,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,61 or older,,27.0
+66,67,Teacher,2012,Other,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,61 or older,Secondary,5.0
+67,68,Teacher Aide,2012,Other,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,26-30,,
+68,69,Teacher,2012,Age Retirement,False,False,False,False,False,True,False,False,True,False,False,False,False,,61 or older,Primary,6.0
+69,70,Public Servant,2012,Resignation-Other reasons,False,False,False,False,False,True,False,False,False,False,False,False,False,Female,36-40,AO5-AO7,
+70,71,Teacher,2012,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,False,True,Female,56-60,Secondary,37.0
+71,72,Teacher Aide,2012,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,,1.0
+72,73,Head of Curriculum/Head of Special Education,2012,Age Retirement,False,False,False,True,False,False,False,False,False,False,False,True,False,Female,56-60,,
+73,74,Public Servant,2012,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,26-30,AO5-AO7,1.0
+74,75,Teacher,2012,Age Retirement,False,False,False,False,True,False,False,False,False,False,False,True,False,Female,56-60,Primary,37.0
+75,76,Public Servant,2012,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,26-30,A01-A04,0.0
+76,77,Teacher,2012,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56-60,Primary,2.0
+77,78,Public Servant,2012,Termination,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,51-55,AO5-AO7,5.0
+78,79,Public Servant,2012,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,21-25,AO5-AO7,0.0
+79,80,Public Servant,2012,Termination,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,26-30,AO5-AO7,1.0
+80,81,Public Servant,2012,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,AO5-AO7,8.0
+81,82,Technical Officer,2012,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,21-25,,1.0
+82,83,Deputy Principal,2012,Voluntary Early Retirement (VER),False,False,False,False,False,True,True,False,True,False,False,False,False,Female,51-55,,2.0
+83,84,Public Servant,2012,Contract Expired,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,A01-A04,0.0
+84,85,Public Servant,2012,Termination,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,AO5-AO7,2.0
+85,86,School Principal,2012,Age Retirement,False,False,False,False,True,False,False,False,True,False,True,False,False,Male,56-60,,37.0
+86,87,Public Servant,2012,Termination,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56-60,A01-A04,1.0
+87,88,Teacher,2012,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,26-30,Secondary,5.0
+88,89,Public Servant,2012,Termination,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,46-50,AO5-AO7,1.0
+89,90,Teacher,2013,Age Retirement,False,False,True,False,False,False,False,False,False,False,False,True,False,Female,56-60,Primary,38.0
+90,91,Teacher Aide,2012,Resignation-Other employer,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,,26.0
+91,92,Teacher,2012,Age Retirement,False,False,True,False,False,False,False,False,False,False,False,True,False,Male,56-60,Primary,34.0
+92,93,Head of Curriculum/Head of Special Education,2012,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,,4.0
+93,94,Teacher,2012,Resignation-Move overseas/interstate,False,False,False,False,False,True,False,False,True,False,False,True,False,Female,41-45,Secondary,10.0
+94,95,Teacher,2012,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,False,True,True,False,Female,51-55,Primary,36.0
+95,96,Teacher,2012,Age Retirement,False,False,False,False,True,True,False,False,False,False,False,False,False,Male,51-55,Primary,4.0
+96,97,Teacher,2012,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,56-60,Primary,4.0
+97,98,,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56-60,,16.0
+98,99,Schools Officer,2012,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,False,False,Male,61 or older,,8.0
+99,100,Teacher,2012,Resignation-Move overseas/interstate,False,False,False,True,False,False,False,False,False,False,False,True,False,Male,31-35,Secondary,1.0
+100,101,Teacher Aide,2012,Resignation-Other reasons,False,False,False,False,True,True,False,False,False,False,False,True,False,Female,36-40,,4.0
+101,102,Teacher,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,Primary,11.0
+102,103,Teacher,2012,Resignation-Other reasons,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,Primary,5.0
+103,104,,2012,Resignation-Other reasons,False,False,False,False,True,True,False,False,True,False,False,False,False,Female,51-55,,4.0
+104,105,Cleaner,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,33.0
+105,106,Teacher Aide,2012,Age Retirement,False,False,False,False,False,True,False,False,False,False,False,True,False,Female,56-60,,12.0
+106,107,Teacher Aide,2012,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,True,False,True,False,Female,46-50,,
+107,108,Teacher,2012,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,True,False,Female,56-60,Special Education,10.0
+108,109,Technical Officer,2012,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,31-35,,3.0
+109,110,Public Servant,2012,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,A01-A04,
+110,111,Teacher,2012,Ill Health Retirement,False,False,True,False,False,True,False,False,False,False,False,True,False,Female,61 or older,Primary,16.0
+111,112,Teacher,2012,Resignation-Other reasons,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,26-30,Special Education,8.0
+112,113,Cleaner,2012,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,False,True,Female,56-60,,5.0
+113,114,Schools Officer,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56-60,,3.0
+114,115,Guidance Officer,2012,Resignation-Move overseas/interstate,False,False,False,False,True,False,False,False,False,False,False,False,False,Female,41-45,,8.0
+115,116,Teacher,2012,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,Secondary,
+116,117,,2012,Resignation-Other reasons,False,False,False,False,True,False,True,False,True,False,False,False,False,Male,56-60,,36.0
+117,118,Teacher Aide,2012,Ill Health Retirement,False,False,False,False,False,True,False,False,False,False,False,False,False,Female,56-60,,26.0
+118,119,Teacher,2012,Resignation-Other employer,True,False,False,False,False,False,False,False,False,False,True,True,False,Female,46-50,Secondary,2.0
+119,120,Public Servant,2012,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,31-35,AO5-AO7,1.0
+120,121,Public Servant,2012,Termination,False,False,False,False,False,True,False,False,True,False,False,False,False,Female,26-30,AO5-AO7,3.0
+121,122,Public Servant,2012,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,31-35,A01-A04,
+122,123,Teacher,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,Secondary,33.0
+123,124,Schools Officer,2012,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,,,,
+124,125,Public Servant,2012,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,True,Female,36-40,A01-A04,0.0
+125,126,Cleaner,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,,21.0
+126,127,Teacher,2012,Resignation-Other reasons,False,False,False,False,True,True,False,False,False,False,False,False,False,Male,51-55,Secondary,23.0
+127,128,Teacher,2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,51-55,Primary,24.0
+128,129,Teacher,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56-60,,11.0
+129,130,Head of Curriculum/Head of Special Education,2012,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,,16.0
+130,131,Public Servant,2012,Resignation-Other employer,True,False,False,False,False,True,False,False,False,True,False,False,False,Male,51-55,AO5-AO7,0.0
+131,132,Teacher Aide,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,20.0
+132,133,Cleaner,2012,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,41-45,,2.0
+133,134,Teacher Aide,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,
+134,135,Business Service Manager,2012,Voluntary Early Retirement (VER),False,True,False,False,False,False,False,False,False,False,True,True,False,Male,46-50,,24.0
+135,136,Teacher Aide,2012,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,,18.0
+136,137,Head of Curriculum/Head of Special Education,2012,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56-60,,
+137,138,Teacher,2012,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,,11.0
+138,139,Teacher Aide,2012,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,,7.0
+139,140,Teacher,2012,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,56-60,Secondary,17.0
+140,141,Teacher Aide,2012,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,51-55,,
+141,142,Teacher,2012,Age Retirement,False,False,True,False,False,False,False,False,False,False,True,True,False,Male,56-60,Primary,
+142,143,Head of Curriculum/Head of Special Education,2012,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,61 or older,,4.0
+143,144,Teacher Aide,2012,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,61 or older,,
+144,145,Teacher,2012,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,False,False,Female,56-60,Primary,30.0
+145,146,Cleaner,2012,Resignation-Other reasons,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,61 or older,,5.0
+146,147,Teacher,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,Primary,
+147,148,Public Servant,2012,Resignation-Other employer,False,True,False,False,False,False,False,False,False,True,False,False,False,Male,26-30,A01-A04,9.0
+148,149,Cleaner,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,15.0
+149,150,Public Servant,2012,Other,False,True,False,False,True,True,False,False,False,False,False,False,False,Female,26-30,A01-A04,4.0
+150,151,Public Servant,2012,Termination,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,A01-A04,3.0
+151,152,Guidance Officer,2012,Age Retirement,False,False,False,False,False,True,False,False,False,False,False,False,False,Male,61 or older,,
+152,153,Public Servant,2012,Other,False,False,False,False,False,True,False,False,False,True,False,False,False,Female,36-40,AO5-AO7,0.0
+153,154,Public Servant,2012,Termination,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,36-40,AO5-AO7,4.0
+154,155,Public Servant,2012,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,True,False,False,False,Male,61 or older,AO5-AO7,7.0
+155,156,Public Servant,2012,Voluntary Early Retirement (VER),False,False,False,False,False,True,False,False,False,True,False,False,False,Female,21-25,A01-A04,2.0
+156,157,Technical Officer,2012,Other,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,26-30,,2.0
+157,158,Public Servant,2012,Other,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,21-25,AO5-AO7,1.0
+158,159,Public Servant,2012,Resignation-Other employer,True,False,False,False,False,False,False,False,False,False,False,False,False,Male,21-25,A01-A04,1.0
+159,160,Teacher,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,Primary,42.0
+160,161,Cleaner,2012,Resignation-Other reasons,False,False,False,False,False,False,False,False,True,False,False,False,False,Female,41-45,,9.0
+161,162,Public Servant,2012,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,AO5-AO7,8.0
+162,163,Public Servant,2012,Other,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,36-40,A01-A04,4.0
+163,164,Professional Officer,2012,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,PO1-PO4,10.0
+164,165,Teacher Aide,2012,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,True,False,Female,41-45,,3.0
+165,166,Public Servant,2012,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,True,False,False,False,Male,26-30,AO5-AO7,4.0
+166,167,Public Servant,2012,Other,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,46-50,AO5-AO7,7.0
+167,168,Public Servant,2012,Other,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,36-40,AO5-AO7,2.0
+168,169,Public Servant,2012,Other,False,False,False,False,True,False,False,False,False,False,False,False,False,Female,61 or older,AO5-AO7,4.0
+169,170,Teacher,2012,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,56-60,Secondary,
+170,171,Public Servant,2012,Other,False,False,False,False,False,True,True,False,False,False,True,True,False,Female,46-50,AO8 and Above,3.0
+171,172,Professional Officer,2012,Voluntary Early Retirement (VER),False,False,False,False,False,True,False,False,True,False,False,False,False,Male,46-50,PO1-PO4,20.0
+172,173,Public Servant,2012,Other,False,False,False,False,False,False,False,False,True,False,False,False,False,Female,,A01-A04,4.0
+173,174,Public Servant,2012,Other,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56-60,AO8 and Above,5.0
+174,175,Public Servant,2012,Voluntary Early Retirement (VER),False,True,False,False,False,False,False,False,False,False,False,False,False,Female,31-35,A01-A04,5.0
+175,176,Public Servant,2012,Voluntary Early Retirement (VER),False,False,False,True,False,False,False,False,False,True,False,False,False,Female,26-30,A01-A04,5.0
+176,177,Public Servant,2012,Voluntary Early Retirement (VER),False,True,False,False,False,False,False,False,False,False,False,False,False,,26-30,A01-A04,3.0
+177,178,Public Servant,2012,Voluntary Early Retirement (VER),False,False,False,False,False,True,False,False,False,False,False,False,False,Female,26-30,AO5-AO7,0.0
+178,179,Public Servant,2012,Voluntary Early Retirement (VER),False,False,False,False,True,False,False,False,False,True,False,False,False,Male,41-45,A01-A04,1.0
+179,180,Cleaner,2012,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,36-40,,0.0
+180,181,Public Servant,2012,Voluntary Early Retirement (VER),False,False,False,False,False,True,False,False,False,False,False,False,False,Female,26-30,AO5-AO7,0.0
+181,182,Public Servant,2012,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,False,False,False,False,Female,31-35,A01-A04,1.0
+182,183,Professional Officer,2012,Other,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,PO1-PO4,2.0
+183,184,Cleaner,2012,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,,14.0
+184,185,Public Servant,2012,Other,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,41-45,A01-A04,6.0
+185,186,Cleaner,2012,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,False,True,False,Female,31-35,,7.0
+186,187,Public Servant,2012,Other,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,AO5-AO7,5.0
+187,188,Public Servant,2012,Voluntary Early Retirement (VER),False,True,False,False,False,False,False,False,False,False,False,False,False,Female,26-30,AO5-AO7,3.0
+188,189,Public Servant,2012,Other,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,26-30,AO5-AO7,3.0
+189,190,Public Servant,2012,Resignation-Other employer,False,False,False,False,False,False,False,False,False,True,False,True,False,Female,41-45,AO8 and Above,5.0
+190,191,Public Servant,2012,Voluntary Early Retirement (VER),False,False,False,False,False,True,False,False,True,False,False,False,False,Female,56-60,AO5-AO7,8.0
+191,192,Public Servant,2012,Other,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,A01-A04,3.0
+192,193,Teacher Aide,2012,Resignation-Other reasons,False,False,False,False,False,False,True,False,False,False,False,False,False,Female,46-50,,11.0
+193,194,Public Servant,2012,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Male,31-35,AO8 and Above,0.0
+194,195,Teacher,2013,Age Retirement,False,False,False,True,False,False,False,False,False,False,True,True,False,Female,61 or older,Primary,29.0
+195,196,Technical Officer,2012,Resignation-Other employer,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,46-50,,2.0
+196,197,Teacher Aide,2012,Resignation-Other reasons,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,46-50,,
+197,198,Public Servant,2012,Resignation-Other employer,False,False,False,False,False,True,False,False,True,False,False,False,False,Female,31-35,A01-A04,7.0
+198,199,Teacher,2012,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,46-50,Primary,17.0
+199,200,Cleaner,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,6.0
+200,201,Public Servant,2012,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,AO8 and Above,2.0
+201,202,Teacher Aide,2012,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,,
+202,203,Teacher Aide,2012,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,True,Female,46-50,,9.0
+203,204,Other,2012,Other,False,False,False,False,False,False,False,False,False,False,False,False,True,Female,61 or older,,17.0
+204,205,Public Servant,2012,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,21-25,A01-A04,2.0
+205,206,Teacher Aide,2012,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,36-40,,6.0
+206,207,Public Servant,2012,Termination,False,False,False,False,False,True,False,False,True,True,False,False,False,Male,51-55,AO5-AO7,7.0
+207,208,Teacher,2012,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56-60,Special Education,
+208,209,Teacher Aide,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,19.0
+209,210,Teacher,2012,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,True,Female,46-50,Primary,10.0
+210,211,Professional Officer,2012,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,51-55,PO1-PO4,5.0
+211,212,Teacher Aide,2012,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,,26.0
+212,213,Teacher,2012,Resignation-Other reasons,False,False,False,False,False,True,False,False,False,False,True,False,False,Male,61 or older,Secondary,15.0
+213,214,Cleaner,2012,Other,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,,
+214,215,School Administrative Staff,2012,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,,1.0
+215,216,Public Servant,2012,Termination,False,False,False,False,False,False,False,False,False,True,False,False,False,Male,51-55,AO8 and Above,2.0
+216,217,Teacher,2013,Age Retirement,False,False,False,False,False,True,False,False,False,False,True,True,False,Female,51-55,Primary,34.0
+217,218,Teacher,2013,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56-60,Secondary,18.0
+218,219,Teacher,2012,Age Retirement,False,False,True,False,False,False,False,False,False,False,False,False,True,Female,51-55,Special Education,13.0
+219,220,Teacher,2012,Age Retirement,False,False,False,False,False,False,False,False,True,False,False,True,False,Female,61 or older,Primary,13.0
+220,221,Cleaner,2012,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56-60,,2.0
+221,222,Teacher,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,Primary,24.0
+222,223,Public Servant,2012,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,36-40,AO5-AO7,1.0
+223,224,Teacher,2012,Resignation-Other reasons,False,False,False,False,True,False,True,False,False,True,False,False,False,,51-55,Primary,6.0
+224,225,Teacher,2012,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,36-40,Secondary,3.0
+225,226,Cleaner,2012,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,,15.0
+226,227,Public Servant,2012,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,26-30,A01-A04,1.0
+227,228,Public Servant,2012,Voluntary Early Retirement (VER),False,False,False,False,True,False,False,False,False,False,False,True,False,Male,46-50,AO8 and Above,4.0
+228,229,Cleaner,2012,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,False,True,False,Male,56-60,Primary,0.0
+229,230,Teacher,2012,Age Retirement,False,False,False,True,False,False,False,False,False,False,False,True,False,Female,56-60,Secondary,0.0
+230,231,Public Servant,2012,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,AO5-AO7,0.0
+231,232,Public Servant,2012,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,False,False,True,False,Male,56-60,AO5-AO7,10.0
+232,233,Public Servant,2012,Other,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,36-40,A01-A04,7.0
+233,234,Public Servant,2012,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,False,False,True,False,Female,46-50,A01-A04,14.0
+234,235,Cleaner,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,12.0
+235,236,Technical Officer,2012,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,21-25,,3.0
+236,237,Teacher,2012,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,51-55,Secondary,33.0
+237,238,Cleaner,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,,14.0
+238,239,Public Servant,2012,Voluntary Early Retirement (VER),False,True,False,False,False,False,False,False,False,False,False,True,False,Male,51-55,AO5-AO7,9.0
+239,240,Teacher,2012,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,Primary,17.0
+240,241,School Principal,2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,12.0
+241,242,Schools Officer,2012,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,56-60,,19.0
+242,243,Public Servant,2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,51-55,A01-A04,18.0
+243,244,Teacher Aide,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,31.0
+244,245,Public Servant,2012,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,AO5-AO7,
+245,246,Public Servant,2012,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,A01-A04,20.0
+246,247,Public Servant,2012,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,False,False,True,False,Female,51-55,A01-A04,24.0
+247,248,"School Based Professional Staff (Therapist, nurse, etc)",2013,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,26-30,PO1-PO4,6.0
+248,249,Teacher,2012,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,31-35,Primary,1.0
+249,250,Teacher Aide,2012,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,46-50,,0.0
+250,251,Teacher,2013,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,26-30,Primary,7.0
+251,252,Teacher,2012,Age Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,61 or older,Primary,4.0
+252,253,Teacher,2012,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,False,False,Male,61 or older,Secondary,1.0
+253,254,Cleaner,2012,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,False,True,Female,51-55,,16.0
+254,255,Teacher,2012,Resignation-Other reasons,False,True,False,True,False,False,False,False,False,False,False,True,False,Female,31-35,Secondary,0.0
+255,256,Cleaner,2012,Resignation-Other employer,False,True,False,False,False,False,False,False,False,True,False,False,False,Female,46-50,,0.0
+256,257,Teacher Aide,2012,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,46-50,,7.0
+257,258,Public Servant,2012,Resignation-Other reasons,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,21-25,A01-A04,0.0
+258,259,Teacher,2012,Resignation-Other employer,False,True,False,False,False,False,False,False,True,False,False,False,False,Female,26-30,Secondary,5.0
+259,260,Schools Officer,2012,Resignation-Move overseas/interstate,False,False,False,False,False,True,False,False,True,False,False,False,False,Male,41-45,,4.0
+260,261,Cleaner,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,16.0
+261,262,Schools Officer,2012,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,56-60,,1.0
+262,263,Teacher,2013,Resignation-Move overseas/interstate,False,True,False,False,False,False,False,False,False,False,False,True,False,Male,36-40,Secondary,2.0
+263,264,Teacher,2013,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,21-25,Special Education,1.0
+264,265,School Administrative Staff,2012,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,20 or younger,,1.0
+265,266,Schools Officer,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,,5.0
+266,267,Cleaner,2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,,24.0
+267,268,Cleaner,2012,Resignation-Other employer,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,36-40,,1.0
+268,269,Teacher,2012,Resignation-Move overseas/interstate,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,31-35,Secondary,0.0
+269,270,Teacher,2012,Resignation-Other reasons,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,26-30,Secondary,2.0
+270,271,Teacher Aide,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,31.0
+271,272,Public Servant,2012,Termination,False,False,False,False,False,True,False,False,True,False,False,False,False,Male,61 or older,AO8 and Above,7.0
+272,273,Head of Curriculum/Head of Special Education,2012,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,True,False,False,Male,61 or older,,34.0
+273,274,Teacher,2012,Resignation-Other reasons,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,Primary,5.0
+274,275,Public Servant,2013,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,A01-A04,2.0
+275,276,Public Servant,2012,Other,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,AO5-AO7,7.0
+276,277,Teacher Aide,2012,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,,26.0
+277,278,School Administrative Staff,2012,Voluntary Early Retirement (VER),False,False,False,False,True,True,False,False,False,False,False,False,False,Female,56-60,,14.0
+278,279,Public Servant,2012,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Female,31-35,A01-A04,2.0
+279,280,Cleaner,2012,Resignation-Other reasons,False,False,True,False,True,False,True,False,False,False,False,False,False,Female,61 or older,,20.0
+280,281,Cleaner,2012,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,51-55,,15.0
+281,282,Teacher,2013,Age Retirement,False,False,False,False,True,True,True,False,False,False,False,False,False,Female,51-55,Primary,35.0
+282,283,Public Servant,2012,Voluntary Early Retirement (VER),False,True,False,False,False,False,False,False,False,True,False,False,False,Female,26-30,AO5-AO7,0.0
+283,284,Teacher,2012,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,26-30,Secondary,5.0
+284,285,Teacher,2012,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,31-35,Secondary,4.0
+285,286,Cleaner,2012,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,,0.0
+286,287,Teacher Aide,2012,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,,0.0
+287,288,Cleaner,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,,9.0
+288,289,Public Servant,2013,Resignation-Move overseas/interstate,False,False,False,False,False,True,False,False,True,False,True,False,False,Female,26-30,AO5-AO7,
+289,290,Teacher,2012,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,61 or older,Primary,23.0
+290,291,Cleaner,2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,61 or older,,17.0
+291,292,Teacher Aide,2013,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,56-60,,
+292,293,Teacher,2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,,56-60,Primary,30.0
+293,294,Schools Officer,2012,Resignation-Move overseas/interstate,False,False,False,True,False,False,False,False,False,False,False,False,False,,61 or older,,
+294,295,Professional Officer,2013,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56-60,PO1-PO4,21.0
+295,296,Teacher,2012,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,51-55,Special Education,9.0
+296,297,Technical Officer,2012,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Male,41-45,,3.0
+297,298,Teacher Aide,2012,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,61 or older,,15.0
+298,299,Teacher,2013,Other,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,21-25,Primary,1.0
+299,300,Public Servant,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,A01-A04,15.0
+300,301,Teacher,2012,Resignation-Move overseas/interstate,False,True,False,False,False,False,False,False,False,False,False,True,False,Female,51-55,Primary,16.0
+301,302,School Administrative Staff,2012,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,46-50,,
+302,303,Cleaner,2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,,25.0
+303,304,Cleaner,2012,Resignation-Other reasons,False,False,False,False,False,True,False,False,True,False,False,False,False,Male,51-55,,1.0
+304,305,Teacher,2013,Resignation-Other employer,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,46-50,Secondary,4.0
+305,306,Public Servant,2012,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,41-45,AO5-AO7,1.0
+306,307,Public Servant,2012,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,21-25,A01-A04,1.0
+307,308,Cleaner,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,5.0
+308,309,Teacher,2013,Age Retirement,False,False,False,False,False,False,False,False,True,True,True,False,False,Male,51-55,Secondary,25.0
+309,310,Teacher,2012,Age Retirement,False,False,False,False,False,False,True,False,False,False,True,True,False,Female,51-55,Special Education,4.0
+310,311,Guidance Officer,2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,,24.0
+311,312,Teacher,2013,Resignation-Other employer,False,False,False,False,True,True,False,False,False,False,False,False,False,Male,36-40,Secondary,6.0
+312,313,Teacher,2013,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,True,False,True,Female,36-40,Primary,1.0
+313,314,Guidance Officer,2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,18.0
+314,315,Teacher,2013,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,Primary,7.0
+315,316,Cleaner,2012,Other,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,61 or older,,
+316,317,Cleaner,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,
+317,318,Teacher,2012,Resignation-Other employer,False,True,False,False,False,False,True,False,False,False,False,False,False,Male,41-45,,23.0
+318,319,School Administrative Staff,2012,Resignation-Other reasons,False,False,False,False,False,True,False,False,False,False,True,True,False,Female,46-50,,0.0
+319,320,Teacher,2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,61 or older,Secondary,21.0
+320,321,Cleaner,2012,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,26-30,,1.0
+321,322,Teacher,2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,Primary,26.0
+322,323,Teacher,2013,Resignation-Other employer,False,True,False,False,True,False,False,False,False,False,False,False,False,Male,26-30,Middle,6.0
+323,324,Cleaner,2012,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,,12.0
+324,325,Teacher Aide,2012,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,21-25,,1.0
+325,326,Teacher Aide,2012,Resignation-Other employer,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,46-50,,8.0
+326,327,Cleaner,2012,Resignation-Other reasons,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,36-40,,4.0
+327,328,Teacher Aide,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,37.0
+328,329,Teacher,2013,Age Retirement,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,56-60,Special Education,4.0
+329,330,Teacher,2013,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,,,Secondary,
+330,331,Teacher,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,Secondary,26.0
+331,332,School Principal,2012,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,61 or older,,13.0
+332,333,Cleaner,2012,Resignation-Other reasons,False,False,False,False,False,False,True,False,False,False,False,True,False,Female,21-25,,1.0
+333,334,School Administrative Staff,2012,Resignation-Other employer,False,False,False,False,False,False,False,False,False,True,False,False,False,Female,51-55,,0.0
+334,335,Teacher,2013,Age Retirement,False,False,False,False,False,True,False,False,False,False,False,True,False,Male,51-55,Secondary,
+335,336,Teacher,2012,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,21-25,Primary,0.0
+336,337,School Administrative Staff,2012,Other,False,False,False,False,False,False,False,False,False,False,False,True,False,,,,
+337,338,Teacher,2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,51-55,Secondary,12.0
+338,339,Teacher Aide,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,27.0
+339,340,Head of Curriculum/Head of Special Education,2013,Age Retirement,False,False,False,True,False,False,False,False,False,False,True,True,False,Male,56-60,,
+340,341,Teacher,2013,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,False,True,False,Male,26-30,Primary,1.0
+341,342,Teacher,2013,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,Primary,17.0
+342,343,Teacher Aide,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,,0.0
+343,344,School Administrative Staff,2012,Resignation-Other employer,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,41-45,,
+344,345,Teacher Aide,2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,17.0
+345,346,Teacher,2012,Resignation-Other employer,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,41-45,Primary,24.0
+346,347,Teacher,2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,Primary,
+347,348,Head of Curriculum/Head of Special Education,2012,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,,4.0
+348,349,Teacher,2013,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,True,True,False,Male,56-60,Secondary,14.0
+349,350,Teacher,2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,51-55,Primary,
+350,351,Teacher,2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,56-60,Primary,30.0
+351,352,Teacher Aide,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,26.0
+352,353,Teacher,2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,Primary,
+353,354,Teacher Aide,2012,Other,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,,1.0
+354,355,Teacher,2013,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,True,False,False,Male,26-30,Secondary,6.0
+355,356,Teacher Aide,2013,Resignation-Other reasons,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,,21.0
+356,357,Teacher,2013,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,31-35,Secondary,2.0
+357,358,Head of Curriculum/Head of Special Education,2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56-60,,7.0
+358,359,Teacher,2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,Secondary,38.0
+359,360,Public Servant,2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,A01-A04,23.0
+360,361,Teacher Aide,2012,Contract Expired,False,False,False,False,False,False,False,False,False,True,False,False,False,Female,46-50,,0.0
+361,362,Teacher,2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,Secondary,32.0
+362,363,Teacher,2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,56-60,Primary,15.0
+363,364,Public Servant,2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,AO8 and Above,7.0
+364,365,Teacher,2012,Other,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,46-50,Primary,
+365,366,Teacher,2012,Resignation-Other reasons,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,26-30,Secondary,
+366,367,Teacher,2013,Resignation-Move overseas/interstate,False,True,False,False,False,False,False,False,True,False,False,False,False,Male,21-25,Secondary,3.0
+367,368,Teacher,2013,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,21-25,Secondary,1.0
+368,369,Teacher Aide,2013,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,,19.0
+369,370,Teacher,2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56-60,Secondary,37.0
+370,371,Teacher,2012,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,26-30,Secondary,0.0
+371,372,Teacher Aide,2012,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,,0.0
+372,373,Teacher,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,Primary,
+373,374,Teacher,2012,Age Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,61 or older,Special Education,0.0
+374,375,Teacher,2012,Resignation-Other employer,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,41-45,Secondary,20.0
+375,376,Teacher Aide,2012,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,True,False,False,False,Female,46-50,,13.0
+376,377,Teacher Aide,2012,Resignation-Move overseas/interstate,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,46-50,,5.0
+377,378,Teacher Aide,2012,Resignation-Other employer,False,False,False,False,False,True,False,False,True,True,False,False,False,Female,46-50,,
+378,379,Teacher,2013,Age Retirement,False,False,False,False,False,True,False,False,False,False,False,True,False,Male,51-55,,35.0
+379,380,Teacher,2012,Resignation-Move overseas/interstate,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,26-30,Primary,
+380,381,Teacher,2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,Primary,9.0
+381,382,Teacher,2013,Resignation-Other employer,False,True,False,False,False,False,False,False,True,False,False,False,True,Female,26-30,Secondary,5.0
+382,383,Public Servant,2012,Voluntary Early Retirement (VER),False,False,True,False,False,False,False,False,False,False,False,True,False,Male,56-60,AO8 and Above,3.0
+383,384,Teacher,2012,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56-60,Special Education,16.0
+384,385,Public Servant,2013,Contract Expired,False,False,False,False,False,True,False,False,False,False,True,False,False,Male,36-40,AO5-AO7,1.0
+385,386,Teacher,2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,Special Education,18.0
+386,387,Guidance Officer,2013,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,51-55,,25.0
+387,388,Teacher,2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,51-55,Primary,23.0
+388,389,Teacher,2013,Resignation-Move overseas/interstate,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,46-50,Secondary,6.0
+389,390,Teacher,2013,Resignation-Other employer,True,False,False,False,False,False,False,False,False,False,False,True,False,Female,46-50,Secondary,14.0
+390,391,Teacher,2013,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,46-50,Secondary,1813.0
+391,392,Teacher,2012,Resignation-Other employer,False,True,False,False,False,True,True,False,False,False,False,False,False,Female,31-35,Secondary,5.0
+392,393,Teacher,2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,56-60,Primary,25.0
+393,394,Teacher,2012,Other,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,46-50,Secondary,4.0
+394,395,Teacher,2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56-60,Primary,33.0
+395,396,Teacher,2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56-60,Secondary,23.0
+396,397,Teacher,2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,51-55,Secondary,22.0
+397,398,Teacher Aide,2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,17.0
+398,399,Guidance Officer,2012,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,41-45,,1.0
+399,400,Cleaner,2013,Resignation-Other employer,False,False,False,False,False,True,False,False,False,False,False,False,False,Male,56-60,,
+400,401,Teacher,2013,Age Retirement,False,False,False,False,True,False,False,False,False,False,False,True,False,Female,56-60,Primary,39.0
+401,402,Teacher,2013,Age Retirement,False,False,False,False,False,True,False,False,False,False,False,True,False,Female,56-60,Primary,2.0
+402,403,Teacher,2013,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,Primary,24.0
+403,404,Cleaner,2013,Termination,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,46-50,,5.0
+404,405,Teacher,2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,51-55,Primary,14.0
+405,406,Teacher,2012,Resignation-Other reasons,False,False,False,True,False,False,True,False,False,False,False,False,False,,,Primary,
+406,407,Teacher Aide,2013,Resignation-Other reasons,False,False,True,False,False,False,False,False,True,False,False,False,False,Female,56-60,,21.0
+407,408,Technical Officer,2013,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,61 or older,,2.0
+408,409,Teacher,2012,Resignation-Other reasons,False,True,False,True,True,True,True,False,True,False,False,True,True,Female,26-30,Primary,6.0
+409,410,Teacher Aide,2012,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,36-40,,
+410,411,Teacher,2013,Resignation-Other reasons,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,26-30,Primary,5.0
+411,412,School Administrative Staff,2012,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,61 or older,Primary,
+412,413,Cleaner,2013,Resignation-Other reasons,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,41-45,,4.0
+413,414,Teacher,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,Primary,24.0
+414,415,Teacher,2013,Resignation-Other employer,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,Primary,4.0
+415,416,Teacher,2013,Resignation-Move overseas/interstate,True,False,False,False,False,False,True,False,False,False,False,False,False,Male,26-30,Primary,0.0
+416,417,Teacher,2012,Resignation-Other reasons,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,61 or older,Special Education,23.0
+417,418,Teacher Aide,2013,Resignation-Other reasons,False,True,False,False,False,False,False,False,False,False,True,True,False,Female,41-45,Primary,2.0
+418,419,Head of Curriculum/Head of Special Education,2013,Age Retirement,False,False,False,True,False,False,False,False,False,False,True,True,False,Male,56-60,,
+419,420,Teacher Aide,2013,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,,1.0
+420,421,Teacher,2013,Age Retirement,False,False,False,True,False,False,False,False,False,False,False,True,False,Female,61 or older,Primary,43.0
+421,422,Teacher,2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,Secondary,29.0
+422,423,Cleaner,2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,,7.0
+423,424,Head of Curriculum/Head of Special Education,2013,Resignation-Other employer,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,31-35,,1.0
+424,425,Teacher Aide,2013,Other,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,,7.0
+425,426,Teacher Aide,2013,Other,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,26-30,,4.0
+426,427,Teacher Aide,2013,Other,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,46-50,,1.0
+427,428,Teacher Aide,2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,10.0
+428,429,Cleaner,2013,Ill Health Retirement,False,False,False,False,False,False,False,False,False,False,True,False,False,Female,61 or older,,29.0
+429,430,Teacher Aide,2013,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,61 or older,,37.0
+430,431,Teacher Aide,2012,Other,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,,8.0
+431,432,Cleaner,2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,,11.0
+432,433,Technical Officer,2013,Resignation-Move overseas/interstate,False,False,False,False,True,True,False,False,True,True,True,False,False,Female,26-30,,3.0
+433,434,Teacher,2013,Resignation-Other reasons,False,False,False,False,True,False,False,False,False,False,True,False,False,Female,46-50,Primary,11.0
+434,435,Head of Curriculum/Head of Special Education,2013,Resignation-Other reasons,False,True,False,False,False,False,False,False,False,False,True,False,False,Female,26-30,,3.0
+435,436,Cleaner,2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,,10.0
+436,437,Teacher,2013,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,46-50,Secondary,13.0
+437,438,Teacher,2013,Resignation-Other reasons,False,False,True,False,False,True,False,False,False,False,False,False,False,Female,31-35,Special Education,11.0
+438,439,Teacher,2013,Resignation-Other employer,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,21-25,Secondary,
+439,440,Teacher Aide,2012,Resignation-Other reasons,False,False,False,False,True,False,False,False,True,False,False,False,False,Female,56-60,,3.0
+440,441,Guidance Officer,2012,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,,19.0
+441,442,Teacher Aide,2013,Resignation-Other reasons,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,31-35,,3.0
+442,443,Schools Officer,2013,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,56-60,,
+443,444,Deputy Principal,2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,,14.0
+444,445,Teacher,2013,Age Retirement,False,False,False,False,False,True,False,False,False,False,False,False,False,Female,61 or older,Secondary,7.0
+445,446,Teacher Aide,2012,Ill Health Retirement,False,False,False,False,True,False,True,False,True,False,False,True,False,Male,61 or older,,3.0
+446,447,Teacher,2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,Primary,13.0
+447,448,Public Servant,2012,Termination,False,True,False,False,True,False,False,False,False,False,False,False,False,Male,31-35,AO8 and Above,2.0
+448,449,Cleaner,2013,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,61 or older,,10.0
+449,450,Teacher,2012,Resignation-Other employer,False,False,False,False,True,False,False,False,False,False,False,False,False,Male,36-40,Primary,
+450,451,Teacher,2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,61 or older,Primary,21.0
+451,452,Teacher Aide,2013,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,21-25,,1.0
+452,453,Head of Curriculum/Head of Special Education,2013,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,41-45,,6.0
+453,454,Cleaner,2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,,
+454,455,Public Servant,2013,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,A01-A04,0.0
+455,456,Teacher,2013,Other,False,False,True,False,False,True,False,False,False,False,True,True,False,Female,26-30,Secondary,4.0
+456,457,Teacher,2013,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,21-25,Primary,0.0
+457,458,Teacher,2013,Voluntary Early Retirement (VER),False,False,True,False,False,True,False,False,False,False,True,False,False,Female,56-60,Primary,31.0
+458,459,Public Servant,2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,56-60,A01-A04,24.0
+459,460,Public Servant,2012,Resignation-Move overseas/interstate,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,AO5-AO7,-1.0
+460,461,School Administrative Staff,2013,Termination,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,,4.0
+461,462,Teacher Aide,2013,Resignation-Other reasons,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,51-55,,3.0
+462,463,Teacher,2013,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,Primary,32.0
+463,464,Teacher,2013,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,True,True,False,Female,41-45,Primary,
+464,465,Teacher,2013,Resignation-Other employer,False,False,False,False,False,False,False,False,False,True,False,False,False,Female,36-40,Primary,11.0
+465,466,Teacher,2013,Age Retirement,False,False,True,False,False,False,False,False,False,False,False,True,False,Female,56-60,Special Education,5.0
+466,467,Teacher,2013,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,False,True,False,Female,41-45,Secondary,0.0
+467,468,Teacher Aide,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,
+468,469,Cleaner,2013,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,61 or older,,14.0
+469,470,Teacher,2013,Other,False,True,False,False,False,False,False,False,False,False,False,True,False,Female,21-25,Primary,0.0
+470,471,Teacher,2013,Resignation-Other reasons,False,False,True,False,False,False,False,False,False,False,False,True,False,Female,46-50,Primary,0.0
+471,472,Teacher,2013,Resignation-Other reasons,False,False,False,False,False,False,True,False,False,False,True,False,False,Female,56-60,Secondary,
+472,473,Head of Curriculum/Head of Special Education,2013,Age Retirement,False,False,False,False,False,True,False,False,False,False,True,True,False,Female,61 or older,,15.0
+473,474,Teacher,2013,Resignation-Other reasons,False,False,False,False,True,True,False,False,True,False,False,True,False,Female,51-55,Primary,16.0
+474,475,Teacher Aide,2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,False,False,,61 or older,,4.0
+475,476,Cleaner,2013,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,61 or older,,8.0
+476,477,Teacher,2013,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,51-55,Secondary,2.0
+477,478,Cleaner,2013,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,46-50,,9.0
+478,479,Teacher,2013,Resignation-Other reasons,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,Primary,
+479,480,Teacher,2013,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,False,True,False,Female,26-30,Primary,0.0
+480,481,Teacher Aide,2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,61 or older,,37.0
+481,482,Teacher Aide,2012,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,41-45,,22.0
+482,483,Teacher Aide,2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,,5.0
+483,484,Head of Curriculum/Head of Special Education,2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,True,False,False,Female,61 or older,,4.0
+484,485,Guidance Officer,2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,,25.0
+485,486,Teacher Aide,2012,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,46-50,,2.0
+486,487,Teacher,2013,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,41-45,Primary,20.0
+487,488,Teacher Aide,2012,Ill Health Retirement,False,False,True,False,False,False,True,False,False,False,False,False,False,Female,61 or older,,2.0
+488,489,Guidance Officer,2013,Age Retirement,False,False,True,False,False,False,False,False,False,False,False,True,False,Female,61 or older,,21.0
+489,490,Cleaner,2012,Resignation-Other reasons,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,46-50,,
+490,491,Head of Curriculum/Head of Special Education,2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,61 or older,,1.0
+491,492,Professional Officer,2013,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,True,False,Female,61 or older,PO1-PO4,8.0
+492,493,Teacher,2013,Resignation-Other reasons,False,False,False,False,False,True,False,False,False,False,False,False,False,,61 or older,Special Education,5.0
+493,494,Teacher Aide,2013,Other,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,,17.0
+494,495,Cleaner,2012,Resignation-Other employer,False,True,False,False,False,True,False,False,False,False,True,False,False,Female,56-60,,24.0
+495,496,Cleaner,2013,Resignation-Other reasons,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,46-50,,1.0
+496,497,Teacher,2013,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,True,True,False,Male,51-55,Secondary,1.0
+497,498,Teacher,2013,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,36-40,Primary,4.0
+498,499,Public Servant,2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,51-55,A01-A04,3.0
+499,500,Public Servant,2013,Resignation-Move overseas/interstate,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,26-30,A01-A04,0.0
+500,501,Teacher,2013,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,31-35,Primary,11.0
+501,502,Teacher,2013,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,True,False,False,,61 or older,Secondary,42.0
+502,503,School Principal,2013,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56-60,,35.0
+503,504,Teacher,2013,Resignation-Other reasons,False,False,False,False,False,True,False,False,False,False,True,False,False,Male,61 or older,Secondary,0.0
+504,505,Teacher,2013,Resignation-Move overseas/interstate,False,True,False,False,False,False,False,False,False,False,False,False,False,Male,36-40,Secondary,2.0
+505,506,Teacher,2013,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,False,True,False,Female,46-50,Special Education,
+506,507,Public Servant,2013,Resignation-Other reasons,True,False,True,False,True,False,False,False,False,False,False,False,False,Female,21-25,A01-A04,3.0
+507,508,Public Servant,2013,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,46-50,A01-A04,19.0
+508,509,Teacher Aide,2013,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56-60,Primary,
+509,510,Teacher,2013,Age Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,51-55,Primary,18.0
+510,511,Other,2013,Other,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,36-40,,0.0
+511,512,Teacher,2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,Secondary,38.0
+512,513,Teacher,2014,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,56-60,Secondary,37.0
+513,514,Teacher,2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,Secondary,38.0
+514,515,Schools Officer,2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,,9.0
+515,516,Business Service Manager,2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,,14.0
+516,517,Teacher,2012,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,Primary,28.0
+517,518,Teacher Aide,2010,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,,31-35,,3.0
+518,519,Teacher,2012,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,True,False,Male,56-60,Primary,24.0
+519,520,Teacher,2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,,56-60,Primary,35.0
+520,521,Teacher Aide,2013,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,51-55,,13.0
+521,522,Head of Curriculum/Head of Special Education,2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56-60,,27.0
+522,523,Schools Officer,2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,61 or older,,14.0
+523,524,Teacher,2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56-60,Primary,14.0
+524,525,Teacher,2012,Age Retirement,False,False,False,False,False,False,False,False,True,False,True,True,False,Female,61 or older,Secondary,4.0
+525,526,Teacher Aide,2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,,18.0
+526,527,,2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,,1.0
+527,528,Teacher Aide,2012,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,,26.0
+528,529,Teacher,2012,Ill Health Retirement,False,False,True,False,True,True,False,False,False,False,False,False,False,Male,61 or older,Primary,22.0
+529,530,Schools Officer,2013,Age Retirement,False,False,False,False,False,True,False,False,False,False,False,False,False,Male,61 or older,,
+530,531,Teacher,2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,,61 or older,Primary,38.0
+531,532,Cleaner,2013,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,False,True,False,Female,56-60,,
+532,533,Teacher,2013,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,False,True,True,False,Female,56-60,Secondary,18.0
+533,534,Public Servant,2013,Resignation-Move overseas/interstate,False,True,False,False,False,False,False,False,False,False,False,False,False,Male,36-40,AO8 and Above,1.0
+534,535,Cleaner,2012,Resignation-Other reasons,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56-60,,4.0
+535,536,Teacher,2013,Age Retirement,False,False,False,True,True,False,False,False,False,False,False,False,False,Female,56-60,Primary,16.0
+536,537,Teacher Aide,2013,Resignation-Other reasons,False,False,False,False,False,False,False,False,True,False,False,False,False,Female,46-50,,1.0
+537,538,Teacher Aide,2013,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,,17.0
+538,539,Teacher,2013,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,26-30,Primary,
+539,540,Public Servant,2013,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,51-55,A01-A04,4.0
+540,541,Teacher Aide,2013,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,46-50,,7.0
+541,542,Public Servant,2013,Resignation-Other reasons,False,False,False,False,False,True,False,False,True,False,False,False,False,Female,41-45,A01-A04,1.0
+542,543,Cleaner,2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,6.0
+543,544,Professional Officer,2013,Resignation-Other employer,True,False,False,True,False,False,False,False,False,False,False,False,False,Female,21-25,PO1-PO4,2.0
+544,545,Cleaner,2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,,4.0
+545,546,Teacher,2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,False,False,Male,56-60,Primary,12.0
+546,547,Cleaner,2013,Other,False,False,True,True,False,False,False,False,False,False,False,False,False,Male,61 or older,,4.0
+547,548,Teacher Aide,2013,Resignation-Other employer,True,False,False,False,True,True,False,False,False,False,False,False,False,Female,41-45,,1.0
+548,549,Teacher,2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,Secondary,27.0
+549,550,Teacher,2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,51-55,Secondary,34.0
+550,551,Teacher,2013,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,False,False,False,Male,36-40,Primary,8.0
+551,552,Schools Officer,2013,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,41-45,,2.0
+552,553,Teacher,2013,Resignation-Other reasons,False,False,False,False,True,False,False,False,False,False,True,True,False,Female,56-60,Special Education,0.0
+553,554,Teacher,2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,Special Education,15.0
+554,555,Teacher,2012,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,Secondary,
+555,556,Teacher Aide,09/2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,Primary,38.0
+556,557,Head of Curriculum/Head of Special Education,09/2013,Age Retirement,False,False,True,False,False,False,False,False,False,False,False,True,False,Female,56-60,,3.0
+557,558,Teacher,07/2013,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,True,False,True,True,False,Female,21-25,Middle,2.0
+558,559,Teacher,08/2013,Age Retirement,False,False,False,False,True,False,False,False,False,True,False,False,False,Male,61 or older,Primary,7.0
+559,560,Teacher Aide,09/2013,Voluntary Early Retirement (VER),False,False,False,False,False,False,True,False,False,False,False,False,False,Female,61 or older,,12.0
+560,561,Public Servant,07/2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,AO5-AO7,1.0
+561,562,Head of Curriculum/Head of Special Education,08/2013,Voluntary Early Retirement (VER),False,False,False,False,False,False,True,False,True,False,True,True,False,Male,56-60,,13.0
+562,563,Cleaner,06/2013,Resignation-Move overseas/interstate,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,,1.0
+563,564,Teacher,06/2013,Resignation-Other reasons,False,False,False,False,True,False,False,False,True,False,True,True,False,Female,41-45,Secondary,2.0
+564,565,Teacher,09/2013,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,False,False,True,False,Female,51-55,Secondary,17.0
+565,566,Teacher,07/2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,51-55,Secondary,17.0
+566,567,Head of Curriculum/Head of Special Education,04/2013,Age Retirement,False,False,False,False,False,True,False,False,False,False,False,True,False,Male,56-60,,28.0
+567,568,Teacher,07/2013,Age Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,61 or older,Primary,2.0
+568,569,Teacher Aide,06/2013,Resignation-Other reasons,False,True,False,True,False,False,False,False,False,False,False,True,False,Female,46-50,,
+569,570,Schools Officer,07/2013,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,31-35,,3.0
+570,571,Teacher Aide,06/2013,Other,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,41-45,,8.0
+571,572,Business Service Manager,07/2013,Resignation-Other reasons,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,,5.0
+572,573,Cleaner,09/2013,Termination,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56-60,,
+573,574,Cleaner,06/2013,Ill Health Retirement,False,False,True,False,True,False,False,False,False,False,False,False,True,Female,41-45,,2.0
+574,575,Public Servant,06/2013,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,AO5-AO7,6.0
+575,576,Public Servant,07/2013,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,False,True,False,Female,31-35,AO5-AO7,8.0
+576,577,Teacher Aide,06/2013,Resignation-Other reasons,False,True,False,True,False,False,False,False,False,False,False,False,False,Female,26-30,,
+577,578,Teacher,09/2013,Resignation-Other employer,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,36-40,Primary,15.0
+578,579,Teacher,07/2013,Age Retirement,False,False,False,False,True,False,False,False,True,False,False,False,False,Male,61 or older,Secondary,10.0
+579,580,Schools Officer,07/2013,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,56-60,,10.0
+580,581,Schools Officer,07/2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,,26.0
+581,582,Teacher Aide,05/2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,17.0
+582,583,Teacher,05/2013,Age Retirement,False,False,True,False,False,False,False,False,False,False,False,True,False,Female,56-60,Secondary,13.0
+583,584,Cleaner,09/2013,Age Retirement,False,False,False,False,False,True,True,False,False,False,False,False,False,Female,61 or older,,21.0
+584,585,School Administrative Staff,07/2013,Resignation-Other employer,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,51-55,,5.0
+585,586,Teacher Aide,06/2013,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,21-25,,0.0
+586,587,Teacher,09/2010,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,51-55,Special Education,10.0
+587,588,Teacher,06/2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,Secondary,15.0
+588,589,Other,06/2013,Resignation-Other employer,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,31-35,,2.0
+589,590,Other,09/2013,Resignation-Other reasons,False,False,False,False,False,False,True,False,False,False,True,False,False,Male,61 or older,,24.0
+590,591,Public Servant,01/2014,Resignation-Other employer,False,False,False,False,True,False,False,False,True,False,True,False,False,Female,31-35,,2.0
+591,592,Cleaner,06/2013,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,True,False,False,Female,51-55,,11.0
+592,593,Cleaner,06/2013,Resignation-Other reasons,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,,3.0
+593,594,Teacher,06/2013,Resignation-Other reasons,False,False,True,True,False,True,False,False,False,False,True,True,False,Female,36-40,Secondary,4.0
+594,595,Cleaner,06/2013,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56-60,,
+595,596,Head of Curriculum/Head of Special Education,06/2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,,9.0
+596,597,Cleaner,09/2013,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,13.0
+597,598,Head of Curriculum/Head of Special Education,06/2013,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,False,True,False,False,Male,56-60,,27.0
+598,599,Teacher,07/2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,Primary,27.0
+599,600,Teacher,09/2013,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,Secondary,15.0
+600,601,Teacher Aide,07/2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,
+601,602,Public Servant,07/2013,Resignation-Other employer,False,False,False,False,False,True,True,False,False,False,False,False,False,Female,26-30,AO5-AO7,3.0
+602,603,Cleaner,06/2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,6.0
+603,604,Public Servant,09/2013,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,36-40,A01-A04,0.0
+604,605,Schools Officer,07/2013,Resignation-Other reasons,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,61 or older,,17.0
+605,606,School Administrative Staff,07/2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,3.0
+606,607,Teacher,07/2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,Secondary,13.0
+607,608,Teacher,06/2013,Resignation-Other reasons,False,False,False,False,True,True,False,False,False,False,False,False,False,Female,31-35,Primary,2.0
+608,609,Teacher,07/2013,Resignation-Other reasons,False,False,False,False,True,False,False,False,False,False,False,True,False,Female,31-35,Secondary,1.0
+609,610,Teacher,11/2012,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,61 or older,Secondary,0.0
+610,611,Teacher Aide,06/2013,Resignation-Other reasons,False,False,False,False,False,True,False,False,False,False,False,False,False,Female,61 or older,,24.0
+611,612,Teacher,05/2013,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,61 or older,Secondary,23.0
+612,613,Teacher,06/2013,Resignation-Other reasons,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,51-55,Primary,14.0
+613,614,Teacher Aide,06/2013,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,26-30,,3.0
+614,615,Teacher Aide,07/2013,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,,13.0
+615,616,Teacher,06/2013,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,51-55,Secondary,13.0
+616,617,Teacher,05/2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,True,Female,56-60,Secondary,40.0
+617,618,Teacher,09/2013,Resignation-Other reasons,False,False,False,False,False,True,False,False,True,False,True,False,False,Female,51-55,Secondary,5.0
+618,619,Teacher,07/2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,Secondary,13.0
+619,620,Teacher,06/2013,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,Special Education,9.0
+620,621,Public Servant,08/2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,A01-A04,19.0
+621,622,Teacher,06/2013,Resignation-Other reasons,False,False,False,True,True,False,False,False,False,False,False,False,False,Female,51-55,Primary,1.0
+622,623,Teacher Aide,06/2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,,5.0
+623,624,Teacher,07/2013,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,Special Education,6.0
+624,625,Head of Curriculum/Head of Special Education,07/2013,Age Retirement,False,False,False,False,True,False,False,False,False,False,False,False,False,Female,56-60,,10.0
+625,626,Cleaner,05/2013,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,41-45,,2.0
+626,627,Public Servant,05/2013,Resignation-Other reasons,False,True,False,False,False,True,False,False,False,False,False,False,False,Female,26-30,A01-A04,3.0
+627,628,Teacher Aide,05/2013,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,61 or older,,13.0
+628,629,Teacher,04/2014,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,Primary,7.0
+629,630,Teacher Aide,09/2013,Age Retirement,False,False,False,False,True,False,True,False,True,False,False,False,False,Female,56-60,,21.0
+630,631,Cleaner,12/2013,Age Retirement,False,False,True,False,False,False,False,False,False,False,False,True,False,Female,61 or older,,6.0
+631,632,Teacher Aide,08/2013,Resignation-Other reasons,False,False,True,False,False,False,False,False,False,False,False,False,True,Male,41-45,,5.0
+632,633,Teacher Aide,08/2013,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,0.0
+633,634,Cleaner,06/2013,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56-60,,22.0
+634,635,Cleaner,08/2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,31.0
+635,636,Teacher,08/2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,51-55,Primary,34.0
+636,637,Cleaner,01/2014,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,,14.0
+637,638,Teacher Aide,09/2013,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,,0.0
+638,639,Teacher,07/2014,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,61 or older,Secondary,42.0
+639,640,Deputy Principal,09/2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,,9.0
+640,641,Teacher Aide,08/2013,Other,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,41-45,,6.0
+641,642,"School Based Professional Staff (Therapist, nurse, etc)",09/2013,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,,3.0
+642,643,Teacher Aide,09/2013,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,31-35,,3.0
+643,644,Teacher,08/2013,Voluntary Early Retirement (VER),False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56-60,Secondary,4.0
+644,645,Teacher,10/2013,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,Special Education,5.0
+645,646,Cleaner,12/2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,20.0
+646,647,Public Servant,09/2013,Age Retirement,False,False,False,False,True,True,False,False,True,False,False,False,False,Male,51-55,AO5-AO7,16.0
+647,648,Technical Officer,09/2013,Resignation-Other reasons,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,51-55,,16.0
+648,649,Cleaner,10/2013,Other,False,True,False,False,True,True,False,True,False,False,False,False,False,Female,51-55,,3.0
+649,650,Teacher Aide,09/2013,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,51-55,,5.0
+650,651,Head of Curriculum/Head of Special Education,10/2013,Resignation-Other employer,False,True,False,False,False,False,True,False,False,False,False,False,False,Female,61 or older,,10.0
+651,652,Teacher,09/2013,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,51-55,Primary,1.0
+652,653,Head of Curriculum/Head of Special Education,08/2013,Resignation-Move overseas/interstate,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,61 or older,,20.0
+653,654,Teacher,09/2013,Age Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56-60,,0.0
+654,655,Teacher,01/2014,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,Special Education,19.0
+655,656,School Principal,09/2013,Age Retirement,False,False,True,False,False,False,False,False,False,False,False,True,False,Male,56-60,,19.0
+656,657,Teacher Aide,10/2013,Other,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,26-30,,2.0
+657,658,Teacher,10/2013,Age Retirement,False,False,True,True,False,False,False,False,False,False,False,True,False,Female,51-55,Primary,35.0
+658,659,Teacher,09/2013,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,,61 or older,Secondary,11.0
+659,660,Teacher Aide,08/2013,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,Primary,
+660,661,Cleaner,09/2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,,
+661,662,Teacher,01/2014,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,Secondary,4.0
+662,663,Teacher,09/2013,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,46-50,Primary,
+663,665,Public Servant,06/2013,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,A01-A04,
+664,666,Head of Curriculum/Head of Special Education,01/2014,Resignation-Other employer,True,False,False,False,False,False,False,False,False,False,False,True,False,Male,46-50,,1.0
+665,667,Teacher,07/2014,Age Retirement,False,False,False,False,True,True,False,False,True,False,False,True,False,Female,,Special Education,13.0
+666,668,Public Servant,01/2014,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Male,21-25,A01-A04,1.0
+667,669,Teacher Aide,12/2013,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,,2.0
+668,670,Guidance Officer,01/2014,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,,61 or older,,12.0
+669,671,"School Based Professional Staff (Therapist, nurse, etc)",12/2013,Resignation-Move overseas/interstate,False,True,False,False,False,True,False,False,False,False,False,False,False,Female,26-30,,0.0
+670,672,"School Based Professional Staff (Therapist, nurse, etc)",12/2013,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,21-25,,0.0
+671,673,Teacher,12/2013,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,Primary,4.0
+672,674,Teacher,01/2014,Age Retirement,False,False,False,False,True,False,False,False,False,False,True,True,False,Female,61 or older,Primary,13.0
+673,675,School Administrative Staff,12/2013,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56-60,,0.0
+674,676,Cleaner,11/2013,Age Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,51-55,,15.0
+675,677,Public Servant,09/2013,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,AO8 and Above,25.0
+676,678,Teacher,01/2014,Resignation-Other employer,False,True,False,False,False,False,False,False,True,False,False,False,False,Female,26-30,Secondary,3.0
+677,679,Teacher,12/2013,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56-60,Secondary,22.0
+678,680,,12/2013,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,,1.0
+679,681,Cleaner,12/2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,61 or older,,12.0
+680,682,Public Servant,12/2013,Contract Expired,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,21-25,A01-A04,0.0
+681,683,Teacher,04/2014,Age Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,51-55,,20.0
+682,684,Teacher,11/2013,Resignation-Other employer,False,False,False,False,False,False,False,False,False,False,False,False,False,,46-50,Secondary,22.0
+683,685,Teacher,,Resignation-Other employer,False,True,False,False,False,False,False,False,True,False,False,False,False,Male,21-25,Primary,
+684,686,Schools Officer,11/2013,Resignation-Other employer,False,False,False,False,False,False,True,False,False,False,False,False,False,Female,46-50,,9.0
+685,687,Public Servant,01/2014,Resignation-Other employer,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,56-60,AO8 and Above,4.0
+686,688,Teacher,12/2013,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56-60,Primary,
+687,689,Teacher Aide,11/2013,Resignation-Other reasons,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,46-50,,0.0
+688,690,Other,12/2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,,11.0
+689,691,Teacher,,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,Secondary,
+690,692,Teacher,01/2014,Resignation-Move overseas/interstate,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,31-35,Secondary,10.0
+691,693,Teacher,01/2014,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,,1.0
+692,694,Teacher,12/2013,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,21-25,Secondary,1.0
+693,695,Teacher,01/2014,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,41-45,Secondary,4.0
+694,696,Teacher Aide,,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,46-50,,
+695,697,Teacher,10/2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,61 or older,Primary,2.0
+696,698,Teacher Aide,10/2013,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,26-30,,5.0
+697,699,School Administrative Staff,10/2013,Age Retirement,False,False,False,False,False,False,False,False,True,False,True,True,False,Female,51-55,,24.0
+698,700,Cleaner,11/2013,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,41-45,,3.0
+699,701,Schools Officer,,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,61 or older,,
+700,702,Other,11/2013,Resignation-Other employer,True,False,False,False,False,False,False,False,False,False,False,False,False,Male,21-25,,0.0
+701,703,Teacher,08/2013,Resignation-Other reasons,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,46-50,Primary,25.0
+702,704,Cleaner,09/2013,Other,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56-60,,7.0
+703,705,Public Servant,10/2013,Resignation-Move overseas/interstate,False,False,False,False,True,False,True,False,False,False,False,False,False,Female,51-55,A01-A04,0.0
+704,706,Teacher Aide,,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,,
+705,707,Teacher Aide,11/2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,61 or older,,
+706,708,Teacher Aide,12/2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,61 or older,,37.0
+707,709,Other,11/2013,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,41-45,,5.0
+708,710,Cleaner,,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,,,
+709,711,Teacher,,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,True,True,False,Female,51-55,Primary,
+710,712,Teacher Aide,12/2013,Other,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,56-60,,23.0
+711,713,Teacher,01/2014,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,61 or older,,36.0
+712,714,Teacher Aide,12/2013,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,61 or older,,
+713,715,Teacher,12/2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56-60,Special Education,12.0
+714,716,Teacher,11/2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,56-60,Primary,34.0
+715,717,Teacher Aide,12/2013,Contract Expired,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,,0.0
+716,718,Teacher Aide,12/2013,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,51-55,,12.0
+717,719,Public Servant,10/2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,A01-A04,10.0
+718,720,Technical Officer,,Contract Expired,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,41-45,,
+719,721,Public Servant,09/2013,Contract Expired,False,False,False,False,False,False,True,False,True,True,False,False,False,Male,26-30,A01-A04,0.0
+720,722,Public Servant,09/2013,Contract Expired,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,31-35,A01-A04,0.0
+721,723,Public Servant,09/2013,Contract Expired,False,True,False,False,False,False,False,False,False,True,False,False,False,Male,21-25,A01-A04,0.0
+722,724,Public Servant,09/2013,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,51-55,A01-A04,0.0
+723,725,Public Servant,09/2013,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,31-35,A01-A04,0.0
+724,726,Teacher,,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,46-50,Primary,
+725,727,Public Servant,,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,26-30,A01-A04,
+726,728,Head of Curriculum/Head of Special Education,01/2014,Resignation-Other employer,False,False,False,False,False,False,False,False,False,True,False,True,False,Male,56-60,,27.0
+727,729,Teacher,01/2014,Resignation-Other reasons,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,51-55,Secondary,11.0
+728,730,Teacher,01/2014,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,56-60,Primary,1.0
+729,731,Deputy Principal,,Age Retirement,False,False,False,False,True,False,True,False,False,False,False,True,False,Male,56-60,,
+730,732,Teacher Aide,12/2013,Resignation-Other employer,False,False,False,False,False,False,False,False,False,True,False,False,False,Female,46-50,,14.0
+731,733,Technical Officer,01/2014,Resignation-Other reasons,False,False,False,False,True,False,False,False,True,False,True,False,False,Male,56-60,,17.0
+732,734,Head of Curriculum/Head of Special Education,01/2014,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,61 or older,,29.0
+733,735,Teacher Aide,,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,
+734,736,Teacher Aide,10/2013,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,24.0
+735,737,Cleaner,10/2013,Resignation-Move overseas/interstate,False,False,True,True,False,False,False,False,False,False,False,False,False,Female,61 or older,,
+736,738,Head of Curriculum/Head of Special Education,10/2013,Age Retirement,False,False,True,False,False,False,False,False,False,False,False,True,False,Female,56-60,,11.0
+737,739,Teacher,10/2013,Resignation-Other reasons,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,56-60,Special Education,9.0
+738,740,Teacher Aide,10/2013,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,61 or older,,13.0
+739,741,Teacher,,Age Retirement,False,False,False,True,False,False,False,False,False,False,False,True,False,Female,56-60,Secondary,
+740,742,Teacher,,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,,61 or older,Primary,
+741,743,Teacher,01/2014,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,Primary,13.0
+742,744,Teacher,01/2014,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,51-55,Primary,11.0
+743,745,Teacher,09/2014,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,Primary,2.0
+744,746,Public Servant,12/2013,Resignation-Other employer,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,A01-A04,9.0
+745,747,Guidance Officer,,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56-60,,
+746,748,Teacher,01/2014,Age Retirement,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,56-60,Middle,11.0
+747,749,Teacher,01/2014,Resignation-Move overseas/interstate,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,41-45,Primary,6.0
+748,750,Teacher,12/2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,Special Education,17.0
+749,751,Teacher,,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,False,False,False,False,False,False,Female,51-55,Primary,
+750,752,Teacher,01/2014,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,Primary,31.0
+751,753,Cleaner,12/2013,Resignation-Other reasons,False,False,False,False,False,True,False,False,False,False,False,False,False,Male,61 or older,,8.0
+752,754,Teacher Aide,11/2013,Resignation-Other reasons,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,46-50,,
+753,755,Teacher,11/2013,Resignation-Other employer,False,False,True,False,False,True,False,False,False,False,False,True,False,Female,31-35,Primary,2.0
+754,756,Public Servant,,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,,61 or older,A01-A04,
+755,757,Teacher,12/2013,Resignation-Other employer,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,41-45,Primary,0.0
+756,758,Public Servant,11/2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,A01-A04,13.0
+757,759,Head of Curriculum/Head of Special Education,01/2014,Age Retirement,False,False,False,False,True,True,False,False,False,False,False,True,False,Male,56-60,,23.0
+758,760,Head of Curriculum/Head of Special Education,12/2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,56-60,,14.0
+759,761,Teacher,12/2013,Voluntary Early Retirement (VER),False,False,False,False,True,True,False,False,False,False,False,False,False,Female,51-55,Secondary,15.0
+760,762,Teacher,,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,Special Education,
+761,763,Teacher,12/2013,Other,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,51-55,Secondary,
+762,764,Teacher,07/2006,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,Primary,0.0
+763,765,Teacher Aide,12/2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,,8.0
+764,766,Teacher,,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,51-55,Primary,
+765,767,Teacher,01/2014,Age Retirement,False,False,False,False,False,True,False,False,True,False,False,True,False,Male,51-55,Secondary,31.0
+766,768,Teacher,01/2014,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Male,26-30,Primary,7.0
+767,769,Teacher,12/2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,61 or older,Primary,21.0
+768,770,Head of Curriculum/Head of Special Education,02/2014,Ill Health Retirement,False,False,True,False,True,True,False,False,False,False,True,True,True,Male,56-60,,21.0
+769,771,Teacher Aide,11/2013,Resignation-Other reasons,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,46-50,,
+770,772,Cleaner,,Resignation-Other reasons,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,
+771,773,Head of Curriculum/Head of Special Education,01/2014,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Male,36-40,,7.0
+772,774,Head of Curriculum/Head of Special Education,04/2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,61 or older,,7.0
+773,775,Public Servant,,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,A01-A04,
+774,776,Teacher Aide,,Resignation-Other employer,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,41-45,,
+775,777,Cleaner,12/2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,
+776,778,Public Servant,,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,31-35,A01-A04,
+777,779,Cleaner,,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,,56-60,,
+778,780,Cleaner,10/2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,21.0
+779,781,Schools Officer,10/2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,,21.0
+780,782,Cleaner,12/2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,,
+781,783,Business Service Manager,10/2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,61 or older,,
+782,784,Teacher,10/2013,Voluntary Early Retirement (VER),False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,Special Education,5.0
+783,785,Teacher Aide,09/2013,Contract Expired,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,
+784,786,Teacher,10/2013,Resignation-Other reasons,False,True,False,False,False,True,False,False,True,False,False,True,False,Female,21-25,Secondary,0.0
+785,787,Teacher Aide,01/2014,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,
+786,788,Teacher,01/2014,Resignation-Other employer,False,True,False,False,False,True,False,False,False,True,False,False,False,Female,41-45,Secondary,6.0
+787,789,Teacher,01/2014,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56-60,Secondary,
+788,790,Teacher,,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,Secondary,
+789,791,"School Based Professional Staff (Therapist, nurse, etc)",01/2014,Resignation-Other reasons,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,,15.0
+790,792,Teacher,01/2014,Resignation-Other reasons,False,False,False,False,False,False,False,False,True,False,True,False,False,Male,36-40,Secondary,6.0
+791,793,Public Servant,,Resignation-Other reasons,False,False,False,False,False,False,False,False,True,False,False,False,False,Female,46-50,A01-A04,
+792,794,Teacher Aide,,Other,False,False,True,False,True,False,False,False,True,False,False,False,False,Female,61 or older,,
+793,795,Teacher,12/2013,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,61 or older,Primary,7.0
+794,796,Cleaner,11/2013,Resignation-Move overseas/interstate,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,,
+795,797,Teacher,,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,56-60,Primary,
+796,798,Teacher,,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,56-60,Secondary,
+797,799,Public Servant,,Resignation-Move overseas/interstate,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,36-40,A01-A04,
+798,800,Teacher Aide,,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,,
+799,801,Teacher,,Other,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,51-55,Special Education,
+800,802,Teacher,01/2014,Other,False,False,True,False,False,False,False,False,False,False,False,True,False,Female,21-25,Primary,3.0
+801,803,Teacher,01/2014,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,56-60,Primary,38.0
+802,804,Teacher Aide,12/2013,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,,,,
+803,805,Teacher,01/2014,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,46-50,Primary,7.0
+804,806,Teacher,01/2014,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,26-30,Primary,1.0
+805,807,Teacher Aide,,Age Retirement,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,61 or older,,
+806,808,Cleaner,12/2013,Resignation-Other employer,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,,8.0
+807,809,Teacher,12/2013,Resignation-Other reasons,False,False,False,False,True,False,False,False,False,False,False,True,False,Female,36-40,Primary,9.0
+808,810,Teacher Aide,12/2013,Resignation-Other reasons,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,26-30,,3.0
+809,811,Teacher,01/2014,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,51-55,Primary,8.0
+810,812,Teacher,,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,Primary,
+811,813,School Administrative Staff,12/2013,Contract Expired,False,False,False,False,False,False,True,False,False,False,True,True,False,Female,41-45,A01-A04,3.0
+812,814,Teacher,01/2014,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,61 or older,Secondary,9.0
+813,815,Public Servant,11/2013,Age Retirement,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,56-60,AO5-AO7,6.0
+814,816,Cleaner,11/2013,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,61 or older,,
+815,817,Teacher,01/2014,Resignation-Other employer,False,True,False,False,False,False,False,False,False,False,False,False,False,Male,21-25,Primary,2.0
+816,818,Teacher,01/2014,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,21-25,Secondary,2.0
+817,819,Teacher,02/2014,Age Retirement,False,False,True,True,False,False,False,False,False,False,True,False,False,Female,56-60,Primary,15.0
+818,820,Teacher,01/2014,Age Retirement,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,51-55,Secondary,34.0
+819,821,Public Servant,01/2014,Resignation-Move overseas/interstate,False,False,False,True,False,False,False,False,False,False,False,True,False,Female,31-35,A01-A04,5.0
+820,822,Teacher,12/2013,Ill Health Retirement,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,41-45,Secondary,4.0
+821,823,Teacher Aide,12/2013,Resignation-Move overseas/interstate,False,False,False,False,False,False,False,False,False,False,False,False,False,,,,
