@@ -1,0 +1,823 @@
+,cf_to_public_sector,cf_to_private_sector,cf_health,cf_family,cf_dept_dissatisfaction,cf_job_dissatisfaction,cf_interpersonal_conflict,cf_other,institute_recognition,institute_job_security,dept_workload,dept_work_life_balance,dept_work_environment,gender,age,service_years,exit_year,college
+0,True,False,False,False,False,True,False,True,True,False,False,False,False,Male,56+,7 to 10 Years,2012,DETE
+1,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,56+,,2012,DETE
+2,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,1 to 2 Years,2012,DETE
+3,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,5 to 6 Years,2012,DETE
+4,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,20 Plus Years,2012,DETE
+5,False,True,False,True,False,False,False,False,False,False,False,False,False,Female,41-45,11 to 20 Years,2012,DETE
+6,False,False,False,False,True,True,False,False,False,False,False,False,False,Female,56+,5 to 6 Years,2012,DETE
+7,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56+,20 Plus Years,2012,DETE
+8,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,31-35,3 to 4 Years,2012,DETE
+9,False,False,False,False,True,True,True,False,False,False,False,False,False,Female,46-50,3 to 4 Years,2012,DETE
+10,False,False,False,False,False,True,False,False,False,False,False,False,False,Male,56+,11 to 20 Years,2012,DETE
+11,False,False,False,True,False,False,False,False,False,False,False,False,False,Male,31-35,3 to 4 Years,2012,DETE
+12,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,36-40,11 to 20 Years,2012,DETE
+13,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,11 to 20 Years,2012,DETE
+14,False,False,False,False,True,True,False,False,False,False,False,False,False,Male,31-35,1 to 2 Years,2012,DETE
+15,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,56+,7 to 10 Years,2012,DETE
+16,False,False,False,False,False,False,False,False,True,False,False,False,False,Male,56+,,2012,DETE
+17,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,56+,11 to 20 Years,2012,DETE
+18,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,5 to 6 Years,2012,DETE
+19,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,20 Plus Years,2012,DETE
+20,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,20 Plus Years,2012,DETE
+21,False,False,False,False,False,False,True,False,False,False,False,False,False,Female,51-55,3 to 4 Years,2012,DETE
+22,False,False,False,False,True,False,False,False,True,False,False,True,False,Female,46-50,11 to 20 Years,2012,DETE
+23,False,False,False,True,False,True,False,False,False,False,False,True,False,Female,56+,Under 1 Year,2012,DETE
+24,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,20 Plus Years,2012,DETE
+25,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,41-45,7 to 10 Years,2012,DETE
+26,False,False,False,False,False,False,False,False,False,False,True,True,False,Male,56+,20 Plus Years,2012,DETE
+27,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,21-25,1 to 2 Years,2012,DETE
+28,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56+,20 Plus Years,2012,DETE
+29,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,7 to 10 Years,2012,DETE
+30,False,False,True,False,True,True,False,False,False,False,False,False,False,Female,56+,20 Plus Years,2012,DETE
+31,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,20 Plus Years,2012,DETE
+32,False,False,True,False,False,False,True,False,False,False,False,True,False,Male,56+,11 to 20 Years,2012,DETE
+33,False,False,False,False,False,False,True,False,True,False,False,False,False,Male,36-40,7 to 10 Years,2012,DETE
+34,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,56+,3 to 4 Years,2012,DETE
+35,False,False,True,False,True,False,False,False,False,False,False,False,False,Female,51-55,11 to 20 Years,2012,DETE
+36,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,11 to 20 Years,2012,DETE
+37,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,21-25,1 to 2 Years,2012,DETE
+38,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,11 to 20 Years,2012,DETE
+39,False,False,False,False,False,True,False,False,True,False,False,True,False,Female,21-25,,2012,DETE
+40,True,False,False,False,False,False,False,False,False,False,False,False,False,Male,56+,20 Plus Years,2012,DETE
+41,False,False,False,False,False,False,True,False,False,False,False,True,False,Female,51-55,11 to 20 Years,2012,DETE
+42,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,41-45,1 to 2 Years,2012,DETE
+43,False,False,False,False,False,True,False,False,False,False,True,True,False,Male,51-55,20 Plus Years,2012,DETE
+44,False,True,False,False,True,False,False,False,False,False,True,False,False,Female,51-55,20 Plus Years,2012,DETE
+45,False,False,True,False,False,False,False,False,False,False,True,True,False,Female,46-50,11 to 20 Years,2012,DETE
+46,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,3 to 4 Years,2012,DETE
+47,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,11 to 20 Years,2012,DETE
+48,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,21-25,1 to 2 Years,2012,DETE
+49,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,5 to 6 Years,2012,DETE
+50,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,21-25,1 to 2 Years,2012,DETE
+51,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,11 to 20 Years,2012,DETE
+52,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,20 Plus Years,2012,DETE
+53,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56+,,2012,DETE
+54,False,False,True,False,False,True,False,False,True,False,False,False,False,Female,56+,3 to 4 Years,2012,DETE
+55,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,26-30,3 to 4 Years,2012,DETE
+56,False,False,False,False,False,True,False,False,False,False,False,True,False,Female,56+,20 Plus Years,2012,DETE
+57,False,True,False,False,False,False,False,False,False,False,False,False,False,Male,46-50,Under 1 Year,2012,DETE
+58,False,False,True,False,False,True,False,False,False,False,True,False,False,Female,51-55,Under 1 Year,2012,DETE
+59,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,,2012,DETE
+60,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,46-50,20 Plus Years,2012,DETE
+61,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,31-35,1 to 2 Years,2012,DETE
+62,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,20 Plus Years,2012,DETE
+63,False,False,True,False,False,False,False,False,False,False,True,False,True,Male,56+,20 Plus Years,2012,DETE
+64,False,False,False,False,False,True,False,False,False,False,True,False,False,Male,56+,20 Plus Years,2012,DETE
+65,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56+,20 Plus Years,2012,DETE
+66,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,56+,5 to 6 Years,2012,DETE
+67,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,26-30,,2012,DETE
+68,False,False,False,False,False,True,False,False,True,False,False,False,False,Male,56+,5 to 6 Years,2012,DETE
+69,False,False,False,False,False,True,False,False,False,False,False,False,False,Female,36-40,,2012,DETE
+70,False,False,False,False,False,False,False,False,False,False,True,False,True,Female,56+,20 Plus Years,2012,DETE
+71,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,1 to 2 Years,2012,DETE
+72,False,False,False,True,False,False,False,False,False,False,False,True,False,Female,56+,,2012,DETE
+73,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,26-30,1 to 2 Years,2012,DETE
+74,False,False,False,False,True,False,False,False,False,False,False,True,False,Female,56+,20 Plus Years,2012,DETE
+75,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,26-30,Under 1 Year,2012,DETE
+76,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56+,1 to 2 Years,2012,DETE
+77,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,51-55,5 to 6 Years,2012,DETE
+78,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,21-25,Under 1 Year,2012,DETE
+79,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,26-30,1 to 2 Years,2012,DETE
+80,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,7 to 10 Years,2012,DETE
+81,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,21-25,1 to 2 Years,2012,DETE
+82,False,False,False,False,False,True,True,False,True,False,False,False,False,Female,51-55,1 to 2 Years,2012,DETE
+83,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,Under 1 Year,2012,DETE
+84,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,1 to 2 Years,2012,DETE
+85,False,False,False,False,True,False,False,False,True,False,True,False,False,Male,56+,20 Plus Years,2012,DETE
+86,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56+,1 to 2 Years,2012,DETE
+87,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,26-30,5 to 6 Years,2012,DETE
+88,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,46-50,1 to 2 Years,2012,DETE
+89,False,False,True,False,False,False,False,False,False,False,False,True,False,Female,56+,20 Plus Years,2013,DETE
+90,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,20 Plus Years,2012,DETE
+91,False,False,True,False,False,False,False,False,False,False,False,True,False,Male,56+,20 Plus Years,2012,DETE
+92,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,3 to 4 Years,2012,DETE
+93,False,False,False,False,False,True,False,False,True,False,False,True,False,Female,41-45,7 to 10 Years,2012,DETE
+94,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,51-55,20 Plus Years,2012,DETE
+95,False,False,False,False,True,True,False,False,False,False,False,False,False,Male,51-55,3 to 4 Years,2012,DETE
+96,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,56+,3 to 4 Years,2012,DETE
+97,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,11 to 20 Years,2012,DETE
+98,False,False,False,False,False,False,False,False,False,False,True,False,False,Male,56+,7 to 10 Years,2012,DETE
+99,False,False,False,True,False,False,False,False,False,False,False,True,False,Male,31-35,1 to 2 Years,2012,DETE
+100,False,False,False,False,True,True,False,False,False,False,False,True,False,Female,36-40,3 to 4 Years,2012,DETE
+101,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,11 to 20 Years,2012,DETE
+102,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,5 to 6 Years,2012,DETE
+103,False,False,False,False,True,True,False,False,True,False,False,False,False,Female,51-55,3 to 4 Years,2012,DETE
+104,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,20 Plus Years,2012,DETE
+105,False,False,False,False,False,True,False,False,False,False,False,True,False,Female,56+,11 to 20 Years,2012,DETE
+106,False,False,False,False,False,False,False,False,False,True,False,True,False,Female,46-50,,2012,DETE
+107,False,False,True,False,False,False,False,False,False,False,False,True,False,Female,56+,7 to 10 Years,2012,DETE
+108,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,31-35,3 to 4 Years,2012,DETE
+109,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,,2012,DETE
+110,False,False,True,False,False,True,False,False,False,False,False,True,False,Female,56+,11 to 20 Years,2012,DETE
+111,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,26-30,7 to 10 Years,2012,DETE
+112,False,False,False,False,False,False,False,False,False,False,False,False,True,Female,56+,5 to 6 Years,2012,DETE
+113,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,3 to 4 Years,2012,DETE
+114,False,False,False,False,True,False,False,False,False,False,False,False,False,Female,41-45,7 to 10 Years,2012,DETE
+115,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,,2012,DETE
+116,False,False,False,False,True,False,True,False,True,False,False,False,False,Male,56+,20 Plus Years,2012,DETE
+117,False,False,False,False,False,True,False,False,False,False,False,False,False,Female,56+,20 Plus Years,2012,DETE
+118,True,False,False,False,False,False,False,False,False,False,True,True,False,Female,46-50,1 to 2 Years,2012,DETE
+119,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,31-35,1 to 2 Years,2012,DETE
+120,False,False,False,False,False,True,False,False,True,False,False,False,False,Female,26-30,3 to 4 Years,2012,DETE
+121,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,31-35,,2012,DETE
+122,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,20 Plus Years,2012,DETE
+123,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,,,2012,DETE
+124,False,True,False,False,False,False,False,False,False,False,False,False,True,Female,36-40,Under 1 Year,2012,DETE
+125,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,20 Plus Years,2012,DETE
+126,False,False,False,False,True,True,False,False,False,False,False,False,False,Male,51-55,20 Plus Years,2012,DETE
+127,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,51-55,20 Plus Years,2013,DETE
+128,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,11 to 20 Years,2012,DETE
+129,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,11 to 20 Years,2012,DETE
+130,True,False,False,False,False,True,False,False,False,True,False,False,False,Male,51-55,Under 1 Year,2012,DETE
+131,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,11 to 20 Years,2012,DETE
+132,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,41-45,1 to 2 Years,2012,DETE
+133,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,,2012,DETE
+134,False,True,False,False,False,False,False,False,False,False,True,True,False,Male,46-50,20 Plus Years,2012,DETE
+135,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,11 to 20 Years,2012,DETE
+136,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56+,,2012,DETE
+137,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,11 to 20 Years,2012,DETE
+138,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,7 to 10 Years,2012,DETE
+139,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,56+,11 to 20 Years,2012,DETE
+140,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,51-55,,2012,DETE
+141,False,False,True,False,False,False,False,False,False,False,True,True,False,Male,56+,,2012,DETE
+142,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56+,3 to 4 Years,2012,DETE
+143,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56+,,2012,DETE
+144,False,False,False,False,False,False,False,False,False,False,True,False,False,Female,56+,20 Plus Years,2012,DETE
+145,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,56+,5 to 6 Years,2012,DETE
+146,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,,2012,DETE
+147,False,True,False,False,False,False,False,False,False,True,False,False,False,Male,26-30,7 to 10 Years,2012,DETE
+148,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,11 to 20 Years,2012,DETE
+149,False,True,False,False,True,True,False,False,False,False,False,False,False,Female,26-30,3 to 4 Years,2012,DETE
+150,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,3 to 4 Years,2012,DETE
+151,False,False,False,False,False,True,False,False,False,False,False,False,False,Male,56+,,2012,DETE
+152,False,False,False,False,False,True,False,False,False,True,False,False,False,Female,36-40,Under 1 Year,2012,DETE
+153,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,36-40,3 to 4 Years,2012,DETE
+154,False,False,False,False,False,False,False,False,False,True,False,False,False,Male,56+,7 to 10 Years,2012,DETE
+155,False,False,False,False,False,True,False,False,False,True,False,False,False,Female,21-25,1 to 2 Years,2012,DETE
+156,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,26-30,1 to 2 Years,2012,DETE
+157,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,21-25,1 to 2 Years,2012,DETE
+158,True,False,False,False,False,False,False,False,False,False,False,False,False,Male,21-25,1 to 2 Years,2012,DETE
+159,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,20 Plus Years,2012,DETE
+160,False,False,False,False,False,False,False,False,True,False,False,False,False,Female,41-45,7 to 10 Years,2012,DETE
+161,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,7 to 10 Years,2012,DETE
+162,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,36-40,3 to 4 Years,2012,DETE
+163,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,7 to 10 Years,2012,DETE
+164,False,True,False,False,False,False,False,False,False,False,False,True,False,Female,41-45,3 to 4 Years,2012,DETE
+165,False,False,False,False,False,False,False,False,False,True,False,False,False,Male,26-30,3 to 4 Years,2012,DETE
+166,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,46-50,7 to 10 Years,2012,DETE
+167,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,36-40,1 to 2 Years,2012,DETE
+168,False,False,False,False,True,False,False,False,False,False,False,False,False,Female,56+,3 to 4 Years,2012,DETE
+169,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,56+,,2012,DETE
+170,False,False,False,False,False,True,True,False,False,False,True,True,False,Female,46-50,3 to 4 Years,2012,DETE
+171,False,False,False,False,False,True,False,False,True,False,False,False,False,Male,46-50,11 to 20 Years,2012,DETE
+172,False,False,False,False,False,False,False,False,True,False,False,False,False,Female,,3 to 4 Years,2012,DETE
+173,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,5 to 6 Years,2012,DETE
+174,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,31-35,5 to 6 Years,2012,DETE
+175,False,False,False,True,False,False,False,False,False,True,False,False,False,Female,26-30,5 to 6 Years,2012,DETE
+176,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,26-30,3 to 4 Years,2012,DETE
+177,False,False,False,False,False,True,False,False,False,False,False,False,False,Female,26-30,Under 1 Year,2012,DETE
+178,False,False,False,False,True,False,False,False,False,True,False,False,False,Male,41-45,1 to 2 Years,2012,DETE
+179,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,36-40,Under 1 Year,2012,DETE
+180,False,False,False,False,False,True,False,False,False,False,False,False,False,Female,26-30,Under 1 Year,2012,DETE
+181,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,31-35,1 to 2 Years,2012,DETE
+182,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,1 to 2 Years,2012,DETE
+183,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,11 to 20 Years,2012,DETE
+184,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,41-45,5 to 6 Years,2012,DETE
+185,False,False,False,True,False,False,False,False,False,False,False,True,False,Female,31-35,7 to 10 Years,2012,DETE
+186,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,5 to 6 Years,2012,DETE
+187,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,26-30,3 to 4 Years,2012,DETE
+188,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,26-30,3 to 4 Years,2012,DETE
+189,False,False,False,False,False,False,False,False,False,True,False,True,False,Female,41-45,5 to 6 Years,2012,DETE
+190,False,False,False,False,False,True,False,False,True,False,False,False,False,Female,56+,7 to 10 Years,2012,DETE
+191,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,3 to 4 Years,2012,DETE
+192,False,False,False,False,False,False,True,False,False,False,False,False,False,Female,46-50,11 to 20 Years,2012,DETE
+193,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,31-35,Under 1 Year,2012,DETE
+194,False,False,False,True,False,False,False,False,False,False,True,True,False,Female,56+,20 Plus Years,2013,DETE
+195,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,46-50,1 to 2 Years,2012,DETE
+196,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,46-50,,2012,DETE
+197,False,False,False,False,False,True,False,False,True,False,False,False,False,Female,31-35,7 to 10 Years,2012,DETE
+198,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,46-50,11 to 20 Years,2012,DETE
+199,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,5 to 6 Years,2012,DETE
+200,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,1 to 2 Years,2012,DETE
+201,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,,2012,DETE
+202,False,False,True,False,False,False,False,False,False,False,False,False,True,Female,46-50,7 to 10 Years,2012,DETE
+203,False,False,False,False,False,False,False,False,False,False,False,False,True,Female,56+,11 to 20 Years,2012,DETE
+204,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,21-25,1 to 2 Years,2012,DETE
+205,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,36-40,5 to 6 Years,2012,DETE
+206,False,False,False,False,False,True,False,False,True,True,False,False,False,Male,51-55,7 to 10 Years,2012,DETE
+207,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56+,,2012,DETE
+208,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,11 to 20 Years,2012,DETE
+209,False,False,True,False,False,False,False,False,False,False,False,False,True,Female,46-50,7 to 10 Years,2012,DETE
+210,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,51-55,5 to 6 Years,2012,DETE
+211,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,20 Plus Years,2012,DETE
+212,False,False,False,False,False,True,False,False,False,False,True,False,False,Male,56+,11 to 20 Years,2012,DETE
+213,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,,2012,DETE
+214,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,1 to 2 Years,2012,DETE
+215,False,False,False,False,False,False,False,False,False,True,False,False,False,Male,51-55,1 to 2 Years,2012,DETE
+216,False,False,False,False,False,True,False,False,False,False,True,True,False,Female,51-55,20 Plus Years,2013,DETE
+217,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,11 to 20 Years,2013,DETE
+218,False,False,True,False,False,False,False,False,False,False,False,False,True,Female,51-55,11 to 20 Years,2012,DETE
+219,False,False,False,False,False,False,False,False,True,False,False,True,False,Female,56+,11 to 20 Years,2012,DETE
+220,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56+,1 to 2 Years,2012,DETE
+221,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,20 Plus Years,2012,DETE
+222,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,36-40,1 to 2 Years,2012,DETE
+223,False,False,False,False,True,False,True,False,False,True,False,False,False,Male,51-55,5 to 6 Years,2012,DETE
+224,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,36-40,3 to 4 Years,2012,DETE
+225,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,11 to 20 Years,2012,DETE
+226,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,26-30,1 to 2 Years,2012,DETE
+227,False,False,False,False,True,False,False,False,False,False,False,True,False,Male,46-50,3 to 4 Years,2012,DETE
+228,False,False,False,True,False,False,False,False,False,False,False,True,False,Male,56+,Under 1 Year,2012,DETE
+229,False,False,False,True,False,False,False,False,False,False,False,True,False,Female,56+,Under 1 Year,2012,DETE
+230,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,Under 1 Year,2012,DETE
+231,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,56+,7 to 10 Years,2012,DETE
+232,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,36-40,7 to 10 Years,2012,DETE
+233,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,46-50,11 to 20 Years,2012,DETE
+234,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,11 to 20 Years,2012,DETE
+235,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,21-25,3 to 4 Years,2012,DETE
+236,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,51-55,20 Plus Years,2012,DETE
+237,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,11 to 20 Years,2012,DETE
+238,False,True,False,False,False,False,False,False,False,False,False,True,False,Male,51-55,7 to 10 Years,2012,DETE
+239,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,11 to 20 Years,2012,DETE
+240,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,11 to 20 Years,2013,DETE
+241,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,56+,11 to 20 Years,2012,DETE
+242,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,51-55,11 to 20 Years,2013,DETE
+243,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,20 Plus Years,2012,DETE
+244,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,,2012,DETE
+245,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,11 to 20 Years,2012,DETE
+246,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,51-55,20 Plus Years,2012,DETE
+247,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,26-30,5 to 6 Years,2013,DETE
+248,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,31-35,1 to 2 Years,2012,DETE
+249,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,46-50,Under 1 Year,2012,DETE
+250,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,26-30,7 to 10 Years,2013,DETE
+251,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56+,3 to 4 Years,2012,DETE
+252,False,False,False,False,False,False,False,False,False,False,True,False,False,Male,56+,1 to 2 Years,2012,DETE
+253,False,False,False,False,False,False,False,False,False,False,True,False,True,Female,51-55,11 to 20 Years,2012,DETE
+254,False,True,False,True,False,False,False,False,False,False,False,True,False,Female,31-35,Under 1 Year,2012,DETE
+255,False,True,False,False,False,False,False,False,False,True,False,False,False,Female,46-50,Under 1 Year,2012,DETE
+256,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,46-50,7 to 10 Years,2012,DETE
+257,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,21-25,Under 1 Year,2012,DETE
+258,False,True,False,False,False,False,False,False,True,False,False,False,False,Female,26-30,5 to 6 Years,2012,DETE
+259,False,False,False,False,False,True,False,False,True,False,False,False,False,Male,41-45,3 to 4 Years,2012,DETE
+260,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,11 to 20 Years,2012,DETE
+261,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,56+,1 to 2 Years,2012,DETE
+262,False,True,False,False,False,False,False,False,False,False,False,True,False,Male,36-40,1 to 2 Years,2013,DETE
+263,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,21-25,1 to 2 Years,2013,DETE
+264,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,18-20,1 to 2 Years,2012,DETE
+265,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,5 to 6 Years,2012,DETE
+266,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,20 Plus Years,2013,DETE
+267,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,36-40,1 to 2 Years,2012,DETE
+268,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,31-35,Under 1 Year,2012,DETE
+269,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,26-30,1 to 2 Years,2012,DETE
+270,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,20 Plus Years,2012,DETE
+271,False,False,False,False,False,True,False,False,True,False,False,False,False,Male,56+,7 to 10 Years,2012,DETE
+272,False,False,True,False,False,False,False,False,False,False,True,False,False,Male,56+,20 Plus Years,2012,DETE
+273,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,5 to 6 Years,2012,DETE
+274,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,1 to 2 Years,2013,DETE
+275,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,7 to 10 Years,2012,DETE
+276,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,20 Plus Years,2012,DETE
+277,False,False,False,False,True,True,False,False,False,False,False,False,False,Female,56+,11 to 20 Years,2012,DETE
+278,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,31-35,1 to 2 Years,2012,DETE
+279,False,False,True,False,True,False,True,False,False,False,False,False,False,Female,56+,11 to 20 Years,2012,DETE
+280,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,51-55,11 to 20 Years,2012,DETE
+281,False,False,False,False,True,True,True,False,False,False,False,False,False,Female,51-55,20 Plus Years,2013,DETE
+282,False,True,False,False,False,False,False,False,False,True,False,False,False,Female,26-30,Under 1 Year,2012,DETE
+283,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,26-30,5 to 6 Years,2012,DETE
+284,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,31-35,3 to 4 Years,2012,DETE
+285,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,Under 1 Year,2012,DETE
+286,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,Under 1 Year,2012,DETE
+287,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,7 to 10 Years,2012,DETE
+288,False,False,False,False,False,True,False,False,True,False,True,False,False,Female,26-30,,2013,DETE
+289,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,56+,20 Plus Years,2012,DETE
+290,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,56+,11 to 20 Years,2013,DETE
+291,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,56+,,2013,DETE
+292,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,20 Plus Years,2013,DETE
+293,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,56+,,2012,DETE
+294,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,20 Plus Years,2013,DETE
+295,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,51-55,7 to 10 Years,2012,DETE
+296,False,True,False,False,False,False,False,False,False,False,False,False,False,Male,41-45,3 to 4 Years,2012,DETE
+297,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56+,11 to 20 Years,2012,DETE
+298,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,21-25,1 to 2 Years,2013,DETE
+299,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,11 to 20 Years,2012,DETE
+300,False,True,False,False,False,False,False,False,False,False,False,True,False,Female,51-55,11 to 20 Years,2012,DETE
+301,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,46-50,,2012,DETE
+302,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,20 Plus Years,2013,DETE
+303,False,False,False,False,False,True,False,False,True,False,False,False,False,Male,51-55,1 to 2 Years,2012,DETE
+304,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,46-50,3 to 4 Years,2013,DETE
+305,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,41-45,1 to 2 Years,2012,DETE
+306,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,21-25,1 to 2 Years,2012,DETE
+307,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,5 to 6 Years,2012,DETE
+308,False,False,False,False,False,False,False,False,True,True,True,False,False,Male,51-55,20 Plus Years,2013,DETE
+309,False,False,False,False,False,False,True,False,False,False,True,True,False,Female,51-55,3 to 4 Years,2012,DETE
+310,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,20 Plus Years,2013,DETE
+311,False,False,False,False,True,True,False,False,False,False,False,False,False,Male,36-40,5 to 6 Years,2013,DETE
+312,False,False,False,True,False,False,False,False,False,False,True,False,True,Female,36-40,1 to 2 Years,2013,DETE
+313,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,11 to 20 Years,2013,DETE
+314,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,7 to 10 Years,2013,DETE
+315,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56+,,2012,DETE
+316,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,,2012,DETE
+317,False,True,False,False,False,False,True,False,False,False,False,False,False,Male,41-45,20 Plus Years,2012,DETE
+318,False,False,False,False,False,True,False,False,False,False,True,True,False,Female,46-50,Under 1 Year,2012,DETE
+319,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,56+,20 Plus Years,2013,DETE
+320,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,26-30,1 to 2 Years,2012,DETE
+321,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,20 Plus Years,2013,DETE
+322,False,True,False,False,True,False,False,False,False,False,False,False,False,Male,26-30,5 to 6 Years,2013,DETE
+323,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,11 to 20 Years,2012,DETE
+324,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,21-25,1 to 2 Years,2012,DETE
+325,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,46-50,7 to 10 Years,2012,DETE
+326,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,36-40,3 to 4 Years,2012,DETE
+327,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,20 Plus Years,2012,DETE
+328,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,56+,3 to 4 Years,2013,DETE
+329,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,,,2013,DETE
+330,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,20 Plus Years,2012,DETE
+331,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,56+,11 to 20 Years,2012,DETE
+332,False,False,False,False,False,False,True,False,False,False,False,True,False,Female,21-25,1 to 2 Years,2012,DETE
+333,False,False,False,False,False,False,False,False,False,True,False,False,False,Female,51-55,Under 1 Year,2012,DETE
+334,False,False,False,False,False,True,False,False,False,False,False,True,False,Male,51-55,,2013,DETE
+335,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,21-25,Under 1 Year,2012,DETE
+336,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,,,2012,DETE
+337,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,51-55,11 to 20 Years,2013,DETE
+338,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,20 Plus Years,2012,DETE
+339,False,False,False,True,False,False,False,False,False,False,True,True,False,Male,56+,,2013,DETE
+340,False,False,False,True,False,False,False,False,False,False,False,True,False,Male,26-30,1 to 2 Years,2013,DETE
+341,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,11 to 20 Years,2013,DETE
+342,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,Under 1 Year,2012,DETE
+343,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,41-45,,2012,DETE
+344,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,11 to 20 Years,2013,DETE
+345,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,41-45,20 Plus Years,2012,DETE
+346,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,,2013,DETE
+347,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,3 to 4 Years,2012,DETE
+348,False,False,False,False,False,False,False,False,False,False,True,True,False,Male,56+,11 to 20 Years,2013,DETE
+349,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,51-55,,2013,DETE
+350,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,56+,20 Plus Years,2013,DETE
+351,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,20 Plus Years,2012,DETE
+352,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,,2013,DETE
+353,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,1 to 2 Years,2012,DETE
+354,False,True,False,False,False,False,False,False,False,False,True,False,False,Male,26-30,5 to 6 Years,2013,DETE
+355,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,20 Plus Years,2013,DETE
+356,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,31-35,1 to 2 Years,2013,DETE
+357,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,7 to 10 Years,2013,DETE
+358,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,20 Plus Years,2013,DETE
+359,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,20 Plus Years,2013,DETE
+360,False,False,False,False,False,False,False,False,False,True,False,False,False,Female,46-50,Under 1 Year,2012,DETE
+361,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,20 Plus Years,2013,DETE
+362,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,56+,11 to 20 Years,2013,DETE
+363,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,7 to 10 Years,2013,DETE
+364,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,46-50,,2012,DETE
+365,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,26-30,,2012,DETE
+366,False,True,False,False,False,False,False,False,True,False,False,False,False,Male,21-25,3 to 4 Years,2013,DETE
+367,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,21-25,1 to 2 Years,2013,DETE
+368,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,11 to 20 Years,2013,DETE
+369,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,20 Plus Years,2013,DETE
+370,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,26-30,Under 1 Year,2012,DETE
+371,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,Under 1 Year,2012,DETE
+372,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,,2012,DETE
+373,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56+,Under 1 Year,2012,DETE
+374,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,41-45,11 to 20 Years,2012,DETE
+375,False,False,False,False,False,False,False,False,False,True,False,False,False,Female,46-50,11 to 20 Years,2012,DETE
+376,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,46-50,5 to 6 Years,2012,DETE
+377,False,False,False,False,False,True,False,False,True,True,False,False,False,Female,46-50,,2012,DETE
+378,False,False,False,False,False,True,False,False,False,False,False,True,False,Male,51-55,20 Plus Years,2013,DETE
+379,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,26-30,,2012,DETE
+380,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,7 to 10 Years,2013,DETE
+381,False,True,False,False,False,False,False,False,True,False,False,False,True,Female,26-30,5 to 6 Years,2013,DETE
+382,False,False,True,False,False,False,False,False,False,False,False,True,False,Male,56+,3 to 4 Years,2012,DETE
+383,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56+,11 to 20 Years,2012,DETE
+384,False,False,False,False,False,True,False,False,False,False,True,False,False,Male,36-40,1 to 2 Years,2013,DETE
+385,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,11 to 20 Years,2013,DETE
+386,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,51-55,20 Plus Years,2013,DETE
+387,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,51-55,20 Plus Years,2013,DETE
+388,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,46-50,5 to 6 Years,2013,DETE
+389,True,False,False,False,False,False,False,False,False,False,False,True,False,Female,46-50,11 to 20 Years,2013,DETE
+390,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,46-50,20 Plus Years,2013,DETE
+391,False,True,False,False,False,True,True,False,False,False,False,False,False,Female,31-35,5 to 6 Years,2012,DETE
+392,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,56+,20 Plus Years,2013,DETE
+393,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,46-50,3 to 4 Years,2012,DETE
+394,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,20 Plus Years,2013,DETE
+395,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,20 Plus Years,2013,DETE
+396,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,51-55,20 Plus Years,2013,DETE
+397,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,11 to 20 Years,2013,DETE
+398,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,41-45,1 to 2 Years,2012,DETE
+399,False,False,False,False,False,True,False,False,False,False,False,False,False,Male,56+,,2013,DETE
+400,False,False,False,False,True,False,False,False,False,False,False,True,False,Female,56+,20 Plus Years,2013,DETE
+401,False,False,False,False,False,True,False,False,False,False,False,True,False,Female,56+,1 to 2 Years,2013,DETE
+402,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,20 Plus Years,2013,DETE
+403,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,46-50,5 to 6 Years,2013,DETE
+404,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,51-55,11 to 20 Years,2013,DETE
+405,False,False,False,True,False,False,True,False,False,False,False,False,False,Female,,,2012,DETE
+406,False,False,True,False,False,False,False,False,True,False,False,False,False,Female,56+,20 Plus Years,2013,DETE
+407,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,56+,1 to 2 Years,2013,DETE
+408,False,True,False,True,True,True,True,False,True,False,False,True,True,Female,26-30,5 to 6 Years,2012,DETE
+409,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,36-40,,2012,DETE
+410,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,26-30,5 to 6 Years,2013,DETE
+411,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56+,,2012,DETE
+412,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,41-45,3 to 4 Years,2013,DETE
+413,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,20 Plus Years,2012,DETE
+414,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,3 to 4 Years,2013,DETE
+415,True,False,False,False,False,False,True,False,False,False,False,False,False,Male,26-30,Under 1 Year,2013,DETE
+416,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56+,20 Plus Years,2012,DETE
+417,False,True,False,False,False,False,False,False,False,False,True,True,False,Female,41-45,1 to 2 Years,2013,DETE
+418,False,False,False,True,False,False,False,False,False,False,True,True,False,Male,56+,,2013,DETE
+419,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,1 to 2 Years,2013,DETE
+420,False,False,False,True,False,False,False,False,False,False,False,True,False,Female,56+,20 Plus Years,2013,DETE
+421,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,20 Plus Years,2013,DETE
+422,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,7 to 10 Years,2013,DETE
+423,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,31-35,1 to 2 Years,2013,DETE
+424,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,7 to 10 Years,2013,DETE
+425,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,26-30,3 to 4 Years,2013,DETE
+426,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,46-50,1 to 2 Years,2013,DETE
+427,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,7 to 10 Years,2013,DETE
+428,False,False,False,False,False,False,False,False,False,False,True,False,False,Female,56+,20 Plus Years,2013,DETE
+429,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56+,20 Plus Years,2013,DETE
+430,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,7 to 10 Years,2012,DETE
+431,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,11 to 20 Years,2013,DETE
+432,False,False,False,False,True,True,False,False,True,True,True,False,False,Female,26-30,3 to 4 Years,2013,DETE
+433,False,False,False,False,True,False,False,False,False,False,True,False,False,Female,46-50,11 to 20 Years,2013,DETE
+434,False,True,False,False,False,False,False,False,False,False,True,False,False,Female,26-30,3 to 4 Years,2013,DETE
+435,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,7 to 10 Years,2013,DETE
+436,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,46-50,11 to 20 Years,2013,DETE
+437,False,False,True,False,False,True,False,False,False,False,False,False,False,Female,31-35,11 to 20 Years,2013,DETE
+438,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,21-25,,2013,DETE
+439,False,False,False,False,True,False,False,False,True,False,False,False,False,Female,56+,3 to 4 Years,2012,DETE
+440,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,11 to 20 Years,2012,DETE
+441,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,31-35,3 to 4 Years,2013,DETE
+442,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,56+,,2013,DETE
+443,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,11 to 20 Years,2013,DETE
+444,False,False,False,False,False,True,False,False,False,False,False,False,False,Female,56+,7 to 10 Years,2013,DETE
+445,False,False,False,False,True,False,True,False,True,False,False,True,False,Male,56+,3 to 4 Years,2012,DETE
+446,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,11 to 20 Years,2013,DETE
+447,False,True,False,False,True,False,False,False,False,False,False,False,False,Male,31-35,1 to 2 Years,2012,DETE
+448,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56+,7 to 10 Years,2013,DETE
+449,False,False,False,False,True,False,False,False,False,False,False,False,False,Male,36-40,,2012,DETE
+450,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,56+,20 Plus Years,2013,DETE
+451,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,21-25,1 to 2 Years,2013,DETE
+452,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,41-45,5 to 6 Years,2013,DETE
+453,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,,2013,DETE
+454,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,Under 1 Year,2013,DETE
+455,False,False,True,False,False,True,False,False,False,False,True,True,False,Female,26-30,3 to 4 Years,2013,DETE
+456,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,21-25,Under 1 Year,2013,DETE
+457,False,False,True,False,False,True,False,False,False,False,True,False,False,Female,56+,20 Plus Years,2013,DETE
+458,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,56+,20 Plus Years,2013,DETE
+459,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,Under 1 Year,2012,DETE
+460,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,3 to 4 Years,2013,DETE
+461,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,51-55,3 to 4 Years,2013,DETE
+462,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,20 Plus Years,2013,DETE
+463,False,False,True,False,False,False,False,False,False,False,True,True,False,Female,41-45,,2013,DETE
+464,False,False,False,False,False,False,False,False,False,True,False,False,False,Female,36-40,11 to 20 Years,2013,DETE
+465,False,False,True,False,False,False,False,False,False,False,False,True,False,Female,56+,5 to 6 Years,2013,DETE
+466,False,False,False,True,False,False,False,False,False,False,False,True,False,Female,41-45,Under 1 Year,2013,DETE
+467,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,,2012,DETE
+468,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56+,11 to 20 Years,2013,DETE
+469,False,True,False,False,False,False,False,False,False,False,False,True,False,Female,21-25,Under 1 Year,2013,DETE
+470,False,False,True,False,False,False,False,False,False,False,False,True,False,Female,46-50,Under 1 Year,2013,DETE
+471,False,False,False,False,False,False,True,False,False,False,True,False,False,Female,56+,,2013,DETE
+472,False,False,False,False,False,True,False,False,False,False,True,True,False,Female,56+,11 to 20 Years,2013,DETE
+473,False,False,False,False,True,True,False,False,True,False,False,True,False,Female,51-55,11 to 20 Years,2013,DETE
+474,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56+,3 to 4 Years,2013,DETE
+475,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56+,7 to 10 Years,2013,DETE
+476,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,51-55,1 to 2 Years,2013,DETE
+477,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,46-50,7 to 10 Years,2013,DETE
+478,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,,2013,DETE
+479,False,False,False,True,False,False,False,False,False,False,False,True,False,Female,26-30,Under 1 Year,2013,DETE
+480,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56+,20 Plus Years,2013,DETE
+481,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,41-45,20 Plus Years,2012,DETE
+482,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,5 to 6 Years,2013,DETE
+483,False,False,False,False,False,False,False,True,False,False,True,False,False,Female,56+,3 to 4 Years,2013,DETE
+484,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,20 Plus Years,2013,DETE
+485,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,46-50,1 to 2 Years,2012,DETE
+486,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,41-45,11 to 20 Years,2013,DETE
+487,False,False,True,False,False,False,True,False,False,False,False,False,False,Female,56+,1 to 2 Years,2012,DETE
+488,False,False,True,False,False,False,False,False,False,False,False,True,False,Female,56+,20 Plus Years,2013,DETE
+489,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,46-50,,2012,DETE
+490,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,56+,1 to 2 Years,2013,DETE
+491,False,False,True,False,False,False,False,False,False,False,False,True,False,Female,56+,7 to 10 Years,2013,DETE
+492,False,False,False,False,False,True,False,False,False,False,False,False,False,Female,56+,5 to 6 Years,2013,DETE
+493,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,11 to 20 Years,2013,DETE
+494,False,True,False,False,False,True,False,False,False,False,True,False,False,Female,56+,20 Plus Years,2012,DETE
+495,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,46-50,1 to 2 Years,2013,DETE
+496,False,False,True,False,False,False,False,False,False,False,True,True,False,Male,51-55,1 to 2 Years,2013,DETE
+497,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,36-40,3 to 4 Years,2013,DETE
+498,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,51-55,3 to 4 Years,2013,DETE
+499,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,26-30,Under 1 Year,2013,DETE
+500,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,31-35,11 to 20 Years,2013,DETE
+501,False,False,True,False,False,False,False,False,False,False,True,False,False,Female,56+,20 Plus Years,2013,DETE
+502,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56+,20 Plus Years,2013,DETE
+503,False,False,False,False,False,True,False,False,False,False,True,False,False,Male,56+,Under 1 Year,2013,DETE
+504,False,True,False,False,False,False,False,False,False,False,False,False,False,Male,36-40,1 to 2 Years,2013,DETE
+505,False,False,False,True,False,False,False,False,False,False,False,True,False,Female,46-50,,2013,DETE
+506,True,False,True,False,True,False,False,False,False,False,False,False,False,Female,21-25,3 to 4 Years,2013,DETE
+507,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,46-50,11 to 20 Years,2013,DETE
+508,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56+,,2013,DETE
+509,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,51-55,11 to 20 Years,2013,DETE
+510,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,36-40,Under 1 Year,2013,DETE
+511,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,20 Plus Years,2013,DETE
+512,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,56+,20 Plus Years,2014,DETE
+513,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,20 Plus Years,2013,DETE
+514,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,7 to 10 Years,2013,DETE
+515,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,11 to 20 Years,2013,DETE
+516,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,20 Plus Years,2012,DETE
+517,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,31-35,3 to 4 Years,2010,DETE
+518,False,False,False,False,False,False,False,False,False,False,True,True,False,Male,56+,20 Plus Years,2012,DETE
+519,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,20 Plus Years,2013,DETE
+520,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,51-55,11 to 20 Years,2013,DETE
+521,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,20 Plus Years,2013,DETE
+522,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,56+,11 to 20 Years,2013,DETE
+523,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56+,11 to 20 Years,2013,DETE
+524,False,False,False,False,False,False,False,False,True,False,True,True,False,Female,56+,3 to 4 Years,2012,DETE
+525,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,11 to 20 Years,2013,DETE
+526,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,1 to 2 Years,2013,DETE
+527,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,20 Plus Years,2012,DETE
+528,False,False,True,False,True,True,False,False,False,False,False,False,False,Male,56+,20 Plus Years,2012,DETE
+529,False,False,False,False,False,True,False,False,False,False,False,False,False,Male,56+,,2013,DETE
+530,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,20 Plus Years,2013,DETE
+531,False,False,False,True,False,False,False,False,False,False,False,True,False,Female,56+,,2013,DETE
+532,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,56+,11 to 20 Years,2013,DETE
+533,False,True,False,False,False,False,False,False,False,False,False,False,False,Male,36-40,1 to 2 Years,2013,DETE
+534,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56+,3 to 4 Years,2012,DETE
+535,False,False,False,True,True,False,False,False,False,False,False,False,False,Female,56+,11 to 20 Years,2013,DETE
+536,False,False,False,False,False,False,False,False,True,False,False,False,False,Female,46-50,1 to 2 Years,2013,DETE
+537,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,11 to 20 Years,2013,DETE
+538,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,26-30,,2013,DETE
+539,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,51-55,3 to 4 Years,2013,DETE
+540,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,46-50,7 to 10 Years,2013,DETE
+541,False,False,False,False,False,True,False,False,True,False,False,False,False,Female,41-45,1 to 2 Years,2013,DETE
+542,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,5 to 6 Years,2013,DETE
+543,True,False,False,True,False,False,False,False,False,False,False,False,False,Female,21-25,1 to 2 Years,2013,DETE
+544,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,3 to 4 Years,2013,DETE
+545,False,False,False,False,False,False,False,False,False,False,True,False,False,Male,56+,11 to 20 Years,2013,DETE
+546,False,False,True,True,False,False,False,False,False,False,False,False,False,Male,56+,3 to 4 Years,2013,DETE
+547,True,False,False,False,True,True,False,False,False,False,False,False,False,Female,41-45,1 to 2 Years,2013,DETE
+548,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,20 Plus Years,2013,DETE
+549,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,51-55,20 Plus Years,2013,DETE
+550,False,False,False,True,False,False,False,False,False,False,False,False,False,Male,36-40,7 to 10 Years,2013,DETE
+551,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,41-45,1 to 2 Years,2013,DETE
+552,False,False,False,False,True,False,False,False,False,False,True,True,False,Female,56+,Under 1 Year,2013,DETE
+553,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,11 to 20 Years,2013,DETE
+554,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,,2012,DETE
+555,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,20 Plus Years,2013,DETE
+556,False,False,True,False,False,False,False,False,False,False,False,True,False,Female,56+,3 to 4 Years,2013,DETE
+557,False,False,False,False,False,False,False,False,True,False,True,True,False,Female,21-25,1 to 2 Years,2013,DETE
+558,False,False,False,False,True,False,False,False,False,True,False,False,False,Male,56+,7 to 10 Years,2013,DETE
+559,False,False,False,False,False,False,True,False,False,False,False,False,False,Female,56+,11 to 20 Years,2013,DETE
+560,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,1 to 2 Years,2013,DETE
+561,False,False,False,False,False,False,True,False,True,False,True,True,False,Male,56+,11 to 20 Years,2013,DETE
+562,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,1 to 2 Years,2013,DETE
+563,False,False,False,False,True,False,False,False,True,False,True,True,False,Female,41-45,1 to 2 Years,2013,DETE
+564,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,51-55,11 to 20 Years,2013,DETE
+565,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,51-55,11 to 20 Years,2013,DETE
+566,False,False,False,False,False,True,False,False,False,False,False,True,False,Male,56+,20 Plus Years,2013,DETE
+567,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,56+,1 to 2 Years,2013,DETE
+568,False,True,False,True,False,False,False,False,False,False,False,True,False,Female,46-50,,2013,DETE
+569,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,31-35,3 to 4 Years,2013,DETE
+570,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,41-45,7 to 10 Years,2013,DETE
+571,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,5 to 6 Years,2013,DETE
+572,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,,2013,DETE
+573,False,False,True,False,True,False,False,False,False,False,False,False,True,Female,41-45,1 to 2 Years,2013,DETE
+574,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,5 to 6 Years,2013,DETE
+575,False,False,False,True,False,False,False,False,False,False,False,True,False,Female,31-35,7 to 10 Years,2013,DETE
+576,False,True,False,True,False,False,False,False,False,False,False,False,False,Female,26-30,,2013,DETE
+577,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,36-40,11 to 20 Years,2013,DETE
+578,False,False,False,False,True,False,False,False,True,False,False,False,False,Male,56+,7 to 10 Years,2013,DETE
+579,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,56+,7 to 10 Years,2013,DETE
+580,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,20 Plus Years,2013,DETE
+581,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,11 to 20 Years,2013,DETE
+582,False,False,True,False,False,False,False,False,False,False,False,True,False,Female,56+,11 to 20 Years,2013,DETE
+583,False,False,False,False,False,True,True,False,False,False,False,False,False,Female,56+,20 Plus Years,2013,DETE
+584,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,51-55,5 to 6 Years,2013,DETE
+585,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,21-25,Under 1 Year,2013,DETE
+586,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,51-55,7 to 10 Years,2010,DETE
+587,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,11 to 20 Years,2013,DETE
+588,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,31-35,1 to 2 Years,2013,DETE
+589,False,False,False,False,False,False,True,False,False,False,True,False,False,Male,56+,20 Plus Years,2013,DETE
+590,False,False,False,False,True,False,False,False,True,False,True,False,False,Female,31-35,1 to 2 Years,2014,DETE
+591,False,False,True,False,False,False,False,False,False,False,True,False,False,Female,51-55,11 to 20 Years,2013,DETE
+592,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,3 to 4 Years,2013,DETE
+593,False,False,True,True,False,True,False,False,False,False,True,True,False,Female,36-40,3 to 4 Years,2013,DETE
+594,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56+,,2013,DETE
+595,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,7 to 10 Years,2013,DETE
+596,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,11 to 20 Years,2013,DETE
+597,False,False,False,False,False,False,False,False,False,False,True,False,False,Male,56+,20 Plus Years,2013,DETE
+598,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,20 Plus Years,2013,DETE
+599,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,11 to 20 Years,2013,DETE
+600,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,,2013,DETE
+601,False,False,False,False,False,True,True,False,False,False,False,False,False,Female,26-30,3 to 4 Years,2013,DETE
+602,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,5 to 6 Years,2013,DETE
+603,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,36-40,Under 1 Year,2013,DETE
+604,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56+,11 to 20 Years,2013,DETE
+605,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,3 to 4 Years,2013,DETE
+606,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,11 to 20 Years,2013,DETE
+607,False,False,False,False,True,True,False,False,False,False,False,False,False,Female,31-35,1 to 2 Years,2013,DETE
+608,False,False,False,False,True,False,False,False,False,False,False,True,False,Female,31-35,1 to 2 Years,2013,DETE
+609,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,56+,Under 1 Year,2012,DETE
+610,False,False,False,False,False,True,False,False,False,False,False,False,False,Female,56+,20 Plus Years,2013,DETE
+611,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,56+,20 Plus Years,2013,DETE
+612,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,51-55,11 to 20 Years,2013,DETE
+613,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,26-30,3 to 4 Years,2013,DETE
+614,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,11 to 20 Years,2013,DETE
+615,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,51-55,11 to 20 Years,2013,DETE
+616,False,False,False,False,False,False,False,False,False,False,False,True,True,Female,56+,20 Plus Years,2013,DETE
+617,False,False,False,False,False,True,False,False,True,False,True,False,False,Female,51-55,5 to 6 Years,2013,DETE
+618,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,11 to 20 Years,2013,DETE
+619,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,7 to 10 Years,2013,DETE
+620,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,11 to 20 Years,2013,DETE
+621,False,False,False,True,True,False,False,False,False,False,False,False,False,Female,51-55,1 to 2 Years,2013,DETE
+622,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,5 to 6 Years,2013,DETE
+623,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,5 to 6 Years,2013,DETE
+624,False,False,False,False,True,False,False,False,False,False,False,False,False,Female,56+,7 to 10 Years,2013,DETE
+625,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,41-45,1 to 2 Years,2013,DETE
+626,False,True,False,False,False,True,False,False,False,False,False,False,False,Female,26-30,3 to 4 Years,2013,DETE
+627,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56+,11 to 20 Years,2013,DETE
+628,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,7 to 10 Years,2014,DETE
+629,False,False,False,False,True,False,True,False,True,False,False,False,False,Female,56+,20 Plus Years,2013,DETE
+630,False,False,True,False,False,False,False,False,False,False,False,True,False,Female,56+,5 to 6 Years,2013,DETE
+631,False,False,True,False,False,False,False,False,False,False,False,False,True,Male,41-45,5 to 6 Years,2013,DETE
+632,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,Under 1 Year,2013,DETE
+633,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56+,20 Plus Years,2013,DETE
+634,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,20 Plus Years,2013,DETE
+635,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,51-55,20 Plus Years,2013,DETE
+636,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,11 to 20 Years,2014,DETE
+637,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,Under 1 Year,2013,DETE
+638,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,56+,20 Plus Years,2014,DETE
+639,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,7 to 10 Years,2013,DETE
+640,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,41-45,5 to 6 Years,2013,DETE
+641,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,3 to 4 Years,2013,DETE
+642,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,31-35,3 to 4 Years,2013,DETE
+643,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56+,3 to 4 Years,2013,DETE
+644,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,5 to 6 Years,2013,DETE
+645,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,11 to 20 Years,2013,DETE
+646,False,False,False,False,True,True,False,False,True,False,False,False,False,Male,51-55,11 to 20 Years,2013,DETE
+647,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,51-55,11 to 20 Years,2013,DETE
+648,False,True,False,False,True,True,False,True,False,False,False,False,False,Female,51-55,3 to 4 Years,2013,DETE
+649,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,51-55,5 to 6 Years,2013,DETE
+650,False,True,False,False,False,False,True,False,False,False,False,False,False,Female,56+,7 to 10 Years,2013,DETE
+651,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,51-55,1 to 2 Years,2013,DETE
+652,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,56+,11 to 20 Years,2013,DETE
+653,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56+,Under 1 Year,2013,DETE
+654,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,11 to 20 Years,2014,DETE
+655,False,False,True,False,False,False,False,False,False,False,False,True,False,Male,56+,11 to 20 Years,2013,DETE
+656,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,26-30,1 to 2 Years,2013,DETE
+657,False,False,True,True,False,False,False,False,False,False,False,True,False,Female,51-55,20 Plus Years,2013,DETE
+658,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,56+,11 to 20 Years,2013,DETE
+659,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,,2013,DETE
+660,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,,2013,DETE
+661,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,3 to 4 Years,2014,DETE
+662,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,46-50,,2013,DETE
+663,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,,2013,DETE
+664,True,False,False,False,False,False,False,False,False,False,False,True,False,Male,46-50,1 to 2 Years,2014,DETE
+665,False,False,False,False,True,True,False,False,True,False,False,True,False,Female,,11 to 20 Years,2014,DETE
+666,False,True,False,False,False,False,False,False,False,False,False,False,False,Male,21-25,1 to 2 Years,2014,DETE
+667,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,1 to 2 Years,2013,DETE
+668,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,11 to 20 Years,2014,DETE
+669,False,True,False,False,False,True,False,False,False,False,False,False,False,Female,26-30,Under 1 Year,2013,DETE
+670,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,21-25,Under 1 Year,2013,DETE
+671,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,3 to 4 Years,2013,DETE
+672,False,False,False,False,True,False,False,False,False,False,True,True,False,Female,56+,11 to 20 Years,2014,DETE
+673,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,Under 1 Year,2013,DETE
+674,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,51-55,11 to 20 Years,2013,DETE
+675,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,20 Plus Years,2013,DETE
+676,False,True,False,False,False,False,False,False,True,False,False,False,False,Female,26-30,3 to 4 Years,2014,DETE
+677,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56+,20 Plus Years,2013,DETE
+678,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,1 to 2 Years,2013,DETE
+679,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56+,11 to 20 Years,2013,DETE
+680,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,21-25,Under 1 Year,2013,DETE
+681,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,51-55,11 to 20 Years,2014,DETE
+682,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,46-50,20 Plus Years,2013,DETE
+683,False,True,False,False,False,False,False,False,True,False,False,False,False,Male,21-25,,2012,DETE
+684,False,False,False,False,False,False,True,False,False,False,False,False,False,Female,46-50,7 to 10 Years,2013,DETE
+685,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,56+,3 to 4 Years,2014,DETE
+686,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56+,,2013,DETE
+687,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,46-50,Under 1 Year,2013,DETE
+688,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,11 to 20 Years,2013,DETE
+689,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,,2012,DETE
+690,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,31-35,7 to 10 Years,2014,DETE
+691,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,1 to 2 Years,2014,DETE
+692,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,21-25,1 to 2 Years,2013,DETE
+693,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,41-45,3 to 4 Years,2014,DETE
+694,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,46-50,,2012,DETE
+695,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,56+,1 to 2 Years,2013,DETE
+696,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,26-30,5 to 6 Years,2013,DETE
+697,False,False,False,False,False,False,False,False,True,False,True,True,False,Female,51-55,20 Plus Years,2013,DETE
+698,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,41-45,3 to 4 Years,2013,DETE
+699,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,56+,,2012,DETE
+700,True,False,False,False,False,False,False,False,False,False,False,False,False,Male,21-25,Under 1 Year,2013,DETE
+701,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,46-50,20 Plus Years,2013,DETE
+702,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56+,7 to 10 Years,2013,DETE
+703,False,False,False,False,True,False,True,False,False,False,False,False,False,Female,51-55,Under 1 Year,2013,DETE
+704,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,,2012,DETE
+705,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56+,,2013,DETE
+706,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56+,20 Plus Years,2013,DETE
+707,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,41-45,5 to 6 Years,2013,DETE
+708,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,,,2012,DETE
+709,False,True,False,False,False,False,False,False,False,False,True,True,False,Female,51-55,,2012,DETE
+710,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,56+,20 Plus Years,2013,DETE
+711,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,56+,20 Plus Years,2014,DETE
+712,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,56+,,2013,DETE
+713,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56+,11 to 20 Years,2013,DETE
+714,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,56+,20 Plus Years,2013,DETE
+715,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,Under 1 Year,2013,DETE
+716,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,51-55,11 to 20 Years,2013,DETE
+717,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,7 to 10 Years,2013,DETE
+718,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,41-45,,2012,DETE
+719,False,False,False,False,False,False,True,False,True,True,False,False,False,Male,26-30,Under 1 Year,2013,DETE
+720,False,False,False,False,False,False,False,False,False,False,False,False,False,Male,31-35,Under 1 Year,2013,DETE
+721,False,True,False,False,False,False,False,False,False,True,False,False,False,Male,21-25,Under 1 Year,2013,DETE
+722,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,51-55,Under 1 Year,2013,DETE
+723,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,31-35,Under 1 Year,2013,DETE
+724,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,46-50,,2012,DETE
+725,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,26-30,,2012,DETE
+726,False,False,False,False,False,False,False,False,False,True,False,True,False,Male,56+,20 Plus Years,2014,DETE
+727,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,51-55,11 to 20 Years,2014,DETE
+728,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,56+,1 to 2 Years,2014,DETE
+729,False,False,False,False,True,False,True,False,False,False,False,True,False,Male,56+,,2012,DETE
+730,False,False,False,False,False,False,False,False,False,True,False,False,False,Female,46-50,11 to 20 Years,2013,DETE
+731,False,False,False,False,True,False,False,False,True,False,True,False,False,Male,56+,11 to 20 Years,2014,DETE
+732,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,56+,20 Plus Years,2014,DETE
+733,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,,2012,DETE
+734,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,20 Plus Years,2013,DETE
+735,False,False,True,True,False,False,False,False,False,False,False,False,False,Female,56+,,2013,DETE
+736,False,False,True,False,False,False,False,False,False,False,False,True,False,Female,56+,11 to 20 Years,2013,DETE
+737,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,56+,7 to 10 Years,2013,DETE
+738,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,56+,11 to 20 Years,2013,DETE
+739,False,False,False,True,False,False,False,False,False,False,False,True,False,Female,56+,,2012,DETE
+740,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,56+,,2012,DETE
+741,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,11 to 20 Years,2014,DETE
+742,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,51-55,11 to 20 Years,2014,DETE
+743,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,1 to 2 Years,2014,DETE
+744,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,7 to 10 Years,2013,DETE
+745,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,,2012,DETE
+746,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,56+,11 to 20 Years,2014,DETE
+747,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,41-45,5 to 6 Years,2014,DETE
+748,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,11 to 20 Years,2013,DETE
+749,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,51-55,,2012,DETE
+750,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,20 Plus Years,2014,DETE
+751,False,False,False,False,False,True,False,False,False,False,False,False,False,Male,56+,7 to 10 Years,2013,DETE
+752,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,46-50,,2013,DETE
+753,False,False,True,False,False,True,False,False,False,False,False,True,False,Female,31-35,1 to 2 Years,2013,DETE
+754,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,,2012,DETE
+755,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,41-45,Under 1 Year,2013,DETE
+756,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,11 to 20 Years,2013,DETE
+757,False,False,False,False,True,True,False,False,False,False,False,True,False,Male,56+,20 Plus Years,2014,DETE
+758,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,56+,11 to 20 Years,2013,DETE
+759,False,False,False,False,True,True,False,False,False,False,False,False,False,Female,51-55,11 to 20 Years,2013,DETE
+760,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,,2012,DETE
+761,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,51-55,,2013,DETE
+762,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,Under 1 Year,2006,DETE
+763,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,7 to 10 Years,2013,DETE
+764,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,51-55,,2012,DETE
+765,False,False,False,False,False,True,False,False,True,False,False,True,False,Male,51-55,20 Plus Years,2014,DETE
+766,False,True,False,False,False,False,False,False,False,False,False,False,False,Male,26-30,7 to 10 Years,2014,DETE
+767,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,56+,20 Plus Years,2013,DETE
+768,False,False,True,False,True,True,False,False,False,False,True,True,True,Male,56+,20 Plus Years,2014,DETE
+769,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,46-50,,2013,DETE
+770,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,,2012,DETE
+771,False,True,False,False,False,False,False,False,False,False,False,False,False,Male,36-40,7 to 10 Years,2014,DETE
+772,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,56+,7 to 10 Years,2013,DETE
+773,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,,2012,DETE
+774,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,41-45,,2012,DETE
+775,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,,2013,DETE
+776,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,31-35,,2012,DETE
+777,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,,2012,DETE
+778,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,20 Plus Years,2013,DETE
+779,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,20 Plus Years,2013,DETE
+780,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,,2013,DETE
+781,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,56+,,2013,DETE
+782,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,5 to 6 Years,2013,DETE
+783,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,,2013,DETE
+784,False,True,False,False,False,True,False,False,True,False,False,True,False,Female,21-25,Under 1 Year,2013,DETE
+785,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,,2014,DETE
+786,False,True,False,False,False,True,False,False,False,True,False,False,False,Female,41-45,5 to 6 Years,2014,DETE
+787,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,,2014,DETE
+788,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,,2012,DETE
+789,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,51-55,11 to 20 Years,2014,DETE
+790,False,False,False,False,False,False,False,False,True,False,True,False,False,Male,36-40,5 to 6 Years,2014,DETE
+791,False,False,False,False,False,False,False,False,True,False,False,False,False,Female,46-50,,2012,DETE
+792,False,False,True,False,True,False,False,False,True,False,False,False,False,Female,56+,,2012,DETE
+793,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,56+,7 to 10 Years,2013,DETE
+794,True,False,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,,2013,DETE
+795,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,56+,,2012,DETE
+796,False,False,False,False,False,False,False,False,False,False,False,True,False,Male,56+,,2012,DETE
+797,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,36-40,,2012,DETE
+798,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,36-40,,2012,DETE
+799,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,51-55,,2012,DETE
+800,False,False,True,False,False,False,False,False,False,False,False,True,False,Female,21-25,3 to 4 Years,2014,DETE
+801,False,False,True,False,False,False,False,False,False,False,False,False,False,Male,56+,20 Plus Years,2014,DETE
+802,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,,2013,DETE
+803,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,46-50,7 to 10 Years,2014,DETE
+804,False,True,False,False,False,False,False,False,False,False,False,False,False,Female,26-30,1 to 2 Years,2014,DETE
+805,False,False,False,False,False,False,False,False,False,False,False,True,False,Female,56+,,2012,DETE
+806,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,41-45,7 to 10 Years,2013,DETE
+807,False,False,False,False,True,False,False,False,False,False,False,True,False,Female,36-40,7 to 10 Years,2013,DETE
+808,False,False,False,True,False,False,False,False,False,False,False,False,False,Female,26-30,3 to 4 Years,2013,DETE
+809,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,51-55,7 to 10 Years,2014,DETE
+810,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,,2012,DETE
+811,False,False,False,False,False,False,True,False,False,False,True,True,False,Female,41-45,3 to 4 Years,2013,DETE
+812,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,56+,7 to 10 Years,2014,DETE
+813,False,False,False,False,False,False,False,False,False,False,True,True,False,Female,56+,5 to 6 Years,2013,DETE
+814,False,False,False,False,False,False,False,True,False,False,False,False,False,Female,56+,,2013,DETE
+815,False,True,False,False,False,False,False,False,False,False,False,False,False,Male,21-25,1 to 2 Years,2014,DETE
+816,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,21-25,1 to 2 Years,2014,DETE
+817,False,False,True,True,False,False,False,False,False,False,True,False,False,Female,56+,11 to 20 Years,2014,DETE
+818,False,False,False,False,False,False,False,True,False,False,False,False,False,Male,51-55,20 Plus Years,2014,DETE
+819,False,False,False,True,False,False,False,False,False,False,False,True,False,Female,31-35,5 to 6 Years,2014,DETE
+820,False,False,True,False,False,False,False,False,False,False,False,False,False,Female,41-45,3 to 4 Years,2013,DETE
+821,False,False,False,False,False,False,False,False,False,False,False,False,False,Female,,,2013,DETE
